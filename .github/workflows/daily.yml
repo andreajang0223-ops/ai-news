@@ -1,0 +1,35 @@
+name: daily-ai-news
+
+on:
+  schedule:
+    - cron: "0 23 * * *"   # UTC 23:00 = 台北時間早上 07:00
+  workflow_dispatch: {}      # 允許手動觸發,方便測試
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安裝套件
+        run: pip install -r requirements.txt
+
+      - name: 抓取並摘要新聞
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/fetch_news.py
+
+      - name: 提交更新
+        run: |
+          git config user.name "news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "news: $(date -u +%F)"
+          git push

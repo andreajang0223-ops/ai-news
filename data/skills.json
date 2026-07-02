@@ -1,0 +1,96 @@
+{
+  "updated": "2026-07-02",
+  "categories": ["生成式 AI 工具", "AI 開發", "設計 AI", "自動化與腳本"],
+  "skills": [
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "category": "AI 開發",
+      "level": 4,
+      "last_used": "2026-06-28",
+      "keywords": ["claude code", "anthropic", "agentic coding", "cli"],
+      "note": "已在 Windows 建好工作流程",
+      "todo": []
+    },
+    {
+      "id": "claude-api",
+      "name": "Claude API",
+      "category": "AI 開發",
+      "level": 3,
+      "last_used": "2026-06-20",
+      "keywords": ["claude api", "anthropic api", "messages api", "tool use"],
+      "note": "用於畢製 App 的 AI 整合",
+      "todo": ["研究 batch processing 降低成本"]
+    },
+    {
+      "id": "gemini",
+      "name": "Google Gemini",
+      "category": "生成式 AI 工具",
+      "level": 4,
+      "last_used": "2026-06-25",
+      "keywords": ["gemini", "google ai", "google deepmind"],
+      "note": "持有 Gemini Certified Educator 認證",
+      "todo": []
+    },
+    {
+      "id": "imagen",
+      "name": "AI 圖像生成",
+      "category": "設計 AI",
+      "level": 3,
+      "last_used": "2026-06-15",
+      "keywords": ["imagen", "midjourney", "stable diffusion", "image generation", "文生圖"],
+      "note": "布袋戲偶風格轉換實驗",
+      "todo": ["練習 ControlNet 類的構圖控制"]
+    },
+    {
+      "id": "python-automation",
+      "name": "Python 文件自動化",
+      "category": "自動化與腳本",
+      "level": 4,
+      "last_used": "2026-06-30",
+      "keywords": ["python", "reportlab", "weasyprint", "graphviz", "automation"],
+      "note": "ReportLab / WeasyPrint 產出報告的固定流程",
+      "todo": []
+    },
+    {
+      "id": "webgl",
+      "name": "Three.js / WebGL",
+      "category": "AI 開發",
+      "level": 3,
+      "last_used": "2026-05-20",
+      "keywords": ["three.js", "webgl", "shader", "gpu"],
+      "note": "墨流し流體模擬專案",
+      "todo": []
+    },
+    {
+      "id": "flutter-ai",
+      "name": "Flutter × AI 整合",
+      "category": "AI 開發",
+      "level": 2,
+      "last_used": "2026-06-10",
+      "keywords": ["flutter", "dart", "mobile ai"],
+      "note": "掌中乾坤畢製 App",
+      "todo": ["3D 模型即時調整的效能優化"]
+    },
+    {
+      "id": "fusion-mcp",
+      "name": "Fusion 360 + MCP",
+      "category": "自動化與腳本",
+      "level": 2,
+      "last_used": "2026-05-30",
+      "keywords": ["fusion 360", "mcp", "model context protocol", "cad"],
+      "note": "眠眠展覽裝置的 3D 建模",
+      "todo": []
+    },
+    {
+      "id": "prompt-engineering",
+      "name": "Prompt 設計",
+      "category": "生成式 AI 工具",
+      "level": 4,
+      "last_used": "2026-07-01",
+      "keywords": ["prompt engineering", "prompt", "system prompt", "提示詞"],
+      "note": "",
+      "todo": []
+    }
+  ]
+}

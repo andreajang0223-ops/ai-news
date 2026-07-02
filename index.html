@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 觀測誌</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;600&family=Noto+Sans+TC:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F4F4EF;
+  --ink:#21201C;
+  --ash:#8A877E;
+  --indigo:#33518F;
+  --cinnabar:#BC4626;
+  --hairline:#DCDAD2;
+  --card:#FBFBF8;
+  --serif:"Noto Serif TC",serif;
+  --sans:"Noto Sans TC",sans-serif;
+  --mono:"IBM Plex Mono",monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.75;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+button{font-family:inherit;cursor:pointer}
+
+/* ── 頁首 ── */
+header{max-width:860px;margin:0 auto;padding:44px 24px 0}
+.brand{font-family:var(--mono);font-size:11px;letter-spacing:.22em;color:var(--ash)}
+.masthead{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;
+  border-bottom:1px solid var(--ink);padding:10px 0 18px;flex-wrap:wrap}
+h1{font-family:var(--serif);font-weight:600;font-size:34px;letter-spacing:.06em;line-height:1.2}
+.volume{font-family:var(--mono);font-size:12px;color:var(--ash);text-align:right;line-height:1.9}
+.volume b{color:var(--ink);font-weight:500}
+
+nav{display:flex;gap:0;margin-top:14px}
+nav button{background:none;border:none;border-bottom:2px solid transparent;
+  font-size:15px;letter-spacing:.12em;padding:8px 2px;margin-right:28px;color:var(--ash)}
+nav button.on{color:var(--ink);border-bottom-color:var(--cinnabar)}
+nav button:focus-visible{outline:2px solid var(--indigo);outline-offset:3px}
+
+main{max-width:860px;margin:0 auto;padding:26px 24px 90px}
+
+/* ── 篩選列 ── */
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:26px}
+.chip{border:1px solid var(--hairline);background:var(--card);border-radius:999px;
+  font-size:13px;padding:4px 14px;color:var(--ash);transition:border-color .15s,color .15s}
+.chip.on{border-color:var(--indigo);color:var(--indigo)}
+.chip:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}
+
+/* ── 新聞卡片 ── */
+.news{display:flex;flex-direction:column;gap:14px}
+article{background:var(--card);border:1px solid var(--hairline);border-radius:10px;padding:20px 22px}
+.meta{display:flex;justify-content:space-between;gap:12px;font-family:var(--mono);
+  font-size:11px;color:var(--ash);letter-spacing:.05em;margin-bottom:8px}
+article h2{font-family:var(--serif);font-weight:500;font-size:19px;line-height:1.55;margin-bottom:8px}
+article h2 a:hover{color:var(--indigo)}
+.summary{color:#4C4A44;font-size:14.5px}
+.foot{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:14px;flex-wrap:wrap}
+
+/* 五格印:重要度 */
+.grade{display:flex;gap:4px}
+.grade i{width:9px;height:9px;border:1px solid var(--hairline);border-radius:2px;background:transparent}
+.grade i.f{background:var(--cinnabar);border-color:var(--cinnabar)}
+
+.tags{display:flex;gap:6px;flex-wrap:wrap}
+.tag{border:none;background:none;font-size:12px;color:var(--indigo);
+  border-bottom:1px dotted var(--indigo);padding:0 1px}
+.cat{font-size:12px;color:var(--ash);border:1px solid var(--hairline);border-radius:4px;padding:1px 8px}
+
+.empty{text-align:center;color:var(--ash);padding:70px 0;font-size:14px}
+.notice{font-size:13px;color:var(--ash);border:1px dashed var(--hairline);
+  border-radius:8px;padding:10px 16px;margin-bottom:22px}
+
+/* ── 技能檔案 ── */
+.radar-wrap{display:flex;justify-content:center;margin:6px 0 34px}
+.skill-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.skill{background:var(--card);border:1px solid var(--hairline);border-radius:10px;padding:18px 20px}
+.skill .cat-label{font-family:var(--mono);font-size:10.5px;letter-spacing:.15em;color:var(--ash)}
+.skill h3{font-family:var(--serif);font-weight:500;font-size:17px;margin:4px 0 10px}
+.level{display:flex;gap:4px;margin-bottom:10px}
+.level i{width:16px;height:8px;border:1px solid var(--hairline);border-radius:2px}
+.level i.f{background:var(--indigo);border-color:var(--indigo)}
+.skill .note{font-size:13px;color:#4C4A44}
+.skill .last{font-family:var(--mono);font-size:11px;color:var(--ash);margin-top:10px}
+.skill ul{margin-top:8px;padding-left:18px;font-size:13px;color:var(--cinnabar)}
+
+footer{max-width:860px;margin:0 auto;padding:0 24px 40px;
+  font-family:var(--mono);font-size:11px;color:var(--ash);letter-spacing:.1em}
+
+@media (max-width:560px){
+  h1{font-size:26px}
+  .volume{text-align:left}
+  main{padding:20px 16px 70px}
+  article{padding:16px 18px}
+}
+@media (prefers-reduced-motion:no-preference){
+  article{transition:transform .15s ease}
+  article:hover{transform:translateY(-1px)}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">芫瑞造物誌 · EASTERN CREATION ARCHIVE</div>
+  <div class="masthead">
+    <h1>AI 觀測誌</h1>
+    <div class="volume" id="volume">卷 —— · ——<br><b id="count">—</b> 篇情報</div>
+  </div>
+  <nav>
+    <button id="tab-news" class="on" onclick="switchTab('news')">今日情報</button>
+    <button id="tab-skills" onclick="switchTab('skills')">技能檔案</button>
+  </nav>
+</header>
+
+<main>
+  <section id="view-news">
+    <div id="demo-notice"></div>
+    <div class="chips" id="chips"></div>
+    <div class="news" id="news-list"><div class="empty">載入中⋯</div></div>
+  </section>
+
+  <section id="view-skills" hidden>
+    <div class="radar-wrap"><svg id="radar" width="320" height="300" viewBox="0 0 320 300" role="img" aria-label="各技能分類熟練度雷達圖"></svg></div>
+    <div class="skill-grid" id="skill-grid"></div>
+  </section>
+</main>
+
+<footer>每日 07:00 自動更新 · GITHUB ACTIONS × GEMINI API</footer>
+
+<script>
+let NEWS = null, SKILLS = null;
+let filterCat = null, filterSkill = null;
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+async function load(){
+  try{
+    const [n, s] = await Promise.all([
+      fetch("data/news.json").then(r => r.json()),
+      fetch("data/skills.json").then(r => r.json()),
+    ]);
+    NEWS = n; SKILLS = s;
+  }catch(e){
+    $("news-list").innerHTML =
+      '<div class="empty">讀不到資料。若在本機開啟,請先在專案資料夾執行<br>' +
+      '<code>python -m http.server</code> 再開 localhost:8000</div>';
+    return;
+  }
+  const [y, m, d] = NEWS.date.split("-");
+  $("volume").innerHTML = `卷 ${y} · ${m}${d}<br><b>${NEWS.count}</b> 篇情報`;
+  if(NEWS.demo){
+    $("demo-notice").innerHTML =
+      '<div class="notice">目前顯示示範資料。到 GitHub repo 的 Actions 頁手動執行一次 daily-ai-news,就會換成真實新聞。</div>';
+  }
+  renderChips();
+  renderNews();
+  renderSkills();
+}
+
+/* ── 篩選 ── */
+function renderChips(){
+  const cats = [...new Set(NEWS.items.map(i => i.category))];
+  let html = `<button class="chip ${!filterCat && !filterSkill ? "on" : ""}" onclick="setFilter(null,null)">全部</button>`;
+  html += cats.map(c =>
+    `<button class="chip ${filterCat === c ? "on" : ""}" onclick="setFilter('${esc(c)}',null)">${esc(c)}</button>`
+  ).join("");
+  html += `<button class="chip ${filterSkill === "*" ? "on" : ""}" onclick="setFilter(null,'*')">與我的技能相關</button>`;
+  if(filterSkill && filterSkill !== "*"){
+    const name = skillName(filterSkill);
+    html += `<button class="chip on" onclick="setFilter(null,null)">技能:${esc(name)} ✕</button>`;
+  }
+  $("chips").innerHTML = html;
+}
+
+function setFilter(cat, skill){
+  filterCat = cat; filterSkill = skill;
+  renderChips(); renderNews();
+}
+
+function skillName(id){
+  const s = SKILLS.skills.find(x => x.id === id);
+  return s ? s.name : id;
+}
+
+/* ── 新聞 ── */
+function renderNews(){
+  let items = NEWS.items;
+  if(filterCat) items = items.filter(i => i.category === filterCat);
+  if(filterSkill === "*") items = items.filter(i => i.skills && i.skills.length);
+  else if(filterSkill) items = items.filter(i => (i.skills || []).includes(filterSkill));
+
+  if(!items.length){
+    $("news-list").innerHTML = '<div class="empty">這個篩選條件下沒有情報。</div>';
+    return;
+  }
+  $("news-list").innerHTML = items.map(i => {
+    const t = new Date(i.published);
+    const hm = isNaN(t) ? "" : String(t.getHours()).padStart(2,"0") + ":" + String(t.getMinutes()).padStart(2,"0");
+    const grade = Array.from({length:5}, (_, k) =>
+      `<i class="${k < i.importance ? "f" : ""}"></i>`).join("");
+    const tags = (i.skills || []).map(id =>
+      `<button class="tag" onclick="setFilter(null,'${esc(id)}')">${esc(skillName(id))}</button>`).join("");
+    return `<article>
+      <div class="meta"><span>${esc(i.source)}</span><span>${hm}</span></div>
+      <h2><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h2>
+      <p class="summary">${esc(i.summary)}</p>
+      <div class="foot">
+        <div style="display:flex;align-items:center;gap:12px">
+          <span class="grade" title="重要度 ${i.importance}/5" aria-label="重要度 ${i.importance}/5">${grade}</span>
+          <span class="cat">${esc(i.category)}</span>
+        </div>
+        <div class="tags">${tags}</div>
+      </div>
+    </article>`;
+  }).join("");
+}
+
+/* ── 技能檔案 ── */
+function renderSkills(){
+  drawRadar();
+  $("skill-grid").innerHTML = SKILLS.skills.map(s => {
+    const level = Array.from({length:5}, (_, k) =>
+      `<i class="${k < s.level ? "f" : ""}"></i>`).join("");
+    const relCount = NEWS.items.filter(i => (i.skills || []).includes(s.id)).length;
+    const todo = (s.todo || []).length
+      ? `<ul>${s.todo.map(t => `<li>${esc(t)}</li>`).join("")}</ul>` : "";
+    return `<div class="skill">
+      <div class="cat-label">${esc(s.category)}</div>
+      <h3>${esc(s.name)}</h3>
+      <div class="level" title="熟練度 ${s.level}/5" aria-label="熟練度 ${s.level}/5">${level}</div>
+      ${s.note ? `<div class="note">${esc(s.note)}</div>` : ""}
+      ${todo}
+      <div class="last">最後使用 ${esc(s.last_used)}${relCount ? ` · 今日相關情報 ${relCount} 篇` : ""}</div>
+    </div>`;
+  }).join("");
+}
+
+function drawRadar(){
+  const cats = SKILLS.categories;
+  const avg = cats.map(c => {
+    const list = SKILLS.skills.filter(s => s.category === c);
+    return list.length ? list.reduce((a, s) => a + s.level, 0) / list.length : 0;
+  });
+  const cx = 160, cy = 150, R = 100, n = cats.length;
+  const pt = (i, r) => {
+    const a = -Math.PI / 2 + i * 2 * Math.PI / n;
+    return [cx + r * Math.cos(a), cy + r * Math.sin(a)];
+  };
+  let svg = "";
+  for(let ring = 1; ring <= 5; ring++){
+    const pts = Array.from({length:n}, (_, i) => pt(i, R * ring / 5).join(",")).join(" ");
+    svg += `<polygon points="${pts}" fill="none" stroke="#DCDAD2" stroke-width="0.6"/>`;
+  }
+  for(let i = 0; i < n; i++){
+    const [x, y] = pt(i, R);
+    svg += `<line x1="${cx}" y1="${cy}" x2="${x}" y2="${y}" stroke="#DCDAD2" stroke-width="0.6"/>`;
+  }
+  const poly = avg.map((v, i) => pt(i, R * v / 5).join(",")).join(" ");
+  svg += `<polygon points="${poly}" fill="#33518F" fill-opacity="0.14" stroke="#33518F" stroke-width="1.4"/>`;
+  avg.forEach((v, i) => {
+    const [x, y] = pt(i, R * v / 5);
+    svg += `<circle cx="${x}" cy="${y}" r="3" fill="#33518F"/>`;
+  });
+  cats.forEach((c, i) => {
+    const [x, y] = pt(i, R + 26);
+    const anchor = Math.abs(x - cx) < 8 ? "middle" : (x > cx ? "start" : "end");
+    svg += `<text x="${x}" y="${y + 4}" text-anchor="${anchor}" font-size="12" fill="#8A877E" font-family="Noto Sans TC">${esc(c)}</text>`;
+  });
+  $("radar").innerHTML = svg;
+}
+
+/* ── 分頁 ── */
+function switchTab(t){
+  $("view-news").hidden = t !== "news";
+  $("view-skills").hidden = t !== "skills";
+  $("tab-news").classList.toggle("on", t === "news");
+  $("tab-skills").classList.toggle("on", t === "skills");
+}
+
+load();
+</script>
+</body>
+</html>

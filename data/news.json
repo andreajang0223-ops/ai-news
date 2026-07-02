@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T00:00:00+00:00",
+  "count": 5,
+  "demo": true,
+  "items": [
+    {
+      "source": "示範資料",
+      "title": "這是一則示範新聞:重大模型發布的樣子",
+      "link": "https://example.com",
+      "published": "2026-07-02T00:00:00+00:00",
+      "summary": "這裡會顯示 Claude 產生的兩句中文摘要,說明發生了什麼、以及為什麼重要。首次執行 GitHub Actions 後,這些示範資料會被真實新聞取代。",
+      "category": "模型發布",
+      "importance": 5,
+      "skills": ["claude-api", "prompt-engineering"]
+    },
+    {
+      "source": "示範資料",
+      "title": "示範:與你的 Claude Code 技能相關的工具更新",
+      "link": "https://example.com",
+      "published": "2026-07-02T00:00:00+00:00",
+      "summary": "當新聞與你的技能檔案匹配時,卡片下方會出現技能標籤。點擊標籤可以只看該技能的相關新聞。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": ["claude-code"]
+    },
+    {
+      "source": "示範資料",
+      "title": "示範:一則產業動態",
+      "link": "https://example.com",
+      "published": "2026-07-02T00:00:00+00:00",
+      "summary": "重要度三顆方塊代表「值得知道」的等級,適合快速掃過。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "示範資料",
+      "title": "示範:一篇 arXiv 研究論文摘要",
+      "link": "https://example.com",
+      "published": "2026-07-02T00:00:00+00:00",
+      "summary": "研究論文類的新聞會標示來源為 arXiv,摘要會著重在方法的核心貢獻。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": ["imagen"]
+    },
+    {
+      "source": "示範資料",
+      "title": "示範:邊緣消息的呈現方式",
+      "link": "https://example.com",
+      "published": "2026-07-02T00:00:00+00:00",
+      "summary": "重要度低的消息排在最後,方塊只亮一格,不佔用你的注意力。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
