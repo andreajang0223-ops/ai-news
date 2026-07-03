@@ -32,26 +32,40 @@ BATCH_SIZE = 12            # 每次 API 呼叫處理的篇數
 
 UA = "Mozilla/5.0 (compatible; ai-observatory/1.0; +https://github.com)"
 
+# RSSHub 實例:FB / IG / Threads / X 沒有官方 RSS,靠 RSSHub 轉出。
+# 公共實例 rsshub.app 的 Threads 路由可匿名使用;X 需要 TWITTER_AUTH_TOKEN、
+# FB / IG 需要對應 cookie,這三者在公共實例上常失敗,建議自架 RSSHub 後
+# 用環境變數 RSSHUB_BASE 指向自己的實例(來源失敗只會警告,不影響其他來源)。
+RSSHUB = (os.environ.get("RSSHUB_BASE") or "https://rsshub.app").rstrip("/")
+
 # 資料來源:name / url / type(news 新聞站、social 社群媒體、paper 論文)
 SOURCES = [
-    # ── 官方與新聞站 ──
+    # ── 中文媒體(主要來源)──
+    {"name": "iThome", "url": "https://www.ithome.com.tw/rss", "type": "news"},
+    {"name": "科技新報 AI", "url": "https://technews.tw/category/ai/feed/", "type": "news"},
+    {"name": "INSIDE", "url": "https://www.inside.com.tw/feed/rss", "type": "news"},
+    {"name": "科技報橘", "url": "https://buzzorange.com/techorange/feed/", "type": "news"},
+    {"name": "數位時代", "url": "https://www.bnext.com.tw/rss", "type": "news"},
+    {"name": "T客邦", "url": "https://www.techbang.com/feeds/posts", "type": "news"},
+    {"name": "機器之心", "url": "https://www.jiqizhixin.com/rss", "type": "news"},
+    {"name": "量子位", "url": "https://www.qbitai.com/feed", "type": "news"},
+    # ── 國際官方與新聞站(摘要一律轉為中文)──
     {"name": "Anthropic", "url": "https://www.anthropic.com/news/rss.xml", "type": "news"},
     {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "type": "news"},
     {"name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "type": "news"},
     {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "type": "news"},
     {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "type": "news"},
-    {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "type": "news"},
-    {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "type": "news"},
-    {"name": "Ars Technica AI", "url": "https://arstechnica.com/ai/feed/", "type": "news"},
-    {"name": "iThome", "url": "https://www.ithome.com.tw/rss", "type": "news"},
-    # ── 社群媒體 ──
-    {"name": "Reddit r/artificial", "url": "https://www.reddit.com/r/artificial/top/.rss?t=day", "type": "social"},
+    # ── 社群媒體:Threads / X / IG / FB(經 RSSHub,帳號可自行替換)──
+    {"name": "Threads @openai", "url": f"{RSSHUB}/threads/openai", "type": "social"},
+    {"name": "Threads @zuck", "url": f"{RSSHUB}/threads/zuck", "type": "social"},
+    {"name": "X @OpenAI", "url": f"{RSSHUB}/twitter/user/OpenAI", "type": "social"},
+    {"name": "X @AnthropicAI", "url": f"{RSSHUB}/twitter/user/AnthropicAI", "type": "social"},
+    {"name": "IG @openai", "url": f"{RSSHUB}/instagram/user/openai", "type": "social"},
+    {"name": "FB Meta AI", "url": f"{RSSHUB}/facebook/page/MetaAI", "type": "social"},
+    # ── 社群媒體:論壇 ──
     {"name": "Reddit r/LocalLLaMA", "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day", "type": "social"},
     {"name": "Reddit r/ClaudeAI", "url": "https://www.reddit.com/r/ClaudeAI/top/.rss?t=day", "type": "social"},
-    {"name": "Reddit r/StableDiffusion", "url": "https://www.reddit.com/r/StableDiffusion/top/.rss?t=day", "type": "social"},
     {"name": "Hacker News", "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+Claude+OR+GPT&points=50", "type": "social"},
-    {"name": "Dev.to AI", "url": "https://dev.to/feed/tag/ai", "type": "social"},
-    {"name": "Medium AI", "url": "https://medium.com/feed/tag/artificial-intelligence", "type": "social"},
     # ── 論文(每日僅取 1-2 篇)──
     {"name": "arXiv cs.AI", "url": "https://rss.arxiv.org/rss/cs.AI", "type": "paper"},
 ]
@@ -126,7 +140,7 @@ def build_prompt(batch, skills):
         f"[{i}] 來源:{e['source']}\n標題:{e['title']}\n內容摘錄:{e['raw_summary']}"
         for i, e in enumerate(batch)
     )
-    return f"""你是一個 AI 新聞編輯,服務對象是一位台灣的工業設計系學生,他最關注「AI 的實際應用」——工具怎麼用、別人怎麼把 AI 整合進工作流程、有什麼新的應用案例,而不是純理論研究。
+    return f"""你是一個 AI 新聞編輯,服務對象是一位台灣的工業設計系學生,他最關注「AI 的實際應用」——工具怎麼用、別人怎麼把 AI 整合進工作流程、有什麼新的應用案例,而不是純理論研究。他偏好中文資訊,對台灣與華語圈的 AI 應用動態特別有興趣;同等重要度下,中文來源與跟華語圈相關的消息可以給高一點的分數。
 
 以下是他的技能清單:
 {skill_list}
@@ -135,7 +149,7 @@ def build_prompt(batch, skills):
 1. summary:用繁體中文寫 2 句以內的摘要,說清楚「發生了什麼、為什麼重要」
 2. category:從這六類選一個:{" / ".join(CATEGORIES)}
    - 應用案例:實際使用 AI 解決問題的案例、工作流程分享、實戰教學
-   - 社群討論:來自 Reddit / Hacker News 等社群的熱門討論、使用心得
+   - 社群討論:來自 Threads / X / FB / IG / Reddit / Hacker News 等社群平台的貼文、熱門討論、使用心得
 3. importance:1-5 的整數,評分標準以「應用價值」為主:
    - 5=重大模型或工具發布、能直接改變工作方式的應用
    - 4=實用的應用案例、值得一試的工具更新

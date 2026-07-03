@@ -5,7 +5,7 @@
 ## 架構
 
 ```
-RSS 來源(17 個:新聞站 9 + 社群媒體 7 + 論文 1)
+RSS 來源(23 個:中文媒體 8 + 國際新聞站 5 + 社群媒體 9 + 論文 1)
   → scripts/fetch_news.py(GitHub Actions 每日 UTC 23:00 = 台北 07:00 執行)
   → Gemini API(摘要、分類、重要度 1-5、比對技能標籤)
   → data/news.json + data/archive/YYYY-MM-DD.json
@@ -16,7 +16,7 @@ RSS 來源(17 個:新聞站 9 + 社群媒體 7 + 論文 1)
 ## 檔案說明
 
 - `index.html`:唯一的前端檔案,單檔架構(HTML+CSS+JS),三個分頁:今日情報(依類別分組)/ 收藏(localStorage)/ 技能檔案(含 SVG 雷達圖)
-- `scripts/fetch_news.py`:抓取 + Gemini 摘要腳本,SOURCES 清單在檔案開頭(含 type 欄位:news / social / paper)
+- `scripts/fetch_news.py`:抓取 + Gemini 摘要腳本,SOURCES 清單在檔案開頭(含 type 欄位:news / social / paper)。來源以中文媒體為主;FB / IG / Threads / X 經 RSSHub 轉 RSS(見下方慣例)
 - `data/skills.json`:技能檔案,**手動維護**,keywords 欄位影響 Gemini 的技能配對
 - `data/news.json`:每日新聞,**自動產生,不要手動編輯**(會被下次排程覆蓋)
 - `data/archive/`:每日存檔,自動累積
@@ -25,6 +25,8 @@ RSS 來源(17 個:新聞站 9 + 社群媒體 7 + 論文 1)
 ## 重要慣例
 
 - Gemini 模型:預設 `gemini-3.5-flash`,可用環境變數 `NEWS_MODEL` 覆蓋
+- 選材以中文資訊為主:中文媒體來源佔多數,Gemini 提示對中文/華語圈消息略為加分;英文來源的摘要一律轉為繁體中文
+- FB / IG / Threads / X 沒有官方 RSS,經 RSSHub 轉出(預設公共實例 `https://rsshub.app`,可用環境變數 `RSSHUB_BASE` 或 repo variable 換成自架實例)。Threads 路由可匿名使用;X 需要 `TWITTER_AUTH_TOKEN`、FB / IG 需要 cookie,公共實例上這三者常失敗——來源失敗只會印警告並跳過,不影響整體更新。社群帳號直接改 SOURCES 清單即可替換
 - news.json 的 item 欄位:source / title / link / published / summary / category / importance(1-5)/ skills(id 陣列)
 - category 固定六類:模型發布、工具更新、應用案例、產業動態、社群討論、研究論文
 - 選材以 AI 應用類為主(重要度評分偏重應用價值);研究論文每日上限 2 篇(`MAX_PAPERS`)

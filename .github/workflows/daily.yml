@@ -24,6 +24,7 @@ jobs:
       - name: 抓取並摘要新聞
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          RSSHUB_BASE: ${{ vars.RSSHUB_BASE }}   # 未設定時腳本預設用 https://rsshub.app
         run: python scripts/fetch_news.py
 
       - name: 提交更新
