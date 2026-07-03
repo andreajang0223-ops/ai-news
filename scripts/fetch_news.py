@@ -23,23 +23,40 @@ DATA = ROOT / "data"
 
 MODEL = os.environ.get("NEWS_MODEL", "gemini-3.5-flash")
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
-HOURS_WINDOW = 36          # 抓取過去 N 小時內的文章
-MAX_ITEMS = 40             # 每日最多處理篇數
+HOURS_WINDOW = 48          # 抓取過去 N 小時內的文章
+MAX_ITEMS = 80             # 每日最多送進 Gemini 處理的篇數
+MIN_ITEMS = 20             # 每次更新至少要有的篇數(不足時放寬過濾)
+MAX_PAPERS = 2             # 研究論文類每日上限
+PER_SOURCE_CAP = 8         # 單一來源最多取幾篇,避免洗版
 BATCH_SIZE = 12            # 每次 API 呼叫處理的篇數
 
-# 資料來源:name / url / lang(給 Gemini 的提示)
+UA = "Mozilla/5.0 (compatible; ai-observatory/1.0; +https://github.com)"
+
+# 資料來源:name / url / type(news 新聞站、social 社群媒體、paper 論文)
 SOURCES = [
-    {"name": "Anthropic", "url": "https://www.anthropic.com/news/rss.xml", "lang": "en"},
-    {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "lang": "en"},
-    {"name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "lang": "en"},
-    {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "lang": "en"},
-    {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "lang": "en"},
-    {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "lang": "en"},
-    {"name": "iThome", "url": "https://www.ithome.com.tw/rss", "lang": "zh"},
-    {"name": "arXiv cs.AI", "url": "https://rss.arxiv.org/rss/cs.AI", "lang": "en"},
+    # ── 官方與新聞站 ──
+    {"name": "Anthropic", "url": "https://www.anthropic.com/news/rss.xml", "type": "news"},
+    {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "type": "news"},
+    {"name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "type": "news"},
+    {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "type": "news"},
+    {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "type": "news"},
+    {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "type": "news"},
+    {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "type": "news"},
+    {"name": "Ars Technica AI", "url": "https://arstechnica.com/ai/feed/", "type": "news"},
+    {"name": "iThome", "url": "https://www.ithome.com.tw/rss", "type": "news"},
+    # ── 社群媒體 ──
+    {"name": "Reddit r/artificial", "url": "https://www.reddit.com/r/artificial/top/.rss?t=day", "type": "social"},
+    {"name": "Reddit r/LocalLLaMA", "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day", "type": "social"},
+    {"name": "Reddit r/ClaudeAI", "url": "https://www.reddit.com/r/ClaudeAI/top/.rss?t=day", "type": "social"},
+    {"name": "Reddit r/StableDiffusion", "url": "https://www.reddit.com/r/StableDiffusion/top/.rss?t=day", "type": "social"},
+    {"name": "Hacker News", "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+Claude+OR+GPT&points=50", "type": "social"},
+    {"name": "Dev.to AI", "url": "https://dev.to/feed/tag/ai", "type": "social"},
+    {"name": "Medium AI", "url": "https://medium.com/feed/tag/artificial-intelligence", "type": "social"},
+    # ── 論文(每日僅取 1-2 篇)──
+    {"name": "arXiv cs.AI", "url": "https://rss.arxiv.org/rss/cs.AI", "type": "paper"},
 ]
 
-CATEGORIES = ["模型發布", "工具更新", "產業動態", "研究論文"]
+CATEGORIES = ["模型發布", "工具更新", "應用案例", "產業動態", "社群討論", "研究論文"]
 
 
 # ── 抓取 ────────────────────────────────────────────────
@@ -51,12 +68,18 @@ def fetch_entries():
 
     for src in SOURCES:
         try:
-            feed = feedparser.parse(src["url"])
+            # Reddit 等站台會擋預設 UA,一律用 requests 帶自訂 UA 抓
+            resp = requests.get(src["url"], headers={"User-Agent": UA}, timeout=30)
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
         except Exception as e:
             print(f"[warn] {src['name']} 抓取失敗:{e}", file=sys.stderr)
             continue
 
+        taken = 0
         for e in feed.entries:
+            if taken >= PER_SOURCE_CAP:
+                break
             ts = e.get("published_parsed") or e.get("updated_parsed")
             if ts:
                 published = datetime(*ts[:6], tzinfo=timezone.utc)
@@ -81,8 +104,11 @@ def fetch_entries():
                 "title": title,
                 "link": e.get("link", ""),
                 "published": published.isoformat(),
+                "source_type": src["type"],
                 "raw_summary": summary,
             })
+            taken += 1
+        print(f"[info] {src['name']}:取 {taken} 篇")
 
     entries.sort(key=lambda x: x["published"], reverse=True)
     print(f"[info] 共抓到 {len(entries)} 篇,取前 {MAX_ITEMS} 篇")
@@ -100,15 +126,22 @@ def build_prompt(batch, skills):
         f"[{i}] 來源:{e['source']}\n標題:{e['title']}\n內容摘錄:{e['raw_summary']}"
         for i, e in enumerate(batch)
     )
-    return f"""你是一個 AI 新聞編輯,服務對象是一位台灣的工業設計系學生,他關注 AI 工具的實際應用。
+    return f"""你是一個 AI 新聞編輯,服務對象是一位台灣的工業設計系學生,他最關注「AI 的實際應用」——工具怎麼用、別人怎麼把 AI 整合進工作流程、有什麼新的應用案例,而不是純理論研究。
 
 以下是他的技能清單:
 {skill_list}
 
 請處理以下 {len(batch)} 篇文章,對每一篇:
 1. summary:用繁體中文寫 2 句以內的摘要,說清楚「發生了什麼、為什麼重要」
-2. category:從這四類選一個:{" / ".join(CATEGORIES)}
-3. importance:1-5 的整數。5=重大模型或工具發布、3=值得知道、1=邊緣消息。與 AI 無關的文章給 0
+2. category:從這六類選一個:{" / ".join(CATEGORIES)}
+   - 應用案例:實際使用 AI 解決問題的案例、工作流程分享、實戰教學
+   - 社群討論:來自 Reddit / Hacker News 等社群的熱門討論、使用心得
+3. importance:1-5 的整數,評分標準以「應用價值」為主:
+   - 5=重大模型或工具發布、能直接改變工作方式的應用
+   - 4=實用的應用案例、值得一試的工具更新
+   - 3=值得知道的產業消息
+   - 1-2=邊緣消息、純理論研究
+   - 0=與 AI 無關
 4. skills:列出相關的技能 id(來自上面的清單),沒有就給空陣列
 
 只回傳 JSON 陣列,不要任何其他文字或 markdown 標記,格式:
@@ -168,9 +201,29 @@ def enrich(entries, skills, api_key):
 
         time.sleep(1)
 
-    # 過濾與 AI 無關的文章,依重要度排序
-    entries = [e for e in entries if e.get("importance", 0) > 0]
-    entries.sort(key=lambda x: (-x["importance"], x["published"]), reverse=False)
+    # 論文來源的文章一律歸類為研究論文
+    for e in entries:
+        if e.get("source_type") == "paper":
+            e["category"] = "研究論文"
+        e.pop("source_type", None)
+
+    # 過濾與 AI 無關的文章;若不足 MIN_ITEMS 則放寬保留 importance 0 的文章
+    kept = [e for e in entries if e.get("importance", 0) > 0]
+    if len(kept) < MIN_ITEMS:
+        print(f"[warn] 有效文章僅 {len(kept)} 篇,放寬過濾補足", file=sys.stderr)
+        dropped = [e for e in entries if e.get("importance", 0) == 0]
+        kept += dropped[: MIN_ITEMS - len(kept)]
+    entries = kept
+
+    # 研究論文每日上限 MAX_PAPERS 篇,保留重要度最高的
+    papers = sorted(
+        (e for e in entries if e["category"] == "研究論文"),
+        key=lambda x: -x.get("importance", 0),
+    )
+    keep_papers = set(id(e) for e in papers[:MAX_PAPERS])
+    entries = [e for e in entries if e["category"] != "研究論文" or id(e) in keep_papers]
+
+    entries.sort(key=lambda x: (x.get("importance", 0), x["published"]), reverse=True)
     return entries
 
 

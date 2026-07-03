@@ -68,6 +68,19 @@ article h2 a:hover{color:var(--indigo)}
   border-bottom:1px dotted var(--indigo);padding:0 1px}
 .cat{font-size:12px;color:var(--ash);border:1px solid var(--hairline);border-radius:4px;padding:1px 8px}
 
+/* 收藏按鈕 */
+.save{border:1px solid var(--hairline);background:none;border-radius:4px;
+  font-size:12px;padding:1px 10px;color:var(--ash);transition:color .15s,border-color .15s}
+.save:hover{color:var(--indigo);border-color:var(--indigo)}
+.save.on{color:var(--cinnabar);border-color:var(--cinnabar)}
+
+/* 類別分組標題 */
+.cat-head{display:flex;align-items:baseline;gap:10px;margin:26px 0 2px;
+  border-bottom:1px solid var(--hairline);padding-bottom:6px}
+.cat-head:first-child{margin-top:0}
+.cat-head h2{font-family:var(--serif);font-weight:600;font-size:17px;letter-spacing:.08em}
+.cat-head span{font-family:var(--mono);font-size:11px;color:var(--ash)}
+
 .empty{text-align:center;color:var(--ash);padding:70px 0;font-size:14px}
 .notice{font-size:13px;color:var(--ash);border:1px dashed var(--hairline);
   border-radius:8px;padding:10px 16px;margin-bottom:22px}
@@ -110,6 +123,7 @@ footer{max-width:860px;margin:0 auto;padding:0 24px 40px;
   </div>
   <nav>
     <button id="tab-news" class="on" onclick="switchTab('news')">今日情報</button>
+    <button id="tab-saved" onclick="switchTab('saved')">收藏</button>
     <button id="tab-skills" onclick="switchTab('skills')">技能檔案</button>
   </nav>
 </header>
@@ -119,6 +133,10 @@ footer{max-width:860px;margin:0 auto;padding:0 24px 40px;
     <div id="demo-notice"></div>
     <div class="chips" id="chips"></div>
     <div class="news" id="news-list"><div class="empty">載入中⋯</div></div>
+  </section>
+
+  <section id="view-saved" hidden>
+    <div class="news" id="saved-list"></div>
   </section>
 
   <section id="view-skills" hidden>
@@ -158,6 +176,7 @@ async function load(){
   }
   renderChips();
   renderNews();
+  renderSaved();
   renderSkills();
 }
 
@@ -179,6 +198,7 @@ function renderChips(){
 function setFilter(cat, skill){
   filterCat = cat; filterSkill = skill;
   renderChips(); renderNews();
+  switchTab("news");
 }
 
 function skillName(id){
@@ -186,7 +206,36 @@ function skillName(id){
   return s ? s.name : id;
 }
 
-/* ── 新聞 ── */
+/* ── 新聞卡片(今日情報與收藏共用)── */
+const CAT_ORDER = ["模型發布", "工具更新", "應用案例", "產業動態", "社群討論", "研究論文"];
+
+function cardHTML(i, inSaved){
+  const t = new Date(i.published);
+  const hm = isNaN(t) ? "" : String(t.getHours()).padStart(2,"0") + ":" + String(t.getMinutes()).padStart(2,"0");
+  const grade = Array.from({length:5}, (_, k) =>
+    `<i class="${k < i.importance ? "f" : ""}"></i>`).join("");
+  const tags = (i.skills || []).map(id =>
+    `<button class="tag" onclick="setFilter(null,'${esc(id)}')">${esc(skillName(id))}</button>`).join("");
+  const enc = encodeURIComponent(i.link);
+  const saveBtn = inSaved
+    ? `<button class="save on" onclick="toggleSave('${enc}')">✕ 移除收藏</button>`
+    : `<button class="save ${isSaved(i.link) ? "on" : ""}" onclick="toggleSave('${enc}')">${isSaved(i.link) ? "已收藏" : "☆ 收藏"}</button>`;
+  return `<article>
+    <div class="meta"><span>${esc(i.source)}</span><span>${hm}</span></div>
+    <h2><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h2>
+    <p class="summary">${esc(i.summary)}</p>
+    <div class="foot">
+      <div style="display:flex;align-items:center;gap:12px">
+        <span class="grade" title="重要度 ${i.importance}/5" aria-label="重要度 ${i.importance}/5">${grade}</span>
+        <span class="cat">${esc(i.category)}</span>
+        ${saveBtn}
+      </div>
+      <div class="tags">${tags}</div>
+    </div>
+  </article>`;
+}
+
+/* ── 今日情報:依類別分組 ── */
 function renderNews(){
   let items = NEWS.items;
   if(filterCat) items = items.filter(i => i.category === filterCat);
@@ -197,26 +246,46 @@ function renderNews(){
     $("news-list").innerHTML = '<div class="empty">這個篩選條件下沒有情報。</div>';
     return;
   }
-  $("news-list").innerHTML = items.map(i => {
-    const t = new Date(i.published);
-    const hm = isNaN(t) ? "" : String(t.getHours()).padStart(2,"0") + ":" + String(t.getMinutes()).padStart(2,"0");
-    const grade = Array.from({length:5}, (_, k) =>
-      `<i class="${k < i.importance ? "f" : ""}"></i>`).join("");
-    const tags = (i.skills || []).map(id =>
-      `<button class="tag" onclick="setFilter(null,'${esc(id)}')">${esc(skillName(id))}</button>`).join("");
-    return `<article>
-      <div class="meta"><span>${esc(i.source)}</span><span>${hm}</span></div>
-      <h2><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h2>
-      <p class="summary">${esc(i.summary)}</p>
-      <div class="foot">
-        <div style="display:flex;align-items:center;gap:12px">
-          <span class="grade" title="重要度 ${i.importance}/5" aria-label="重要度 ${i.importance}/5">${grade}</span>
-          <span class="cat">${esc(i.category)}</span>
-        </div>
-        <div class="tags">${tags}</div>
-      </div>
-    </article>`;
+  const cats = [...CAT_ORDER.filter(c => items.some(i => i.category === c)),
+                ...new Set(items.filter(i => !CAT_ORDER.includes(i.category)).map(i => i.category))];
+  $("news-list").innerHTML = cats.map(c => {
+    const group = items.filter(i => i.category === c);
+    return `<div class="cat-head"><h2>${esc(c)}</h2><span>${group.length} 篇</span></div>` +
+      group.map(i => cardHTML(i, false)).join("");
   }).join("");
+}
+
+/* ── 收藏(localStorage)── */
+const SAVE_KEY = "aiobs_saved";
+
+function getSaved(){
+  try{ return JSON.parse(localStorage.getItem(SAVE_KEY)) || []; }
+  catch(e){ return []; }
+}
+function isSaved(link){
+  return getSaved().some(s => s.link === link);
+}
+function toggleSave(enc){
+  const link = decodeURIComponent(enc);
+  let saved = getSaved();
+  if(saved.some(s => s.link === link)){
+    saved = saved.filter(s => s.link !== link);
+  }else{
+    const item = NEWS.items.find(i => i.link === link);
+    if(!item) return;
+    saved.unshift({...item, saved_at: new Date().toISOString().slice(0,10)});
+  }
+  localStorage.setItem(SAVE_KEY, JSON.stringify(saved));
+  renderNews(); renderSaved();
+}
+function renderSaved(){
+  const saved = getSaved();
+  $("tab-saved").textContent = saved.length ? `收藏 ${saved.length}` : "收藏";
+  if(!saved.length){
+    $("saved-list").innerHTML = '<div class="empty">還沒有收藏任何文章。<br>在「今日情報」的卡片上按「☆ 收藏」即可保存。</div>';
+    return;
+  }
+  $("saved-list").innerHTML = saved.map(i => cardHTML(i, true)).join("");
 }
 
 /* ── 技能檔案 ── */
@@ -275,10 +344,10 @@ function drawRadar(){
 
 /* ── 分頁 ── */
 function switchTab(t){
-  $("view-news").hidden = t !== "news";
-  $("view-skills").hidden = t !== "skills";
-  $("tab-news").classList.toggle("on", t === "news");
-  $("tab-skills").classList.toggle("on", t === "skills");
+  for(const v of ["news", "saved", "skills"]){
+    $("view-" + v).hidden = t !== v;
+    $("tab-" + v).classList.toggle("on", t === v);
+  }
 }
 
 load();
