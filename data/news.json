@@ -1,52 +1,207 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T00:16:38.660455+00:00",
-  "count": 4,
+  "generated_at": "2026-07-03T15:16:49.930877+00:00",
+  "count": 20,
   "items": [
     {
-      "source": "arXiv cs.AI",
-      "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
-      "link": "https://arxiv.org/abs/2607.00211",
-      "published": "2026-07-02T04:00:00+00:00",
-      "summary": "本研究提出「認知 AI 素養（EAIL）」框架，分析學生在與 AI 協同編程時的查詢建構與驗證行為。這有助於理解如何透過高效的 Prompt 設計與 AI 協作，提升人機共創的程式開發效率。",
-      "category": "研究論文",
-      "importance": 3,
-      "skills": [
-        "prompt-engineering",
-        "claude-code"
-      ]
-    },
-    {
-      "source": "arXiv cs.AI",
-      "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
-      "link": "https://arxiv.org/abs/2607.00147",
-      "published": "2026-07-02T04:00:00+00:00",
-      "summary": "本研究提出 RareDxR1 框架，實現無需人類標記的罕見疾病自主醫學推理診斷。這解決了傳統 AI 在處理複雜、非結構化症狀時，因檢索瓶頸導致的資訊遺失問題。",
-      "category": "研究論文",
-      "importance": 2,
+      "source": "Dev.to AI",
+      "title": "Mastering the Art of Writing: Effective Techniques for Freelance Writers",
+      "link": "https://dev.to/sinan_khan_336440/mastering-the-art-of-writing-effective-techniques-for-freelance-writers-4b8h",
+      "published": "2026-07-03T15:13:30+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
       "skills": []
     },
     {
-      "source": "arXiv cs.AI",
-      "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
-      "link": "https://arxiv.org/abs/2607.00155",
-      "published": "2026-07-02T04:00:00+00:00",
-      "summary": "本研究探討人機協作中雙向資訊不對稱的監督機制，分析人類與 AI 如何在彼此資訊不透明下進行決策。這對未來設計更具信任感且實用的自主機器人與軟體代理互動介面提供理論基礎。",
-      "category": "研究論文",
-      "importance": 2,
+      "source": "Dev.to AI",
+      "title": "How to Run Your Own AI Visibility Audit: A Free 7-Step Method for 2026",
+      "link": "https://dev.to/a3e_ecosystem/how-to-run-your-own-ai-visibility-audit-a-free-7-step-method-for-2026-3mjf",
+      "published": "2026-07-03T15:11:10+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
       "skills": []
     },
     {
-      "source": "arXiv cs.AI",
-      "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
-      "link": "https://arxiv.org/abs/2607.00233",
-      "published": "2026-07-02T04:00:00+00:00",
-      "summary": "研究發現多個 LLM 代理在協同溝通時，其記憶架構對語言形成的影響遠大於通訊容量。這項發現對於未來設計多代理人（Agent）協作系統與優化 Prompt 流程具有重要指導意義。",
-      "category": "研究論文",
-      "importance": 2,
-      "skills": [
-        "prompt-engineering"
-      ]
+      "source": "Dev.to AI",
+      "title": "Teaching AI Your Language: Prompt Engineering for Indie Game Devs",
+      "link": "https://dev.to/ken_deng_ai/teaching-ai-your-language-prompt-engineering-for-indie-game-devs-36c2",
+      "published": "2026-07-03T15:11:09+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Why AI Won't Replace Human Creativity",
+      "link": "https://dev.to/__f42ffdc0f520/why-ai-wont-replace-human-creativity-4aik",
+      "published": "2026-07-03T15:10:35+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "An open-source AI Product Builder now ships compliance-reviewed software for 5 regulated industries",
+      "link": "https://dev.to/great_cto/an-open-source-ai-product-builder-now-ships-compliance-reviewed-software-for-5-regulated-industries-3k10",
+      "published": "2026-07-03T15:09:24+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Is looping ready to roll? Experts split on the future of coding",
+      "link": "https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p",
+      "published": "2026-07-03T15:07:40+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Why AI Tokens Are So Expensive (And Why Nobody Explains It Properly)",
+      "link": "https://medium.com/@shripadkhandare/why-ai-tokens-are-so-expensive-and-why-nobody-explains-it-properly-5ee2340447da?source=rss------artificial_intelligence-5",
+      "published": "2026-07-03T15:06:30+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "How Agency Owners Can Build Predictable Pipeline Without Hiring Full-Time",
+      "link": "https://talhafakhar.medium.com/how-agency-owners-can-build-predictable-pipeline-without-hiring-full-time-0fa05325c516?source=rss------artificial_intelligence-5",
+      "published": "2026-07-03T15:06:03+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How I leveraged Claude Code skills to help me migrate Cypress 16 deprecations in time",
+      "link": "https://dev.to/cypress/how-i-leveraged-claude-code-skills-to-help-me-migrate-cypress-16-deprecations-in-time-37ff",
+      "published": "2026-07-03T15:05:58+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AI Bisa Mendeteksi Stres? Mari Bedah Cara Kerja Model Hybrid CNN-BiLSTM",
+      "link": "https://medium.com/@mansyahfir17/ai-bisa-mendeteksi-stres-mari-bedah-cara-kerja-model-hybrid-cnn-bilstm-a57838dcac3d?source=rss------artificial_intelligence-5",
+      "published": "2026-07-03T15:04:18+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AI Sales Agents vs.",
+      "link": "https://medium.com/@hey_49367/ai-sales-agents-vs-6210f3ba2438?source=rss------artificial_intelligence-5",
+      "published": "2026-07-03T15:03:45+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "How I Used AI to Fix My Finances When No Financial Advisor Would Help Me",
+      "link": "https://medium.com/@quantumdaud/how-i-used-ai-to-fix-my-finances-when-no-financial-advisor-would-help-me-bbc77f45cb23?source=rss------artificial_intelligence-5",
+      "published": "2026-07-03T15:03:44+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How I Made $700 in 2 Weeks Selling AI Automation Templates",
+      "link": "https://dev.to/swastik_mishra_2209/how-i-made-700-in-2-weeks-selling-ai-automation-templates-4nml",
+      "published": "2026-07-03T15:03:32+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Best AI Tools in 2026: Free vs Paid, Features, and Real Use Cases",
+      "link": "https://medium.com/@rdtnraja01/best-ai-tools-in-2026-free-vs-paid-features-and-real-use-cases-8d82027cc351?source=rss------artificial_intelligence-5",
+      "published": "2026-07-03T15:01:38+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "I Automated Email Funnels with Claude Prompts So You Can Too",
+      "link": "https://immiley.medium.com/i-automated-email-funnels-with-claude-prompts-so-you-can-too-0012761c8373?source=rss------artificial_intelligence-5",
+      "published": "2026-07-03T15:01:02+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Overcoming the JavaScript Timeout Wall",
+      "link": "https://udallerprotocol.medium.com/overcoming-the-javascript-timeout-wall-336caa8e5efb?source=rss------artificial_intelligence-5",
+      "published": "2026-07-03T15:01:02+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic wants to develop its own drugs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "published": "2026-07-03T13:56:52+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "DO NOT PAY FOR A SUBSCRIPTION",
+      "link": "https://www.reddit.com/r/artificial/comments/1umenvi/do_not_pay_for_a_subscription/",
+      "published": "2026-07-03T13:35:10+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Please stop the AI confidence theater",
+      "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "published": "2026-07-03T12:51:17+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Andrew Ng: \"In 3-6 months, everyone will be using self-improving loops. No more prompting”",
+      "link": "https://www.reddit.com/r/artificial/comments/1umcprg/andrew_ng_in_36_months_everyone_will_be_using/",
+      "published": "2026-07-03T12:08:15+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
     }
   ]
 }
