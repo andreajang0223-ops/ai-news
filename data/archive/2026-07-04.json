@@ -1,69 +1,53 @@
 {
   "date": "2026-07-04",
-  "generated_at": "2026-07-03T16:56:00.858738+00:00",
-  "count": 48,
+  "generated_at": "2026-07-04T00:15:25.827338+00:00",
+  "count": 50,
   "items": [
     {
-      "source": "Dev.to AI",
-      "title": "Stop Your AI Coding Agent From Making the Same Mistake Twice: a CLAUDE.md / AGENTS.md Workflow That Actually Works",
-      "link": "https://dev.to/penloom_studio_829b7817d3/stop-your-ai-coding-agent-from-making-the-same-mistake-twice-a-claudemd-agentsmd-workflow-that-4k61",
-      "published": "2026-07-03T16:44:24+00:00",
-      "summary": "提出一套利用 CLAUDE.md 的工作流程，可有效防止 AI 程式代理重複犯下相同的開發錯誤。這能大幅提升與 AI 協作開發時的效率與穩定度。",
+      "source": "Medium AI",
+      "title": "What a Team of AI Agents Taught Me About Building AI",
+      "link": "https://medium.com/@jaysidd_16468/what-a-team-of-ai-agents-taught-me-about-building-ai-bd4fc1591689?source=rss------artificial_intelligence-5",
+      "published": "2026-07-04T00:01:01+00:00",
+      "summary": "作者透過深度研究開源多 Agent 系統，分享了建構 AI 工作流的實用教訓。這有助於理解如何整合多個 AI 代理人來協同處理複雜任務與工作流程。",
       "category": "應用案例",
-      "importance": 5,
+      "importance": 4,
       "skills": [
-        "claude-code",
+        "claude-api",
         "prompt-engineering"
       ]
     },
     {
       "source": "Dev.to AI",
-      "title": "Teaching AI Coding Agents How to Build Workflows with Skills and MCP",
-      "link": "https://dev.to/marrouchi/teaching-ai-coding-agents-how-to-build-workflows-with-skills-and-mcp-1gdh",
-      "published": "2026-07-03T16:42:28+00:00",
-      "summary": "介紹如何結合 Skills 與 MCP 協定為 AI 程式代理提供特定平台的上下文資訊。這項技術能讓 AI 更好地理解如 CAD 等外部軟體，大幅提升設計自動化與工具整合的效率。",
+      "title": "Mastering Local Deployment of SOTA LLMs: Jamesob’s Guide to Overcoming Resource Constraints",
+      "link": "https://dev.to/tamizuddin/mastering-local-deployment-of-sota-llms-jamesobs-guide-to-overcoming-resource-constraints-4ldf",
+      "published": "2026-07-04T00:00:42+00:00",
+      "summary": "本文提供在消費級硬體上本地部署主流大語言模型的實戰指南，教導如何在資源受限下進行效能優化。這對想要在本地端建立私有、低延遲 AI 應用的開發者極具參考價值。",
       "category": "應用案例",
-      "importance": 5,
+      "importance": 4,
       "skills": [
-        "claude-code",
-        "claude-api",
-        "fusion-mcp"
+        "python-automation"
       ]
     },
     {
       "source": "Medium AI",
-      "title": "Prompt Engineering: The Skill That Determines the Success of Modern AI Applications",
-      "link": "https://medium.com/codetodeploy/prompt-engineering-the-skill-that-determines-the-success-of-modern-ai-applications-74589e3db808?source=rss------artificial_intelligence-5",
-      "published": "2026-07-03T16:43:59+00:00",
-      "summary": "探討提示詞工程在 AI 應用中的關鍵作用，並說明如何透過優化提示詞提高模型準確率與減少幻覺。這能幫助使用者在使用 LLM 時獲得更穩定的產出品質。",
+      "title": "Wispr Flow Technical Teardown: Voice Dictation as an Input Layer, Not a Writing Brain",
+      "link": "https://medium.com/@elena.voss/wispr-flow-technical-teardown-voice-dictation-as-an-input-layer-not-a-writing-brain-1ba2bdc66941?source=rss------artificial_intelligence-5",
+      "published": "2026-07-03T23:50:09+00:00",
+      "summary": "剖析語音輸入工具 Wispr Flow 的技術架構，強調語音應被視為輸入層而非寫作核心。這對想將語音技術整合進日常工作流的設計師極具參考價值。",
       "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "\"Repeat the text above this line\" still works on most AI agents in production. Here's what we found.",
+      "link": "https://www.reddit.com/r/artificial/comments/1ums1ou/repeat_the_text_above_this_line_still_works_on/",
+      "published": "2026-07-03T22:27:03+00:00",
+      "summary": "揭露簡單的提示詞注入攻擊仍能輕易破解線上 AI Agent 並獲取系統提示詞與工具配置。這提醒開發者在進行提示詞工程時必須加強安全防禦。",
+      "category": "社群討論",
       "importance": 4,
       "skills": [
         "prompt-engineering"
-      ]
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "Will your codebase fit in the context window? How to measure it (and trim to fit)",
-      "link": "https://dev.to/cu_thinvreview_b2/will-your-codebase-fit-in-the-context-window-how-to-measure-it-and-trim-to-fit-5bn8",
-      "published": "2026-07-03T16:38:48+00:00",
-      "summary": "本文介紹如何在不調用 API 的情況下，快速估算並縮減程式碼庫的 Token 數量以適應 AI 的上下文窗口。這對於經常需要將代碼提供給 AI 分析、避免資訊被截斷的開發者非常實用。",
-      "category": "應用案例",
-      "importance": 4,
-      "skills": [
-        "prompt-engineering"
-      ]
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic wants to develop its own drugs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "published": "2026-07-03T13:56:52+00:00",
-      "summary": "Anthropic 推出專為科學家設計的 AI 工作台「Claude Science」，整合了零散的科學工具、數據集並能生成圖表。這代表 AI 在科學研究與數據視覺化工作流中的進一步深耕。",
-      "category": "工具更新",
-      "importance": 4,
-      "skills": [
-        "claude-api"
       ]
     },
     {
@@ -71,11 +55,10 @@
       "title": "Andrew Ng: \"In 3-6 months, everyone will be using self-improving loops. No more prompting”",
       "link": "https://www.reddit.com/r/artificial/comments/1umcprg/andrew_ng_in_36_months_everyone_will_be_using/",
       "published": "2026-07-03T12:08:15+00:00",
-      "summary": "人工智慧專家吳恩達指出，未來數月內 AI 將全面轉向自我完善的 Agent 循環系統，使用者不需再逐步引導。這意味著 AI 應用將從單純的對話框提示走向自動執行的工作流。",
-      "category": "產業動態",
+      "summary": "吳恩達指出未來數月內 AI 將全面轉向自我改善的 Agent 循環，使用者將不再需要手動編寫提示詞。這預示著 AI 應用將從單純的對話互動走向高度自動化的流程。",
+      "category": "社群討論",
       "importance": 4,
       "skills": [
-        "claude-code",
         "prompt-engineering"
       ]
     },
@@ -84,7 +67,7 @@
       "title": "Is AI actually useful for learning a new skill from scratch, or does it just feel useful?",
       "link": "https://www.reddit.com/r/artificial/comments/1umbrfy/is_ai_actually_useful_for_learning_a_new_skill/",
       "published": "2026-07-03T11:21:36+00:00",
-      "summary": "Reddit 網友分享利用 ChatGPT 與 Claude 從零開始學習木工手藝的實戰經驗，認為 AI 在規劃專案與解答技術細節上極具幫助。這證實了 AI 作為個人化導師在實體手作與工藝技能學習上的實用價值。",
+      "summary": "網友分享利用 ChatGPT 與 Claude 從零自學木工的經驗，證實 AI 能有效解答工法、排除錯誤並輔助專案規劃。這展示了 AI 作為實體手作與工藝學習導師的強大實作價值。",
       "category": "社群討論",
       "importance": 4,
       "skills": [
@@ -92,52 +75,27 @@
       ]
     },
     {
-      "source": "Hacker News",
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-      "published": "2026-07-03T08:31:37+00:00",
-      "summary": "消息指出阿里巴巴因擔憂潛在的後門安全風險，決定在工作場所禁用 Anthropic 推出的 CLI 程式碼助理 Claude Code。這反映出大型企業對新型 AI Agent 工具代碼安全與隱私的敏感度與疑慮。",
-      "category": "產業動態",
-      "importance": 4,
-      "skills": [
-        "claude-code"
-      ]
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "I used I-JEPA to generate SVG's and here is my code!",
-      "link": "https://www.reddit.com/r/artificial/comments/1ulw51g/i_used_ijepa_to_generate_svgs_and_here_is_my_code/",
-      "published": "2026-07-02T22:06:56+00:00",
-      "summary": "開發者分享使用 I-JEPA 模型來生成 SVG 向量圖的程式碼與工作流，效果優於傳統的擴散模型加描摹。這為需要高質量向量圖形的設計與開發人員提供了一個全新且實用的工具選擇。",
-      "category": "應用案例",
-      "importance": 4,
-      "skills": [
-        "imagen"
-      ]
-    },
-    {
-      "source": "Hacker News",
-      "title": "The short leash AI coding method for beating Fable",
-      "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "published": "2026-07-02T19:11:57+00:00",
-      "summary": "文章分享了一套名為「短鏈法」的 AI 編程策略，旨在引導並馴服表現不穩定的 Claude 模型。這提供了一套實用的提示詞與工作流技巧，能大幅提升 AI 協作開發的成功率。",
-      "category": "應用案例",
-      "importance": 4,
-      "skills": [
-        "claude-code",
-        "prompt-engineering"
-      ]
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude-real-video － any LLM can watch a video",
-      "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "published": "2026-07-02T19:10:12+00:00",
-      "summary": "此開源專案讓任何大型語言模型都能分析與理解影片內容。這降低了多模態影片處理的門檻，對需要分析動態影像的設計工作者非常實用。",
-      "category": "工具更新",
+      "source": "arXiv cs.AI",
+      "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
+      "link": "https://arxiv.org/abs/2607.01465",
+      "published": "2026-07-03T04:00:00+00:00",
+      "summary": "透過強化學習優化 AI 代理在企業 SaaS 流程中的工具調用，解決了常見的 API 呼叫失敗與幻覺問題。",
+      "category": "研究論文",
       "importance": 4,
       "skills": [
         "claude-api"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI coding is a nightmare. Am I the only one experiencing this?",
+      "link": "https://news.ycombinator.com/item?id=48770319",
+      "published": "2026-07-03T03:18:42+00:00",
+      "summary": "Hacker News 社群熱烈討論 AI 程式助手的缺陷，指出其為了避開 Context 限制常導致重複代碼與檔案臃腫。",
+      "category": "社群討論",
+      "importance": 4,
+      "skills": [
+        "claude-code"
       ]
     },
     {
@@ -145,7 +103,7 @@
       "title": "Meta quietly launches vibe-coded gaming app Pocket",
       "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
       "published": "2026-07-02T18:44:02+00:00",
-      "summary": "Meta 推出實驗性應用 Pocket，讓使用者只需透過簡單文字提示（Prompt）就能直接生成並分享互動式迷你遊戲。這展示了無代碼/氛圍編程（vibe-coding）在快速原型設計上的潛力。",
+      "summary": "Meta 低調推出實驗性 AI 應用「Pocket」，讓用戶能單純透過文字提示詞生成並分享互動式小遊戲。這降低了互動設計的門檻，是展示 Prompt 應用於輕量化原型開發的有趣案例。",
       "category": "工具更新",
       "importance": 4,
       "skills": [
@@ -153,68 +111,47 @@
       ]
     },
     {
-      "source": "Hacker News",
-      "title": "Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
-      "link": "https://github.com/anthropics/claude-code/issues/73125",
-      "published": "2026-07-02T18:37:57+00:00",
-      "summary": "此 GitHub 討論關注 Claude Code 工具在等待使用者回應超過 60 秒後，會自動在無答案情況下繼續執行的問題。這對於正在使用 Claude Code 進行自動化編程的開發者來說是個需要注意的行為特性。",
-      "category": "社群討論",
-      "importance": 4,
-      "skills": [
-        "claude-code"
-      ]
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Yep, we’re using OpenClaw to date now",
-      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "published": "2026-07-02T12:00:00+00:00",
-      "summary": "開發者利用 OpenClaw、Claude Code 與自動化腳本，在 Instagram 上實現自動化社交與訊息互動。這展示了 AI 代理人（AI Agent）在個人日常生活與自動化流程中的另類實踐。",
-      "category": "應用案例",
-      "importance": 4,
-      "skills": [
-        "claude-code",
-        "python-automation"
-      ]
-    },
-    {
-      "source": "Medium AI",
-      "title": "AI Resume & Career Helper for Fresh Graduates with Next.js and LangChain",
-      "link": "https://medium.com/codetodeploy/ai-resume-career-helper-for-fresh-graduates-with-next-js-and-langchain-ad64114c9e5f?source=rss------artificial_intelligence-5",
-      "published": "2026-07-03T16:49:38+00:00",
-      "summary": "介紹如何使用 Next.js 和 LangChain 建立 AI 職涯與履歷助手。這展示了如何將 AI 快速整合進網頁應用以解決學生的求職痛點。",
-      "category": "應用案例",
+      "source": "Dev.to AI",
+      "title": "Speed Without Understanding Is Debt: What I Learned at the Gartner Atlanta CIO Executive Summit",
+      "link": "https://dev.to/tirumalaraonaidu/speed-without-understanding-is-debt-what-i-learned-at-the-gartner-atlanta-cio-executive-summit-2nm9",
+      "published": "2026-07-04T00:03:08+00:00",
+      "summary": "探討企業在快速導入 AI 時，若缺乏深入理解將帶來技術債，並思索 AI 時代下人類的核心價值。這對於建立人機協作思維與產品設計策略具有啟發性。",
+      "category": "產業動態",
       "importance": 3,
       "skills": []
     },
     {
       "source": "Dev.to AI",
-      "title": "AI-Powered Tag Automation for Solo Estate Sale Organizers",
-      "link": "https://dev.to/ken_deng_ai/ai-powered-tag-automation-for-solo-estate-sale-organizers-5die",
-      "published": "2026-07-03T16:41:45+00:00",
-      "summary": "介紹如何為獨立遺產拍賣組織者自動化生成帶有價格與描述的可列印標籤。這能幫助個體戶利用 AI 快速處理實體商品的標籤與文件自動化工作流程。",
-      "category": "應用案例",
+      "title": "Memory Sidecar v3.5.1: Operational Hardening for Agent-Agnostic Memory",
+      "link": "https://dev.to/mage0535/memory-sidecar-v351-operational-hardening-for-agent-agnostic-memory-3a33",
+      "published": "2026-07-04T00:01:58+00:00",
+      "summary": "Memory Sidecar 釋出 3.5.1 版本，專注於提升 AI Agent 共享持久記憶層的安全與穩定性。這對於開發多 Agent 系統或進階 AI 工作流的開發者非常重要。",
+      "category": "工具更新",
       "importance": 3,
       "skills": [
-        "python-automation"
+        "claude-api"
       ]
     },
     {
-      "source": "Reddit r/artificial",
-      "title": "DO NOT PAY FOR A SUBSCRIPTION",
-      "link": "https://www.reddit.com/r/artificial/comments/1umenvi/do_not_pay_for_a_subscription/",
-      "published": "2026-07-03T13:35:10+00:00",
-      "summary": "Reddit 用戶抱怨 Perplexity Pro 默默對原本宣稱無限的檔案上傳與深度搜尋功能進行了次數限制。這提醒使用者在付費訂閱 AI 工具時需留意服務條款與實際額度的變動。",
+      "source": "Medium AI",
+      "title": "What Is a Token? ChatGPT’s Smallest Building Block Explained Simply",
+      "link": "https://pub.towardsai.net/what-is-a-token-chatgpts-smallest-building-block-explained-simply-728b1a81661a?source=rss------artificial_intelligence-5",
+      "published": "2026-07-04T00:01:01+00:00",
+      "summary": "深入淺出地解釋了 Token 這個 LLM 的基礎單元，說明 ChatGPT、Claude 與 Gemini 等模型如何處理語言。這是優化 Prompt 結構與控制 API 呼叫成本的必備基礎知識。",
       "category": "社群討論",
       "importance": 3,
-      "skills": []
+      "skills": [
+        "gemini",
+        "claude-api",
+        "prompt-engineering"
+      ]
     },
     {
-      "source": "Hacker News",
-      "title": "Please stop the AI confidence theater",
-      "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "published": "2026-07-03T12:51:17+00:00",
-      "summary": "社群熱烈討論 AI 表現出的「過度自信劇場」現象。探討在使用 AI 工具時，如何辨識並應對其給出肯定卻錯誤答案的情況，避免盲目信任。",
+      "source": "Medium AI",
+      "title": "Why Bigger Context Windows Don’t Improve AI Accuracy — Context Strategy",
+      "link": "https://medium.com/beyond-the-algorithm/why-bigger-context-windows-dont-improve-ai-accuracy-context-strategy-15994c2d7e95?source=rss------artificial_intelligence-5",
+      "published": "2026-07-03T23:52:16+00:00",
+      "summary": "探討為何單純加大上下文窗口無法提升 AI 準確度，指出優化脈絡結構才是關鍵。這對設計高效的提示詞和檢索系統提供了實用策略。",
       "category": "社群討論",
       "importance": 3,
       "skills": [
@@ -222,11 +159,71 @@
       ]
     },
     {
+      "source": "Reddit r/artificial",
+      "title": "Hey Engineers/Coders",
+      "link": "https://www.reddit.com/r/artificial/comments/1ump6zj/hey_engineerscoders/",
+      "published": "2026-07-03T20:27:35+00:00",
+      "summary": "探討「AI 垃圾代碼」的定義，以及僅靠直覺寫 Code 的氛圍程序員與傳統工程師之間的技術鴻溝。這對於評估 AI 輔助開發的極限十分有益。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "published": "2026-07-03T18:43:00+00:00",
+      "summary": "分析多款新型瀏覽器如何挑戰 Chrome 的地位，並探討瀏覽器競爭如何從單純搜尋轉向整合 AI 功能。這有助於了解日常生產力工具的演進趨勢。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
+      "link": "https://okaneland.com/study/ai-productivity-roi-at-work/",
+      "published": "2026-07-03T17:03:22+00:00",
+      "summary": "一項研究指出目前 AI 僅能幫員工節省約 3% 的工作時間，且幾乎未轉化為實質經濟收益。這為評估 AI 工具的真實導入回報率提供了客觀參考。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "the scariest part of AI isn't that it'll replace us — it's that we'll stop checking its work",
+      "link": "https://www.reddit.com/r/artificial/comments/1umg44p/the_scariest_part_of_ai_isnt_that_itll_replace_us/",
+      "published": "2026-07-03T14:33:50+00:00",
+      "summary": "社群熱議過度依賴 AI 生成草稿（如郵件、代碼）會讓人失去主動審查與批判思考的能力。這警示使用者在享受 AI 便利時仍須保持人工校對。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Instead of banning AI, I made a classroom contract with my students",
+      "link": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
+      "published": "2026-07-03T14:28:33+00:00",
+      "summary": "分享一位教師在課堂上不禁用 AI，而是與學生共同制定「AI 課堂使用公約」的實踐經驗。這展現了在學習與工作中與 AI 共存的良好實踐模式。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic wants to develop its own drugs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "published": "2026-07-03T13:56:52+00:00",
+      "summary": "Anthropic 推出專為科學家設計的 AI 工作平台「Claude Science」，能整合零散工具並生成視覺化圖表。這象徵著 AI 實用工具正逐步深入科學研發領域。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
       "source": "The Verge AI",
       "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
       "published": "2026-07-03T11:49:10+00:00",
-      "summary": "Midjourney 展示了其研發的超音波醫療掃描儀幕後影片，試圖透過 AI 影像技術顛覆傳統醫療造影，但其技術實用性仍受外界質疑。這顯示出這家圖像生成巨頭跨界實體硬體設計與醫療的野心。",
+      "summary": "Midjourney 展示了其超音波醫療掃描器的幕後開發，雖然功能尚未獲得充分證實，但展現了該影像生成巨頭進軍醫療硬體設計的野心。這對關注實體硬體設計的學生極具啟發性。",
       "category": "產業動態",
       "importance": 3,
       "skills": [
@@ -234,69 +231,46 @@
       ]
     },
     {
-      "source": "arXiv cs.AI",
-      "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
-      "link": "https://arxiv.org/abs/2607.01425",
-      "published": "2026-07-03T04:00:00+00:00",
-      "summary": "研究提出 Agent4cs 多 Agent 系統，旨在改善如 Claude Code 等單一模型在處理複雜階層代碼庫時的摘要能力。這能幫助開發者更高效地理解大型專案與代碼相依性。",
-      "category": "研究論文",
+      "source": "Hacker News",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "published": "2026-07-03T08:31:37+00:00",
+      "summary": "阿里巴巴因資安後門疑慮，宣布在工作場所禁用 Anthropic 的 Claude Code 工具。這凸顯了企業在導入自主 AI 程式代理工具時，對於資訊安全的權衡與考量。",
+      "category": "產業動態",
       "importance": 3,
       "skills": [
         "claude-code"
       ]
     },
     {
-      "source": "arXiv cs.AI",
-      "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
-      "link": "https://arxiv.org/abs/2607.01433",
-      "published": "2026-07-03T04:00:00+00:00",
-      "summary": "研究提出 CreativityNeuro 方法，透過引導語言模型權重來增強發散性思考，減少重複內容生成。這能顯著提升 AI 在協助創意發想與腦力激盪時的實用性與多樣性。",
-      "category": "研究論文",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI coding is a nightmare. Am I the only one experiencing this?",
-      "link": "https://news.ycombinator.com/item?id=48770319",
-      "published": "2026-07-03T03:18:42+00:00",
-      "summary": "社群熱議 AI 程式碼編寫助手常因上下文限制而重複撰寫功能、造成程式碼臃腫的問題。這指出了現行 AI 編程工具在處理大型專案時的痛點，提醒使用者需注意其局限。",
+      "source": "Reddit r/artificial",
+      "title": "Why does AI love the em dash (—)??",
+      "link": "https://www.reddit.com/r/artificial/comments/1um1gd5/why_does_ai_love_the_em_dash/",
+      "published": "2026-07-03T02:06:22+00:00",
+      "summary": "Reddit 社群熱烈討論為何 AI 生成文本極度偏好使用破折號（em dash），甚至成為辨識 AI 寫作的特徵。這對於需要優化 Prompt 以使 AI 輸出更自然的設計師來說，是實用的提示詞調整細節。",
       "category": "社群討論",
       "importance": 3,
       "skills": [
-        "claude-code"
+        "prompt-engineering"
       ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Protect your right to run local AI",
+      "link": "https://righttointelligence.org/",
+      "published": "2026-07-02T23:54:03+00:00",
+      "summary": "Hacker News 社群發起保護用戶在本地運行 AI 模型權利的倡議，獲得廣泛關注。這關乎未來個人創作者能否在不依賴雲端與保護隱私的前提下，自由使用開源 AI 工具。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
     },
     {
       "source": "TechCrunch AI",
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
       "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "published": "2026-07-02T23:38:10+00:00",
-      "summary": "Meta 執行長祖克柏在內部會議坦言，AI Agent 的研發進展並未如預期般迅速。這反映出科技巨頭對當前 AI 自主代理技術發展瓶頸的務實評估。",
+      "summary": "Meta 執行長祖克柏在內部會議坦言，AI Agent（智慧代理）的發展速度並不如預期般迅速。這提醒我們當前在將 AI 深度整合進全自動工作流程時，仍需面對技術瓶頸與工具局限性。",
       "category": "產業動態",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "Independent benchmark shows big drops on Claude Fable 5 after its relaunch, here’s the actual context",
-      "link": "https://www.reddit.com/r/artificial/comments/1ulvegw/independent_benchmark_shows_big_drops_on_claude/",
-      "published": "2026-07-02T21:38:11+00:00",
-      "summary": "獨立基準測試顯示 Claude Fable 5 重新發布後效能出現顯著下滑，疑似與規避出口管制及修補越獄漏洞有關。這提醒依賴該模型的開發者在進行程式碼生成或除錯時需注意品質變化。",
-      "category": "社群討論",
-      "importance": 3,
-      "skills": [
-        "claude-api",
-        "claude-code"
-      ]
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: Why are so many \"AI evangelists\" posting such insufferable content?",
-      "link": "https://news.ycombinator.com/item?id=48765450",
-      "published": "2026-07-02T18:23:03+00:00",
-      "summary": "Hacker News 社群熱烈討論 LinkedIn 上氾濫的「AI 佈道者」現象，批評其內容流於焦慮行銷而非實質技術分享。這有助於讀者在喧囂的社群輿論中保持客觀，專注於真正的技術應用。",
-      "category": "社群討論",
       "importance": 3,
       "skills": []
     },
@@ -305,7 +279,17 @@
       "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
       "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
       "published": "2026-07-02T13:53:00+00:00",
-      "summary": "微軟宣布承諾投入 25 億美元成立專門的 AI 部署公司，協助各行各業加速導入 AI 技術。這將進一步推動企業工作流程的 AI 化，創造更多應用落地機會。",
+      "summary": "微軟宣布出資 25 億美元成立專門的 AI 部署公司，旨在加速推動 AI 技術在各行各業的實際落地。這顯示科技巨頭正將重心從「研發模型」轉向「協助客戶將 AI 整合進工作流程」。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+      "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "published": "2026-07-02T11:15:49+00:00",
+      "summary": "Google 為了建設 AI 資料中心，導致其 2025 年用電量暴增 37%。這顯示出 AI 技術快速發展背後，科技巨頭正面臨巨大的能源消耗與環保減碳挑戰。",
       "category": "產業動態",
       "importance": 3,
       "skills": []
@@ -315,91 +299,87 @@
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
       "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
       "published": "2026-07-02T10:23:27+00:00",
-      "summary": "OpenAI 提議向美國政府提供 5% 的股權，以期緩解與新政府的緊張關係。這顯示 AI 巨頭正試圖透過利益共享，來應對政治與監管方面的挑戰。",
+      "summary": "OpenAI 提議向美國政府提供 5% 的股份，以期緩解與川普政府的緊張關係。此舉反映了 AI 龍頭企業在政治與社會輿論壓力下，試圖尋求政策支持與利益綑綁的策略。",
       "category": "產業動態",
       "importance": 3,
       "skills": []
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "published": "2026-07-02T05:30:00+00:00",
-      "summary": "印度科技大亨投資 3000 萬美元創立 Neo，旨在打造一個與微軟及 Google 競爭的 AI 辦公室套件。這項嘗試代表 AI 整合工作流程正深度顛覆傳統的文書與生產力工具。",
+      "source": "Dev.to AI",
+      "title": "Google June 2026 Spam Update — กวาดล้าง AI Manipulation ครั้งแรก ธุรกิจไทยได้รับผลอย่างไร?",
+      "link": "https://dev.to/sarantoon/google-june-2026-spam-update-kwaadlaang-ai-manipulation-khrangaerk-thurkicchaithyaidrabphlyaangair-1d1h",
+      "published": "2026-07-04T00:08:54+00:00",
+      "summary": "Google 釋出 2026 年 6 月的垃圾內容更新，首次針對操縱 AI Overviews 的行為進行打擊。這將影響網站 SEO 策略，對於理解 AI 搜尋生態的變革至關重要。",
       "category": "產業動態",
-      "importance": 3,
+      "importance": 2,
       "skills": []
     },
     {
-      "source": "Google AI Blog",
-      "title": "The latest AI news we announced in June 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "published": "2026-07-01T18:15:00+00:00",
-      "summary": "Google 發布了 2026 年 6 月的最新 AI 消息與 Pixel 功能更新。這展示了 Google 在行動裝置與消費級 AI 應用上的最新整合成果。",
-      "category": "工具更新",
-      "importance": 3,
-      "skills": [
-        "gemini"
-      ]
-    },
-    {
-      "source": "Medium AI",
-      "title": "How Running a Telehealth Network Prepared Me for the AI Integration Challenge",
-      "link": "https://medium.com/@chet.shermer/how-running-a-telehealth-network-prepared-me-for-the-ai-integration-challenge-885854c6b7cd?source=rss------artificial_intelligence-5",
-      "published": "2026-07-03T16:46:00+00:00",
-      "summary": "作者分享如何將遠距醫療系統的管理經驗應用於 AI 技術的組織整合。這說明了在導入新科技時，制度與流程的變革往往比技術本身更具挑戰性。",
+      "source": "Dev.to AI",
+      "title": "AI tools for Spanish teachers: a practical 2026 guide",
+      "link": "https://dev.to/dgmh10uk/ai-tools-for-spanish-teachers-a-practical-2026-guide-27p7",
+      "published": "2026-07-04T00:05:55+00:00",
+      "summary": "本文提供西班牙語教師實用的 AI 工具指南，旨在提升教學與語言學習效率。雖然針對特定教學領域，但展示了 AI 融入日常工作流程的實際應用。",
       "category": "應用案例",
       "importance": 2,
       "skills": []
     },
     {
-      "source": "Dev.to AI",
-      "title": "The Summer of AI Regulation: US Export Controls, the White House Voluntary Framework, and the Battle Over Frontier AI",
-      "link": "https://dev.to/tekmag/the-summer-of-ai-regulation-us-export-controls-the-white-house-voluntary-framework-and-the-2e7d",
-      "published": "2026-07-03T16:43:22+00:00",
-      "summary": "解析美歐在 2026 年即將實施的 AI 監管法規與出口限制。雖然對開發者有合規影響，但對一般應用端而言屬於偏遠的政策新聞。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "TCPA After Lowrey v. OpenAI: What AI Voice Agencies Must Change Right Now",
-      "link": "https://dev.to/alfredo_romero_fc4afdcb68/tcpa-after-lowrey-v-openai-what-ai-voice-agencies-must-change-right-now-1ec8",
-      "published": "2026-07-03T16:41:10+00:00",
-      "summary": "美國一宗針對 OpenAI 與 Twilio 的訴訟案改變了 AI 語音代理商的法律合規環境，底層平台也需承擔責任。這對開發 AI 語音應用的團隊在合規防範上至關重要。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: \"Wasn’t It?\"",
-      "link": "https://www.reddit.com/r/artificial/comments/1um52w9/jodie_foster_says_brad_pitts_f1_seemed_like_it/",
-      "published": "2026-07-03T05:06:29+00:00",
-      "summary": "演員茱蒂·佛斯特稱布萊德·彼特的電影《F1》因結構與台詞過於公式化，感覺像是由 AI 編寫。這引發了社群對於好萊塢電影公式化與 AI 創作邊界的趣味討論。",
+      "source": "Medium AI",
+      "title": "Why Most People Pick the Wrong AI Business Idea",
+      "link": "https://awalynthtools.medium.com/why-most-people-pick-the-wrong-ai-business-idea-38c05764e8a6?source=rss------artificial_intelligence-5",
+      "published": "2026-07-04T00:01:01+00:00",
+      "summary": "分析創業者在選擇 AI 商業點子時的常見誤區，並指導如何正確評估 AI 的商業化價值。這對有意透過 AI 進行產品開發與創業的學生有參考作用。",
       "category": "社群討論",
       "importance": 2,
       "skills": []
     },
     {
-      "source": "Reddit r/artificial",
-      "title": "Why does AI love the em dash (—)??",
-      "link": "https://www.reddit.com/r/artificial/comments/1um1gd5/why_does_ai_love_the_em_dash/",
-      "published": "2026-07-03T02:06:22+00:00",
-      "summary": "社群網友討論 AI 寫作時極度偏好使用破折號（—），導致該符號成為 AI 撰寫的明顯特徵。這對於想透過提示詞調整使生成文本更自然、避開 AI 感官的創作者非常實用。",
-      "category": "社群討論",
+      "source": "TechCrunch AI",
+      "title": "The only AI glossary you’ll need this year",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "2026-07-03T21:20:00+00:00",
+      "summary": "整理了今年必備的 AI 專有名詞與術語字典，幫助讀者快速掌握相關概念。適合做為基礎知識補給，但實作應用性較低。",
+      "category": "產業動態",
       "importance": 2,
-      "skills": [
-        "prompt-engineering"
-      ]
+      "skills": []
     },
     {
       "source": "Hacker News",
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "published": "2026-07-02T20:38:06+00:00",
-      "summary": "祖克柏指出 AI Agent 的發展速度慢於預期，此消息引發科技社群對 AI 技術落地難度的討論。這有助於理解當前 AI 代理技術在實務應用上的真實技術瓶頸。",
+      "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "link": "https://kagi.com/changelog#10959",
+      "published": "2026-07-03T20:08:01+00:00",
+      "summary": "分享搜尋引擎 Kagi 的更新日誌，其中包括新增了 AI 功能的切換開關。這屬於特定工具的常規小幅功能更新。",
+      "category": "工具更新",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "DO NOT PAY FOR A SUBSCRIPTION",
+      "link": "https://www.reddit.com/r/artificial/comments/1umenvi/do_not_pay_for_a_subscription/",
+      "published": "2026-07-03T13:35:10+00:00",
+      "summary": "Reddit 用戶抱怨 Perplexity Pro 悄悄限制了無限上傳與深度研究的使用額度，影響專業分析工作。這提醒使用者在選擇訂閱制 AI 服務時，需留意服務條款的變更風險。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Please stop the AI confidence theater",
+      "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "published": "2026-07-03T12:51:17+00:00",
+      "summary": "文章討論 AI 表現出過度自信卻給出錯誤答案的「信心劇場」現象。這提醒我們在建立 AI 工作流程時，必須加入驗證機制，而非盲目信任其輸出的結果。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "遭AI資安報告誤指涉入間諜軟體行動，視訊會議新創公司控告Palo Alto子公司",
+      "link": "https://www.ithome.com.tw/news/177073",
+      "published": "2026-07-03T03:07:00+00:00",
+      "summary": "視訊新創公司因不實資安報告控告 Palo Alto 子公司，質疑該錯誤分析源自 AI 幻覺所致。",
       "category": "產業動態",
       "importance": 2,
       "skills": []
@@ -409,17 +389,7 @@
       "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
       "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
       "published": "2026-07-02T20:11:59+00:00",
-      "summary": "連鎖潛艇堡品牌在 IPO 招股書中強行加入 AI 字眼，反映出當前市場對 AI 的過度炒作與盲目跟風。這提醒投資人與開發者應理性看待包裝成 AI 的傳統業務。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "OpenAI in talks to give Trump administration a 5% stake in the company, FT reports",
-      "link": "https://www.reddit.com/r/artificial/comments/1ulqgre/openai_in_talks_to_give_trump_administration_a_5/",
-      "published": "2026-07-02T18:31:33+00:00",
-      "summary": "外媒報導 OpenAI 正與川普政府洽談，考慮讓美國政府持有該公司 5% 的股份。這反映出 AI 巨頭與國家政治力量之間日益緊密的政商關係。",
+      "summary": "連鎖三明治品牌 Jersey Mike's 的招股書中也提及 AI 技術，引發輿論對於市場過度炒作 AI 概念的批評。這反映了當前商業環境中，非科技企業盲目標榜 AI 的泡沫現象。",
       "category": "產業動態",
       "importance": 2,
       "skills": []
@@ -429,7 +399,7 @@
       "title": "Anthropic is discussing a new custom chip with Samsung",
       "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
       "published": "2026-07-02T18:31:09+00:00",
-      "summary": "Anthropic 正與三星討論開發新型客製化 AI 晶片，以應對日益增長的算力需求。這顯示 AI 軟體公司正積極往硬體底層布局，以降低長期營運成本。",
+      "summary": "Anthropic 正在與三星洽談合作，計畫共同開發客製化 AI 晶片以降低對現有硬體巨頭的依賴。此消息屬於底層晶片供應鏈的產業動態，與終端應用無直接關聯。",
       "category": "產業動態",
       "importance": 2,
       "skills": []
@@ -439,17 +409,7 @@
       "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
       "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
       "published": "2026-07-02T15:20:51+00:00",
-      "summary": "OpenAI 執行長 Sam Altman 提議將公司 5% 的股權捐贈給美國主權財富基金，旨在讓公眾能分享 AI 榮景帶來的經濟利益。這是 AI 頂尖企業在社會責任與政策遊說上的重要表態。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
-      "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-      "published": "2026-07-02T15:12:25+00:00",
-      "summary": "川普政府促使 OpenAI 提供美國政府 5% 的股份，此比例雖低於部分政客預期，但象徵著政府對 AI 關鍵基礎設施的控制力增加。",
+      "summary": "OpenAI 執行長提議將公司 5% 的股權捐贈給美國主權財富基金，讓大眾能共享 AI 技術帶來的經濟红利。此為公司營運結構與公共利益政策相關的新聞。",
       "category": "產業動態",
       "importance": 2,
       "skills": []
@@ -459,77 +419,117 @@
       "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
       "link": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
       "published": "2026-07-02T14:39:17+00:00",
-      "summary": "隱私倡導團體警告美國聯邦貿易委員會，指出馬斯克的 X 平台在 AI 數據採集與使用上存在嚴重的隱私風險。這提醒使用者在平台上分享敏感設計草圖或數據時需更加謹慎。",
+      "summary": "隱私倡議團體警告聯邦貿易委員會，馬斯克的 X 平台在 AI 訓練政策中存在嚴重侵犯用戶隱私的風險。這關乎社群平台數據使用爭議與用戶隱私權益。",
       "category": "產業動態",
       "importance": 2,
       "skills": []
     },
     {
-      "source": "Ars Technica AI",
-      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-      "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-      "published": "2026-07-02T11:15:49+00:00",
-      "summary": "Google 為了建設 AI 基礎設施，導致其 2025 年的用電量大幅增長 37%，引發外界對 AI 算力環保代價的擔憂。這顯示了 AI 技術在永續發展與能源消耗上面臨的巨大挑戰。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Medium AI",
-      "title": "Ukraine’s Latest Tactic Could Reshape the Battlefield",
-      "link": "https://medium.com/@18shubhampawar/ukraines-latest-tactic-could-reshape-the-battlefield-f5af99c7182e?source=rss------artificial_intelligence-5",
-      "published": "2026-07-03T16:51:15+00:00",
-      "summary": "分析烏克蘭戰場上最新戰術的演變，探討新技術如何重塑未來的軍事衝突格局。",
-      "category": "產業動態",
-      "importance": 1,
-      "skills": []
-    },
-    {
-      "source": "Medium AI",
-      "title": "The Quietest Flex: Building a Profitable Business Empire From a Room That Smells Like Your Dog",
-      "link": "https://medium.com/@shrutikamokashi/the-quietest-flex-building-a-profitable-business-empire-from-a-room-that-smells-like-your-dog-ebf7713183ec?source=rss------artificial_intelligence-5",
-      "published": "2026-07-03T16:48:25+00:00",
-      "summary": "討論 2026 年新一代創業家如何擺脫盲目忙碌，轉而建立具備高生產力的個人工作聖地。這反映了遠端工作與一人企業的最新社群趨勢。",
+      "source": "Dev.to AI",
+      "title": "Why I Stopped Reaching for Redis on Solo Projects",
+      "link": "https://dev.to/raxxostudios/why-i-stopped-reaching-for-redis-on-solo-projects-3jcf",
+      "published": "2026-07-04T00:05:35+00:00",
+      "summary": "作者分享為何在個人專案中放棄 Redis，轉而使用 SQLite 和 Postgres 等更簡單的方案。此文偏向後端架構的技術選擇討論，與 AI 應用無直接關聯。",
       "category": "社群討論",
       "importance": 1,
       "skills": []
     },
     {
-      "source": "Medium AI",
-      "title": "How Your Rico Chapters Unlock Unlimited Trading Profits!",
-      "link": "https://medium.com/@ricomatrixdapp/how-your-rico-chapters-unlock-unlimited-trading-profits-22e4abb7ff70?source=rss------artificial_intelligence-5",
-      "published": "2026-07-03T16:46:42+00:00",
-      "summary": "介紹如何連結 Matrix 儀表板與 Rico 智能量化交易引擎以實現投資自動化。此文偏向特定金融工具的行銷推廣。",
+      "source": "Dev.to AI",
+      "title": "Factories are just rooms — What Nobody Tells You",
+      "link": "https://dev.to/adedolapo_adeniyi_166e7ba/factories-are-just-rooms-what-nobody-tells-you-3ani",
+      "published": "2026-07-04T00:03:43+00:00",
+      "summary": "文章以「房間」為比喻重新解構工廠與商業運作系統，提倡新型態的營運思維。內容偏向傳統工業管理觀念，不涉及 AI 實際應用技術。",
       "category": "產業動態",
       "importance": 1,
       "skills": []
     },
     {
       "source": "Medium AI",
-      "title": "Are We Rebuilding the Days of Noah? AI, Genetic Engineering, and the Return of an Ancient Warning",
-      "link": "https://medium.com/@godswarrior2012/are-we-rebuilding-the-days-of-noah-ai-genetic-engineering-and-the-return-of-an-ancient-warning-1f9a5a2e6f96?source=rss------artificial_intelligence-5",
-      "published": "2026-07-03T16:46:28+00:00",
-      "summary": "探討 AI 與基因工程等尖端科技發展是否正呼應古代宗教預言的警示。此文屬於科技哲學與社會思潮的討論。",
+      "title": "You’re Probably Measuring Typing Speed the Wrong Way",
+      "link": "https://medium.com/@emirstormzy/youre-probably-measuring-typing-speed-the-wrong-way-d755d21de84d?source=rss------artificial_intelligence-5",
+      "published": "2026-07-04T00:02:03+00:00",
+      "summary": "討論打字速度的正確測量方式，指出大多數人對於提升打字效率的盲點。此內容與 AI 應用無直接關聯。",
       "category": "社群討論",
       "importance": 1,
       "skills": []
     },
     {
-      "source": "Medium AI",
-      "title": "Copper Has One Inconvenient Problem: You Cannot Switch It On",
-      "link": "https://medium.com/@floyd_mulay453/copper-has-one-inconvenient-problem-you-cannot-switch-it-on-e73fe54b9c71?source=rss------artificial_intelligence-5",
-      "published": "2026-07-03T16:44:15+00:00",
-      "summary": "分析全球銅礦供應鏈所面臨的結構性問題，指出新增供應無法快速滿足急劇增長的需求。這屬於硬體與材料領域的產業動態。",
+      "source": "Dev.to AI",
+      "title": "Thriving in Low Volatility: Leveraging APIs and Automation for Trading Opportunities in the S&P 500 and Nasdaq",
+      "link": "https://dev.to/nsst/thriving-in-low-volatility-leveraging-apis-and-automation-for-trading-opportunities-in-the-sp-500-2bgh",
+      "published": "2026-07-04T00:01:15+00:00",
+      "summary": "探討如何利用 API 與自動化技術在低波動市場中尋找美股交易機會。內容偏向金融量化交易，與工業設計或一般 AI 實用工具無關。",
+      "category": "應用案例",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Data Centers Use More Water Than Most Tech Giants Report",
+      "link": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
+      "published": "2026-07-03T12:33:20+00:00",
+      "summary": "研究指出 AI 數據中心實際消耗的水資源遠超科技巨頭所申報的數量。這突顯了 AI 技術在快速發展背後，對環境資源所造成的沉重負擔。",
       "category": "產業動態",
       "importance": 1,
       "skills": []
     },
     {
       "source": "iThome",
-      "title": "遭AI資安報告誤指涉入間諜軟體行動，視訊會議新創公司控告Palo Alto子公司",
-      "link": "https://www.ithome.com.tw/news/177073",
-      "published": "2026-07-03T03:07:00+00:00",
-      "summary": "視訊會議新創公司起訴資安公司，指控其資安報告因 AI 幻覺而錯誤將其標記為與間諜軟體有關。這凸顯了過度依賴 AI 進行自動化資安分析可能帶來的重大商業與法律風險。",
+      "title": "Zero Day Clock網站示警：漏洞揭露到被利用的時間已跌破1天",
+      "link": "https://www.ithome.com.tw/news/177079",
+      "published": "2026-07-03T09:07:06+00:00",
+      "summary": "資安數據指出，零日漏洞從公開揭露到首次被駭客利用的時間已縮短至不到一天。這顯示資安威脅反應時間極度壓縮，企業需加速防禦部署。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "駭客冒充國際刑警組織寄送釣魚郵件，鎖定中小企業散布勒索軟體",
+      "link": "https://www.ithome.com.tw/news/177080",
+      "published": "2026-07-03T06:07:23+00:00",
+      "summary": "駭客近期假冒國際刑警組織向全球中小企業發送釣魚郵件，藉此植入惡意程式並勒索。中小企業需提高對執法機構名義郵件的防範意識。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "FBI警告駭客組織TeamPCP鎖定軟體開發者，針對開發工具與CI/CD發動供應鏈攻擊",
+      "link": "https://www.ithome.com.tw/news/177075",
+      "published": "2026-07-03T05:07:55+00:00",
+      "summary": "FBI 警告開發者留意駭客組織 TeamPCP 針對 CI/CD 流程與開發工具發動的供應鏈攻擊，防範敏感憑證遭竊。這凸顯了軟體開發流程中工具鏈安全防護的重要性。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "惡意程式SocGholish於3年內入侵逾144萬個WordPress網站",
+      "link": "https://www.ithome.com.tw/news/177078",
+      "published": "2026-07-03T05:07:28+00:00",
+      "summary": "歐洲刑警組織成功打擊了 SocGholish 惡意程式的基礎設施，該程式在過去三年內入侵了超過百萬個 WordPress 網站。這彰顯了跨國執法在網站平臺資安維護上的成果。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: \"Wasn’t It?\"",
+      "link": "https://www.reddit.com/r/artificial/comments/1um52w9/jodie_foster_says_brad_pitts_f1_seemed_like_it/",
+      "published": "2026-07-03T05:06:29+00:00",
+      "summary": "演員茱蒂佛斯特戲稱電影《F1》的結構與台詞過於公式化，簡直就像是 AI 寫出來的。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+      "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "published": "2026-07-02T15:12:25+00:00",
+      "summary": "OpenAI 執行長與川普政府積極接觸，提議讓美國政府持有其 5% 的股份。這屬於地緣政治與 AI 巨頭監管的政治新聞，對實務應用影響極低。",
       "category": "產業動態",
       "importance": 1,
       "skills": []
