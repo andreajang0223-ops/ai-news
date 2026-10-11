@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T01:47:07.976748+00:00",
+  "count": 20,
+  "items": [
+    {
+      "source": "Reddit r/artificial",
+      "title": "Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs",
+      "link": "https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/",
+      "published": "2026-10-10T23:57:43+00:00",
+      "summary": "展示 Claude Opus 5.5 在一夜之間反編譯 PS2 時代的遊戲，並使其能直接在瀏覽器分頁中執行。這突顯了 Anthropic 前沿模型在複雜程式碼重構與 Agentic 寫程式上的驚人突破。",
+      "category": "應用案例",
+      "importance": 5,
+      "skills": [
+        "claude-code",
+        "webgl"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "I Put Sam Altman and Dario Amodei in a Music Video—On My Own DGX Spark",
+      "link": "https://generativeai.pub/i-put-sam-altman-and-dario-amodei-in-a-music-video-on-my-own-dgx-spark-72f2914e716b?source=rss------artificial_intelligence-5",
+      "published": "2026-10-11T01:20:27+00:00",
+      "summary": "作者分享利用 Qwen 角色參考與 H3 影片 AI 工具，在個人硬體設備上製作包含科技巨頭客串的音樂影片。這展現了多模態生成工具在創意設計與視覺專案中的實務工作流。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Not Getting the Answer You Wanted from AI? 10 Copy-and-Paste Prompt Templates",
+      "link": "https://medium.com/@teacherzawa/not-getting-the-answer-you-wanted-from-ai-10-copy-and-paste-prompt-templates-132a29d500b9?source=rss------artificial_intelligence-5",
+      "published": "2026-10-11T01:20:11+00:00",
+      "summary": "本文匯整來自 OpenAI、Google 與 Microsoft 官方指南的 10 個即插即用 Prompt 範本，協助使用者精準引導 AI。這是快速提升提示詞設計品質與工作效率的實用指南。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Parkbench.ai: Making Streaming Voice Work on CPUs",
+      "link": "https://medium.com/@michael.leigh.stewart/parkbench-ai-making-streaming-voice-work-on-cpus-3be5847884d5?source=rss------artificial_intelligence-5",
+      "published": "2026-10-11T01:22:08+00:00",
+      "summary": "Parkbench.ai 透過小模型與 CPU 量化推論技術，將批次 TTS 轉換為低延遲的即時語音對話。這讓邊緣設備或 CPU 環境下實現連續語音 AI 互動變得更可行。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "published": "2026-10-10T22:10:17+00:00",
+      "summary": "微軟 CEO Satya Nadella 表示業界應假設所有 AI 模型都已被妥協，主張必須打破黑盒子並重建信任架構。這反映了科技巨頭對高階 AI 模型安全與風險管控的最新立場。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "published": "2026-10-10T21:47:51+00:00",
+      "summary": "微軟 CEO Satya Nadella 呼籲 AI 模型應具備「緊急煞車」機制，以因應資安與失控風險。這顯示龍頭企業正在推動建立更嚴格的 AI 安全防護與控制標準。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Non-text AI model maker Jev valued at $7.5B just weeks after launch",
+      "link": "https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/",
+      "published": "2026-10-10T20:52:03+00:00",
+      "summary": "專注於非文字 AI 模型開發的新創 Jev 在成立數週內估值即達 75 億美元。這反映市場對超越傳統文字互動的多模態與非文字 AI 技術有極高期望。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "published": "2026-10-10T19:50:00+00:00",
+      "summary": "蘋果被揭露收購個人化 Podcast 新創 Huxe 的團隊與技術，預計將 AI 生成音訊整合至其生態系中。這代表消費級產品將加速導入個人化生成式音訊體驗。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "published": "2026-10-10T18:52:07+00:00",
+      "summary": "為因應環球音樂對「AI 垃圾內容」的訴訟，音樂發行平台 DistroKid 開始大量下架涉嫌侵權的 AI 生成歌曲。這顯示 AI 音樂創作在商業發行上正面臨日益嚴格的法律規範與版權審查。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "published": "2026-10-10T18:48:35+00:00",
+      "summary": "輝達正洽談收購開源 AI 模型新創 Reflection AI，試圖進一步鞏固其在開源 AI 生態系中的主導地位。這項交易若達成，將推動晶片巨頭與開源模型開發的深度整合。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "A Florida local newspaper ran an op-ed. It was an Iranian AI fake.",
+      "link": "https://www.reddit.com/r/artificial/comments/1x2nvth/a_florida_local_newspaper_ran_an_oped_it_was_an/",
+      "published": "2026-10-10T19:31:54+00:00",
+      "summary": "佛羅里達地方報紙刊登的一篇社論被證實是由伊朗操控的 AI 虛假資訊。這提醒了生成式 AI 技術被用於資訊戰以及媒體內容審核上的嚴峻挑戰。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "VIVIAN DID THE WORK. EDITH WILL TAKE THE BOW.",
+      "link": "https://medium.com/the-gravity/vivian-did-the-work-edith-will-take-the-bow-0e0eaaf66d49?source=rss------artificial_intelligence-5",
+      "published": "2026-10-11T01:19:45+00:00",
+      "summary": "內容為一篇探討技術背後隱形貢獻者與名聲獲取的散文隨筆。該文章不涉及實務 AI 技術開發或工具應用。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How to Turn Two Photos Into an AI Rap Video",
+      "link": "https://dev.to/smartnova_neobotx_e2ce28f/how-to-turn-two-photos-into-an-ai-rap-video-393a",
+      "published": "2026-10-11T01:43:26+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "GraphRAG vs Neo4j: Which Do You Actually Need?",
+      "link": "https://dev.to/synapcores/graphrag-vs-neo4j-which-do-you-actually-need-3ln1",
+      "published": "2026-10-11T01:40:46+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Best AI-Native Databases in 2026: 9 Options Compared",
+      "link": "https://dev.to/synapcores/best-ai-native-databases-in-2026-9-options-compared-3opn",
+      "published": "2026-10-11T01:40:42+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "AI-Powered Trading Strategies for Crypto Markets — 2026-10-11 #3",
+      "link": "https://dev.to/rogt7/ai-powered-trading-strategies-for-crypto-markets-2026-10-11-3-3ai8",
+      "published": "2026-10-11T01:38:55+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Invoice Text Classification: Auditing OpenAI, Claude, and Gemini JSON Accuracy",
+      "link": "https://dev.to/trkfpn392751/invoice-text-classification-auditing-openai-claude-and-gemini-json-accuracy-1p5m",
+      "published": "2026-10-11T01:36:40+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "100 Tech Company CEOs on AI and Humanity: Their Visions, Warnings, and the Future of Civilization",
+      "link": "https://bernardugochukwu.medium.com/100-tech-company-ceos-on-ai-and-humanity-their-visions-warnings-and-the-future-of-civilization-4dad1df30266?source=rss------artificial_intelligence-5",
+      "published": "2026-10-11T01:35:06+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Is AI a Bubble? Nvidia Now Outweighs the 257 Smallest Companies in the S&P 500.",
+      "link": "https://medium.com/@reactbd/is-ai-a-bubble-nvidia-now-outweighs-the-257-smallest-companies-in-the-s-p-500-8b76904349d1?source=rss------artificial_intelligence-5",
+      "published": "2026-10-11T01:31:01+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Copilot CLI เลือกโมเดล AI ในเครื่องได้แล้ว แถมแซนด์บ็อกซ์ GA: มีช่องไหนที่ยังต้องระวัง?",
+      "link": "https://dev.to/sarantoon/copilot-cli-eluuekomedl-ai-ainekhruuengaidaelw-aethmaechndbkch-ga-miichngaihnthiiyangtngrawang-36k4",
+      "published": "2026-10-11T01:30:37+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    }
+  ]
+}
