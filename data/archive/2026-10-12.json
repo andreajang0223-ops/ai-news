@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T02:13:58.936399+00:00",
+  "count": 20,
+  "items": [
+    {
+      "source": "iThome",
+      "title": "JetBrains開源Mellum2.1模型，程式修復評測解決率從2%升至47%",
+      "link": "https://www.ithome.com.tw/news/179561",
+      "published": "2026-10-12T10:10:09+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "微軟2027年4月起淘汰部分檔案API預先驗證網址，開發者須調整權杖驗證",
+      "link": "https://www.ithome.com.tw/news/179556",
+      "published": "2026-10-12T08:10:57+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "日本客服平臺業者Scala Communications遭駭，洩露多家客戶個資逾70萬",
+      "link": "https://www.ithome.com.tw/news/179566",
+      "published": "2026-10-12T08:10:50+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "日本三家旅行服務、系統業者爆資料外洩超過千萬",
+      "link": "https://www.ithome.com.tw/news/179565",
+      "published": "2026-10-12T08:10:46+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "蘋果招募由NotebookLM前員工合組的AI podcast App公司Huxe",
+      "link": "https://www.ithome.com.tw/news/179564",
+      "published": "2026-10-12T08:10:19+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "韓國政府資料中心大火後，重訂系統分級與災難復原標準",
+      "link": "https://www.ithome.com.tw/news/179562",
+      "published": "2026-10-12T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "CISA揭露中國資安公司支援駭客攻擊，竊取多國組織敏感資料",
+      "link": "https://www.ithome.com.tw/news/179560",
+      "published": "2026-10-12T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Carbonato殭屍網路入侵Docker主機，部署AI代理竊取憑證",
+      "link": "https://www.ithome.com.tw/news/179550",
+      "published": "2026-10-12T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "I asked 6 image models the same thing. Only 1 followed the brief.",
+      "link": "https://dev.to/pixquill/i-asked-6-image-models-the-same-thing-only-1-followed-the-brief-m9i",
+      "published": "2026-10-12T02:12:13+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Your AI API bill can double overnight and you won't know until the invoice. Here's a 20-line fix.",
+      "link": "https://dev.to/renev3408/your-ai-api-bill-can-double-overnight-and-you-wont-know-until-the-invoice-heres-a-20-line-fix-3i9l",
+      "published": "2026-10-12T02:11:32+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Starlink collects personal user data to train artificial intelligence systems",
+      "link": "https://dev.to/hacksgr/starlink-collects-personal-user-data-to-train-artificial-intelligence-systems-59pa",
+      "published": "2026-10-12T02:09:33+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "🌱 Touch Grass API: AI-Powered Missions to Get You Outside",
+      "link": "https://dev.to/arthur_azevedo_889fff17d16/touch-grass-api-ai-powered-missions-to-get-you-outside-38aa",
+      "published": "2026-10-12T02:09:07+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AI Made Everyone Competent. That’s Why Taste Is About to Get Expensive.",
+      "link": "https://medium.com/@macplanet2012/ai-made-everyone-competent-thats-why-taste-is-about-to-get-expensive-5ec96e4e7a91?source=rss------artificial_intelligence-5",
+      "published": "2026-10-12T02:06:16+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Developers Quote $10,000 for This App. You Can Ship It in a Weekend With One Mental Model.",
+      "link": "https://medium.com/@anup.karanjkar08/developers-quote-10-000-for-this-app-you-can-ship-it-in-a-weekend-with-one-mental-model-c0e360f76b89?source=rss------artificial_intelligence-5",
+      "published": "2026-10-12T02:05:14+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The End of Free Tokens? Why AI Providers Are Tightening Free Usage and What Comes Next",
+      "link": "https://medium.com/@axdliu/the-end-of-free-tokens-why-ai-providers-are-tightening-free-usage-and-what-comes-next-6d201536bce2?source=rss------artificial_intelligence-5",
+      "published": "2026-10-12T02:04:11+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Leading Strategy in the AI Era: From Planning Strategy to Orchestrating Transformation",
+      "link": "https://medium.com/@rajeevranjan-1/leading-strategy-in-the-ai-era-from-planning-strategy-to-orchestrating-transformation-c788e55245c8?source=rss------artificial_intelligence-5",
+      "published": "2026-10-12T02:03:56+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Freelance AI Work Grew 90% in a Year. Pay Per Contract Fell 13%. Both Numbers Are One Story.",
+      "link": "https://medium.com/illumination/freelance-ai-work-grew-90-in-a-year-pay-per-contract-fell-13-both-numbers-are-one-story-1c6ea56e5839?source=rss------artificial_intelligence-5",
+      "published": "2026-10-12T02:03:17+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How to Run Qwen3.5 with OpenClaw for Free Using Ollama?",
+      "link": "https://dev.to/preecha/how-to-run-qwen35-with-openclaw-for-free-using-ollama-485k",
+      "published": "2026-10-12T02:03:11+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "A Burning Bridges AI Prompt, Line by Line: What Each Sentence Is Preventing",
+      "link": "https://dev.to/jim_l_efc70c3a738e9f4baa7/a-burning-bridges-ai-prompt-line-by-line-what-each-sentence-is-preventing-5hf7",
+      "published": "2026-10-12T02:03:01+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Chip Apple M4: Lompatan AI dan Terobosan Generasi Baru",
+      "link": "https://dev.to/ibramedia/chip-apple-m4-lompatan-ai-dan-terobosan-generasi-baru-2heo",
+      "published": "2026-10-12T02:02:12+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    }
+  ]
+}
