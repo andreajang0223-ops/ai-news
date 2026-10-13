@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T03:28:31.513227+00:00",
+  "count": 20,
+  "items": [
+    {
+      "source": "iThome",
+      "title": "Kiteworks修補126個漏洞，包含可能導致系統遭接管的EPG滿分漏洞",
+      "link": "https://www.ithome.com.tw/news/179606",
+      "published": "2026-10-13T11:10:29+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "政府推動主權AI，必須在第一天就內建AI治理",
+      "link": "https://www.ithome.com.tw/news/179603",
+      "published": "2026-10-13T10:10:33+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "思科發布10月上半更新，修補NX-OS、APIC、Smart License逾30個資安漏洞",
+      "link": "https://www.ithome.com.tw/news/179592",
+      "published": "2026-10-13T10:10:28+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Google DevSite爆RCE漏洞，偽造Cookie即可觸發",
+      "link": "https://www.ithome.com.tw/news/179602",
+      "published": "2026-10-13T08:10:34+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "OpenSSF與OpenChain提軟體供應鏈安全指引，協助企業因應CRA等歐盟法規",
+      "link": "https://www.ithome.com.tw/news/179563",
+      "published": "2026-10-13T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Upwind併購AI資安新創Aegis，成立研究團隊擴大AI代理安全布局",
+      "link": "https://www.ithome.com.tw/news/179524",
+      "published": "2026-10-13T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "PQC轉型不只升級系統，澳洲ASD強調教育訓練與長期維護",
+      "link": "https://www.ithome.com.tw/news/179515",
+      "published": "2026-10-13T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Python 3.15預設用UTF-8編碼，並新增延遲匯入機制",
+      "link": "https://www.ithome.com.tw/news/179600",
+      "published": "2026-10-13T07:10:39+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Route by Payload, Not by Habit",
+      "link": "https://dev.to/gitjs_8094/route-by-payload-not-by-habit-4hg6",
+      "published": "2026-10-13T03:22:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Before Your Agent Signs a 402, Check Five Fields",
+      "link": "https://dev.to/minia2a/before-your-agent-signs-a-402-check-five-fields-3af2",
+      "published": "2026-10-13T03:21:03+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Zero-Downtime Database Migrations: How to Change a Production Schema Without Breaking Your Spring…",
+      "link": "https://medium.com/@theturtlecode/zero-downtime-database-migrations-how-to-change-a-production-schema-without-breaking-your-spring-457146b12fe2?source=rss------artificial_intelligence-5",
+      "published": "2026-10-13T03:21:01+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "What's actually inside your image (and PDF) before you upload it",
+      "link": "https://dev.to/dylan_yu_7ffff00b5355942d/whats-actually-inside-your-image-and-pdf-before-you-upload-it-3j8l",
+      "published": "2026-10-13T03:20:10+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "AI Generates Text One Token at a Time. But How Does It Know When to Stop?",
+      "link": "https://dev.to/rijultp/ai-generates-text-one-token-at-a-time-but-how-does-it-know-when-to-stop-20ln",
+      "published": "2026-10-13T03:18:29+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "A 429 Loop Is Not Resilience: Reviewing Agent PRs That Retry Model Calls",
+      "link": "https://dev.to/aicpp_7811/a-429-loop-is-not-resilience-reviewing-agent-prs-that-retry-model-calls-12a0",
+      "published": "2026-10-13T03:17:43+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How to fill last minute grooming appointment cancellations",
+      "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/how-to-fill-last-minute-grooming-appointment-cancellations-ngh",
+      "published": "2026-10-13T03:16:18+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Local AI Assistant vs Cloud AI: What I Learned Running LLMs on My Own Rig",
+      "link": "https://dev.to/jojo_willnn_/local-ai-assistant-vs-cloud-ai-what-i-learned-running-llms-on-my-own-rig-2jpp",
+      "published": "2026-10-13T03:16:04+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "From Chatbots to Coworkers: How We Got from LLMs to Agentic AI",
+      "link": "https://medium.com/@ajithkumar.proff/from-chatbots-to-coworkers-how-we-got-from-llms-to-agentic-ai-b928bae68205?source=rss------artificial_intelligence-5",
+      "published": "2026-10-13T03:15:24+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Artificial Intelligence: How an AI Gateway Works",
+      "link": "https://medium.com/it-simplified/artificial-intelligence-how-an-ai-gateway-works-26ec84984aea?source=rss------artificial_intelligence-5",
+      "published": "2026-10-13T03:15:19+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Best software for small dog boarding kennel bookings",
+      "link": "https://dev.to/baw_ban_e189b8ac0e4ae1053/best-software-for-small-dog-boarding-kennel-bookings-1ghf",
+      "published": "2026-10-13T03:15:02+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "WorldPlay2 Aims to Make AI-Generated Worlds More Interactive, Consistent, and Controllable",
+      "link": "https://medium.com/devtechie/worldplay2-aims-to-make-ai-generated-worlds-more-interactive-consistent-and-controllable-4e2d23fbab83?source=rss------artificial_intelligence-5",
+      "published": "2026-10-13T03:09:27+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    }
+  ]
+}
