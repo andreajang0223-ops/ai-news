@@ -1,258 +1,206 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T01:47:10.173726+00:00",
-  "count": 24,
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T01:26:42.216583+00:00",
+  "count": 20,
   "items": [
     {
-      "source": "Ars Technica AI",
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-      "published": "2026-10-13T16:00:02+00:00",
-      "summary": "Google 最新模型 Gemini 4 Argon 在 Gemini App 與 Antigravity 開放付費使用者體驗，並提供開發者 API 折扣。該模型主打高階推理能力，能處理更複雜的自動化工作流程。",
-      "category": "模型發布",
-      "importance": 5,
-      "skills": [
-        "gemini"
-      ]
+      "source": "iThome",
+      "title": "Vercel Sandbox遭揭VerCellBreak問題，AI代理恐繞過網域限制外洩資料",
+      "link": "https://www.ithome.com.tw/news/179669",
+      "published": "2026-10-15T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
     },
     {
-      "source": "Google AI Blog",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "published": "2026-10-13T16:00:00+00:00",
-      "summary": "Google 官方發表 Gemini 4 Argon 模型，專為解決最棘手的複雜問題而設計。該模型具備強大推理與工作流程處理能力，適用於嚴苛的應用場景。",
-      "category": "模型發布",
-      "importance": 5,
-      "skills": [
-        "gemini"
-      ]
+      "source": "iThome",
+      "title": "Windows Update憑證2027年到期，微軟提醒企業留意更新中斷風險",
+      "link": "https://www.ithome.com.tw/news/179666",
+      "published": "2026-10-15T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
     },
     {
-      "source": "The Verge AI",
-      "title": "Google finally releases Gemini 4 Argon",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "published": "2026-10-13T16:00:00+00:00",
-      "summary": "Google 正式推出 Gemini 4 Argon 模型，具備前沿的推理能力並改善了複雜工作流程中的表現。新模型減少了重複與陳腔濫調，顯著提升生成品質與效率。",
-      "category": "模型發布",
-      "importance": 5,
-      "skills": [
-        "gemini"
-      ]
+      "source": "iThome",
+      "title": "微軟啟動PQC TLS憑證試行，檢驗伺服器身分驗證相容性",
+      "link": "https://www.ithome.com.tw/news/179646",
+      "published": "2026-10-15T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
     },
     {
-      "source": "The Verge AI",
-      "title": "Shopify opens its catalog up to more AI agents",
-      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "published": "2026-10-13T19:42:42+00:00",
-      "summary": "Shopify 宣佈將產品目錄開放給更多 AI Agent，允許用戶授權 AI 代理進行商品搜尋與自動下單。這項更新推動了 AI 代理在自動化電商與實際消費場景的應用。",
-      "category": "工具更新",
-      "importance": 4,
+      "source": "iThome",
+      "title": "CSA推AI資安成熟度模型，協助企業因應高速自動化攻擊",
+      "link": "https://www.ithome.com.tw/news/179571",
+      "published": "2026-10-15T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Inject a budget line into every Claude Code prompt with UserPromptSubmit",
+      "link": "https://dev.to/vildandenai/inject-a-budget-line-into-every-claude-code-prompt-with-userpromptsubmit-f3f",
+      "published": "2026-10-15T01:20:24+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Gemma 4's MTP Drafter, Explained: Speculative Decoding and a 4-Bit Drafter at 60% of the Size",
+      "link": "https://dev.to/gde/gemma-4s-mtp-drafter-explained-speculative-decoding-and-a-4-bit-drafter-at-60-of-the-size-1oc0",
+      "published": "2026-10-15T01:18:39+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How Google Review Replies Can Protect or Damage Customer Trust and Reputation",
+      "link": "https://dev.to/alifar/how-google-review-replies-can-protect-or-damage-customer-trust-and-reputation-551a",
+      "published": "2026-10-15T01:15:30+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Anthropic Q3 Revenue Hits $16.8B",
+      "link": "https://dev.to/976905690/anthropic-q3-revenue-hits-168b-2b0m",
+      "published": "2026-10-15T01:14:17+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "HBM Explained: Why High-Bandwidth Memory Is Critical for AI Accelerators",
+      "link": "https://dev.to/_1ffd12f71f76582eaf105c/hbm-explained-why-high-bandwidth-memory-is-critical-for-ai-accelerators-d2a",
+      "published": "2026-10-15T01:13:41+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "DeepSeek Nears $12B+ Funding Round Led by Tencent & CATL",
+      "link": "https://dev.to/976905690/deepseek-nears-12b-funding-round-led-by-tencent-catl-56p2",
+      "published": "2026-10-15T01:13:40+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Colossal Biosciences: How GenoMorph AI can bring back the dodo",
+      "link": "https://dev.to/hacksgr/colossal-biosciences-how-genomorph-ai-can-bring-back-the-dodo-1nlk",
+      "published": "2026-10-15T01:13:35+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Analyzing 40 Years of Japanese Public Open Data in 3 Minutes with DuckDB (No API Keys, In-Memory Parquet)",
+      "link": "https://dev.to/japanopendatalab/analyzing-40-years-of-japanese-public-open-data-in-3-minutes-with-duckdb-no-api-keys-in-memory-52k1",
+      "published": "2026-10-15T01:11:23+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Chatbot, AI Agent, or Automation? How to Choose the Right AI for Your Business",
+      "link": "https://thebughex.medium.com/chatbot-ai-agent-or-automation-how-to-choose-the-right-ai-for-your-business-3476c18ab574?source=rss------artificial_intelligence-5",
+      "published": "2026-10-15T01:10:17+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Apple’s Home View at $299: Why the Technology Leader is Bidding Big on Smart Homes",
+      "link": "https://medium.com/the-open-draft/apples-home-view-at-299-why-the-technology-leader-is-bidding-big-on-smart-homes-2aa667affdfd?source=rss------artificial_intelligence-5",
+      "published": "2026-10-15T01:08:34+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "How Can Executive Sponsors Lower Transformation Delivery Risk?",
+      "link": "https://timhourigan.medium.com/how-can-executive-sponsors-lower-transformation-delivery-risk-eaafd291ce69?source=rss------artificial_intelligence-5",
+      "published": "2026-10-15T01:07:13+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "I kept losing track of which image version was which",
+      "link": "https://medium.com/@lianglixiong888/i-kept-losing-track-of-which-image-version-was-which-7e2af2066606?source=rss------artificial_intelligence-5",
+      "published": "2026-10-15T01:05:22+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "केशवम HL प्रथम Extension – Commercial Excellence Meets Luxury!",
+      "link": "https://medium.com/@yogeshrealestate86/%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%B5%E0%A4%AE-hl-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE-extension-commercial-excellence-meets-luxury-a782899048f5?source=rss------artificial_intelligence-5",
+      "published": "2026-10-15T01:04:48+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Creativity AI #97: Midjourney refreshes its website while AI agents clone Adobe",
+      "link": "https://medium.com/creativity-ai/creativity-ai-97-midjourney-refreshes-its-website-while-ai-agents-clone-adobe-bb329db994a3?source=rss------artificial_intelligence-5",
+      "published": "2026-10-15T01:04:44+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
       "skills": []
     },
     {
       "source": "TechCrunch AI",
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "published": "2026-10-13T18:30:00+00:00",
-      "summary": "新創公司 Flox 推出結合 AI 與邊緣裝置的系統，能辨識動物種類並播放特定聲音驅離，防止野生動物進入鐵路與機場。這展現了 AI 硬體產品解決實際環境與交通安全問題的實用設計。",
-      "category": "應用案例",
-      "importance": 4,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "published": "2026-10-13T17:30:00+00:00",
-      "summary": "Laplace Intelligence 利用 AI Agent 與模擬環境，在機器人和自駕車實際部署前進行安全壓力測試。這項技術能幫助硬體產品設計者在實體製造前發現缺陷並降低開發風險。",
-      "category": "應用案例",
-      "importance": 4,
-      "skills": []
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "published": "2026-10-13T17:05:48+00:00",
-      "summary": "Hugging Face 發布 LFM2.5-24B-A2B 模型，支援在裝置端本地運行高效且私密的 AI Agent。這為邊緣運算與無網路環境下的 AI 產品設計提供了強大的模型選擇。",
-      "category": "模型發布",
-      "importance": 4,
-      "skills": []
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-      "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-      "published": "2026-10-13T17:00:39+00:00",
-      "summary": "Google 計劃協助開發者將透過 AI 概念寫作（vibe-coding）打造的個人 App 發布至 Play Store。這降低了軟體開發與上架門檻，讓個人化的 AI 工具能更快產品化。",
-      "category": "工具更新",
-      "importance": 4,
-      "skills": [
-        "gemini"
-      ]
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google makes it easier to launch your vibe-coded apps",
-      "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-      "published": "2026-10-13T17:00:00+00:00",
-      "summary": "Google AI Studio 推出新功能，讓使用者無需將手機連接電腦，即可將 vibe-coding 的個人 App 直接發布至 Play Store。這大幅簡化了從原型設計到實際部署的工作流程。",
-      "category": "工具更新",
-      "importance": 4,
-      "skills": [
-        "gemini"
-      ]
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-      "published": "2026-10-13T19:00:48+00:00",
-      "summary": "微軟 Xbox 宣布擁抱利用 AI 技術進行遊戲反編譯與跨平台移植的趨勢。這展示了 AI 在遊戲開發、舊程式碼重構以及跨裝置適應上的實用潛力。",
-      "category": "應用案例",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "The Verge AI",
-      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-      "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-      "published": "2026-10-13T18:00:00+00:00",
-      "summary": "作者分享使用無攝影機版的 Ray-Ban Meta 語音眼鏡體驗，認為無鏡頭設計減輕了社交疑慮並提升配戴意願。這為智慧穿戴裝置在功能取捨與用戶體驗設計上提供了務實思維。",
-      "category": "社群討論",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Facebook will let you customize your feed algorithm using AI",
-      "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-      "published": "2026-10-13T17:01:31+00:00",
-      "summary": "Facebook 推出「Your Algorithm」功能，讓使用者能透過 AI 直接管理與自訂動態消息的主題推薦。這項更新簡化了內容推薦的掌控權，提供更即時的個人化體驗。",
-      "category": "工具更新",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "Could AI help me build a football YouTube channel?",
-      "link": "https://www.reddit.com/r/artificial/comments/1x4zvgs/could_ai_help_me_build_a_football_youtube_channel/",
-      "published": "2026-10-13T15:34:39+00:00",
-      "summary": "Reddit 網友分享利用 AI 語音與生成內容建立足球 YouTube 頻道的工作流程構想。此案例展示了生成式 AI 如何應用於多媒體自動化創作與影音頻道營運。",
-      "category": "社群討論",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
-      "link": "https://www.reddit.com/r/artificial/comments/1x4xfop/characterai_files_for_bankruptcy_to_sell_some/",
-      "published": "2026-10-13T14:00:28+00:00",
-      "summary": "知名 AI 對話服務 Character.AI 申請破產保護，並擬以 2000 萬美元向迪士尼出售部分資產。這顯示出消費級 AI 新創面臨的商業化與營運成本壓力。",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "published": "2026-10-15T01:01:32+00:00",
+      "summary": "",
       "category": "產業動態",
-      "importance": 3,
+      "importance": 0,
       "skills": []
     },
     {
-      "source": "Reddit r/artificial",
-      "title": "Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough",
-      "link": "https://www.reddit.com/r/artificial/comments/1x4v8vl/police_are_using_ai_to_locate_homes_from_a_single/",
-      "published": "2026-10-13T12:25:51+00:00",
-      "summary": "警方開始運用 AI 影像辨識技術，僅憑一張室內家具照片（如洗衣機）就能精準定位房屋位置。這展示了 AI 視覺定位在執法上的實用性，同時也引發隱私討論。",
-      "category": "社群討論",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "published": "2026-10-13T22:36:59+00:00",
-      "summary": "Cerebras 執行長公開批評科技界過度渲染 AI 末日警訊，主張應將焦點轉回 AI 的實際益處。此言論反映了產業內部對 AI 宣傳策略與風險討論的不同觀點。",
+      "source": "Medium AI",
+      "title": "I’m Tired of Trying to Keep Up With AI",
+      "link": "https://medium.com/@giselaayu/im-tired-of-trying-to-keep-up-with-ai-a7d518db3cbd?source=rss------artificial_intelligence-5",
+      "published": "2026-10-15T01:01:01+00:00",
+      "summary": "",
       "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "published": "2026-10-13T20:36:44+00:00",
-      "summary": "美國聯邦法官裁定 OpenAI 必須向蘋果公司提供涉及前蘋果員工的面試記錄與私訊。這項裁決將影響科技巨頭間關於 AI 人才爭奪與商業機密訴訟的走向。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-      "published": "2026-10-13T18:23:33+00:00",
-      "summary": "迪士尼擬出資 2000 萬美元收購 Character.AI 的聊天機器人技術。這顯示出娛樂巨頭正尋求引進生成式 AI 技術以提升互動式內容體驗。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Facebook is giving users more control over their algorithm",
-      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-      "published": "2026-10-13T18:05:24+00:00",
-      "summary": "Meta 在 Facebook 上推出「Your Algorithm」功能，讓使用者能更直接地調整並掌控演算法的推薦偏好。這項更新給予用戶更高的動態消息自主權。",
-      "category": "工具更新",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was",
-      "link": "https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/",
-      "published": "2026-10-13T17:30:11+00:00",
-      "summary": "社群熱烈討論 OpenAI 提出的納維-斯托克斯方程證明，發現其成果不如原先預期重大。這引發了關於 AI 在複雜數學研究與純理論推演限制的檢視。",
-      "category": "社群討論",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "The Verge AI",
-      "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-      "published": "2026-10-13T16:42:51+00:00",
-      "summary": "Instagram 因允許藍勾勾帳號散布女演員 Mia Goth 的 AI 生成假照片而引發爭議。這突顯了生成式 AI 圖像在社群媒體傳播時的倫理與平台審核機制問題。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": [
-        "imagen"
-      ]
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "Netflix spent big on Ben Affleck’s AI company. After Animals, they might wonder why",
-      "link": "https://www.reddit.com/r/artificial/comments/1x4wcl5/netflix_spent_big_on_ben_afflecks_ai_company/",
-      "published": "2026-10-13T13:16:04+00:00",
-      "summary": "Netflix 砸重金投資班·艾佛列克的 AI 影視公司，試圖將 AI 技術整合進電影製作流程。這反映出娛樂巨頭積極佈局生成式 AI 於影音內容產製的趨勢。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "published": "2026-10-13T20:45:25+00:00",
-      "summary": "OpenAI 一名工程師因涉嫌在公司會議室偷裝竊聽裝置而被警方逮捕。此事件引發了外界對 AI 巨頭內部資安維護與員工管理的關注。",
-      "category": "產業動態",
-      "importance": 1,
-      "skills": []
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "They war-gamed dimming the Sun. It went even worse than you think.",
-      "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-      "published": "2026-10-13T15:17:59+00:00",
-      "summary": "研究人員模擬了透過遮蔽陽光進行氣候工程的地緣政治後果，結果顯示風險比預期更加嚴重。該研究探討了極端科技手段對全球政治與環境的潛在衝擊。",
-      "category": "研究論文",
-      "importance": 1,
+      "importance": 0,
       "skills": []
     }
   ]
