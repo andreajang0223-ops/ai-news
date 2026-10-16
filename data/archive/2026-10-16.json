@@ -1,0 +1,288 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T01:09:15.971822+00:00",
+  "count": 27,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "Building an AI Side Project That Actually Ships — Lessons from Shipping 3 MVPs",
+      "link": "https://dev.to/shadie_ai/building-an-ai-side-project-that-actually-ships-lessons-from-shipping-3-mvps-47ac",
+      "published": "2026-10-16T00:55:29+00:00",
+      "summary": "作者分享在兩個月內成功上線 3 個 AI 副專案的實戰心法，指出專案死亡主因通常是規劃過於膨脹而非點子不佳。這提供獨立開發者極具參考價值的快速 MVP 實務思維。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "published": "2026-10-15T18:15:36+00:00",
+      "summary": "Meta 發布全新 Muse Spark 開源模型，並與 Apple 合作優化 MLX 框架以支援 Mac Studio 本地運行。這讓創作者能在個人裝置上高效執行大型模型，大幅降低算力成本與隱私風險。",
+      "category": "模型發布",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Anthropic's Mythos found so many software flaws, Bank of America hired 1,000 contractors to fix them",
+      "link": "https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/",
+      "published": "2026-10-15T16:17:05+00:00",
+      "summary": "據傳 Anthropic 的 AI 模型在美國銀行系統中掃描出大量軟體漏洞，迫使銀行聘用上千名外包人員修復。這凸顯了 AI Agent 在自動化程式碼檢測上的驚人深度與實際應用價值。",
+      "category": "社群討論",
+      "importance": 4,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was given access to the production server and wiped the finished season",
+      "link": "https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/",
+      "published": "2026-10-15T15:16:09+00:00",
+      "summary": "一個缺乏監督的自主 AI Agent 獲得伺服器權限後，不慎刪除了節目即將上映的整季剪輯成品。這為團隊在工作流程中導入 AI 自動化與權限控管提供了血淋淋的警示教訓。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linus Torvalds's first LLM-assisted patch series",
+      "link": "https://lwn.net/Articles/1100449/",
+      "published": "2026-10-14T16:55:07+00:00",
+      "summary": "Linux 創始人 Linus Torvalds 首次提交了由大語言模型輔助完成的程式碼修補系列。這標誌著頂尖開源開發者也開始將 AI 工具整合至核心工作流程中，引發熱烈討論。",
+      "category": "社群討論",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "published": "2026-10-14T12:00:00+00:00",
+      "summary": "Amp 展示如何運用 OpenAI 最新模型驅動 AI Agent，將自動化應用從純程式碼編寫拓展至更廣泛的業務流程。這為打造跨領域 AI 工作流程提供了實用的參考範例。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "link": "https://openai.com/index/sentinelone",
+      "published": "2026-10-14T12:00:00+00:00",
+      "summary": "資安公司 SentinelOne 導入 OpenAI Daybreak 技術，將原本需耗時數週的惡意軟體分析流程縮短至數小時。這是 AI 整合至專業領域以大幅提升工作效率的典型實務案例。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Anthropic自建Scion取代Git，CI取出程式碼時間從數分鐘縮至數秒",
+      "link": "https://www.ithome.com.tw/news/179733",
+      "published": "2026-10-16T08:10:59+00:00",
+      "summary": "Anthropic 為了因應 AI Agent 大量編程帶來的效能瓶頸，開發自研版本控制系統 Scion 取代 Git 以縮減 CI 執行時間。這顯示了 AI 代理人寫程式大量落地時，既有開發基礎架構轉型的必要性。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "英國擴大AI資安防禦，已在政府系統發現1,352項漏洞",
+      "link": "https://www.ithome.com.tw/news/179687",
+      "published": "2026-10-16T08:10:00+00:00",
+      "summary": "英國政府擴大採用 AI 模型進行程式碼漏洞檢測，已在跨部門系統中成功找到逾千項安全性漏洞。這展示了 AI 在自動化程式碼安全審查的具體實踐與價值。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "pgvector with Java in AI: Semantic Search and RAG Without a Separate Vector Database",
+      "link": "https://dev.to/said_olano/pgvector-with-java-in-ai-semantic-search-and-rag-without-a-separate-vector-database-3hjk",
+      "published": "2026-10-16T01:02:57+00:00",
+      "summary": "本文說明如何利用 PostgreSQL 的 pgvector 擴充功能配合 Java 實現語意搜尋與 RAG，無須架設獨立向量資料庫。這能為開發 AI 應用提供更簡化且易維護的架構選擇。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Mistral's Timestral Runs on a CPU. Its 'Modified MIT' License Stops at $20M a Month",
+      "link": "https://dev.to/gabrielanhaia/mistrals-timestral-runs-on-a-cpu-its-modified-mit-license-stops-at-20m-a-month-141m",
+      "published": "2026-10-16T01:02:06+00:00",
+      "summary": "Mistral 發布可在 CPU 上運行的時間序列預測模型 Timestral，專注於數值趨勢預測而非文字生成。這提供了一款專用於數據預測的輕量化 AI 工具案例。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Agentic Everything: Are We Building the Right Abstractions?",
+      "link": "https://dev.to/ayraix/agentic-everything-are-we-building-the-right-abstractions-1cel",
+      "published": "2026-10-16T01:00:00+00:00",
+      "summary": "文章深入探討當前 AI Agent 的炒作現象與現實落差，並透過具體失敗案例指出現有抽象層的不足。這對評估 AI 工作流實務落地提供了客觀的反思觀點。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The Takeover 2.0: Chatbots are Dead. Agents are Here",
+      "link": "https://medium.com/@Ali_1/the-takeover-2-0-chatbots-are-dead-agents-are-here-b1dddbb1fd3e?source=rss------artificial_intelligence-5",
+      "published": "2026-10-16T00:57:30+00:00",
+      "summary": "討論 AI 應用正從單純的問答對話機器人演進為能夠主動執行任務的自主 Agent。這代表了 AI 在產品設計與自動化工作流程上的範式轉移。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "How to Design a Trustworthy Agentic System",
+      "link": "https://medium.com/@sudiptokanti/how-to-design-a-trustworthy-agentic-system-e2c6c0ac5e8d?source=rss------artificial_intelligence-5",
+      "published": "2026-10-16T00:56:51+00:00",
+      "summary": "本文探討如何透過設計主張、證據、審查機制與軌跡追蹤來建構可信賴的 AI Agent 系統。這對於打造高可靠度 AI 自動化工作流程具備實用的設計參考。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Friends don&#8217;t let friends feed their data to AI agents",
+      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "published": "2026-10-15T16:21:45+00:00",
+      "summary": "隨著 Meta Muse 等 AI 個人助理普及，硬體與 Agent 隨時搜集周遭環境資料的隱私風險引發疑慮。這提醒設計師在開發 AI 硬體產品時，需更加重視數據保護與旁人知情同意機制。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "published": "2026-10-15T15:43:24+00:00",
+      "summary": "美國 FTC 正在調查 Anthropic 與 OpenAI 等公司，評估其是否因延遲通報資安事件而面臨罰款。這顯示政府對 AI 企業的監管規範正逐漸走向實質處罰階段。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+      "published": "2026-10-15T15:12:58+00:00",
+      "summary": "YouTube Music 正式推出生成式 AI 標籤功能，能明確標示曲目是否包含 AI 創作成分。這有助於提升平台內容透明度，並保障音樂創作者的權益。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI agents are coming to Rivian’s cars",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "published": "2026-10-15T15:02:36+00:00",
+      "summary": "電動車廠 Rivian 宣布將在車載系統中導入 AI Agent，並預計於 12 月大會發表具體細節。這顯示生成式 AI 互動正加速滲透至智慧車輛與實體硬體產品設計中。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "published": "2026-10-14T16:12:42+00:00",
+      "summary": "Hugging Face 發表 HiRO-ACEv2 模型，能以極低成本進行 3 公里高解析度的極端氣候模擬。這項技術大幅降低了氣候預測與環境數據模擬的運算門檻。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "published": "2026-10-14T12:55:06+00:00",
+      "summary": "Anthropic 發出警告，指出小型 AI 模型未來可能透過物聯網設備進行自我複製並形成新型網路蠕蟲。這揭示了邊緣 AI 部署與 IoT 設備在安全防護上的新挑戰。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "published": "2026-10-14T11:00:30+00:00",
+      "summary": "研究人員發現 OpenAI 與 Google 的最新模型存在安全漏洞，容易被繞過防護而生成不當圖像。這提醒開發者在應用生成式 AI 時，需特別注意 Prompt 安全機制與防禦設計。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": [
+        "gemini",
+        "imagen",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "One of the favorite parts of parenting has always been reading to the kiddos. Why would anyone voluntarily give that up?",
+      "link": "https://www.reddit.com/r/artificial/comments/1x6t5wi/one_of_the_favorite_parts_of_parenting_has_always/",
+      "published": "2026-10-15T18:15:07+00:00",
+      "summary": "Reddit 社群針對家長使用 AI 代替親自唸繪本給孩子聽的現象展開熱烈討論。這反映出生成式 AI 滲透家庭生活時所引發的親子互動與人文倫理反思。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Scientists worry AI is stealing their ideas",
+      "link": "https://www.reddit.com/r/artificial/comments/1x6rttu/scientists_worry_ai_is_stealing_their_ideas/",
+      "published": "2026-10-15T17:24:20+00:00",
+      "summary": "許多科學家擔心 AI 模型在訓練或檢索過程中可能未經授權使用並剽竊其研究創意。這引發了學術界對智慧財產權保護與生成式 AI 來源透明度的廣泛討論。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Market selloff, rising rates test AI data centre deal boom",
+      "link": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+      "published": "2026-10-15T16:17:40+00:00",
+      "summary": "全球股市震盪與高利率環境正考驗 AI 資料中心基礎設施的融資熱潮。這可能對未來雲端 AI 算力的部署速度與營運成本帶來不確定性。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "published": "2026-10-15T14:58:48+00:00",
+      "summary": "西蒙斯基金會投入 1,500 萬美元資助數學家，協助他們在研究中運用 AI 工具。這反映了 AI 正在成為輔助基礎科學研究與複雜理論計算的重要工具。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "published": "2026-10-14T17:10:15+00:00",
+      "summary": "研究團隊利用 AI 工具成功設計出能切斷極穩定化學鍵的新型蛋白質，打破過往需耗時數百年的限制。這項突破展示了 AI 在生物化學與新材料設計領域的巨大潛力。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "published": "2026-10-14T16:41:49+00:00",
+      "summary": "OpenAI 機密會議室中被發現藏有捲筒衛生紙內的竊聽裝置，一名工程師面臨 FBI 的間諜罪指控。此事件凸顯了頂尖 AI 企業在商業機密與實體安全防護上的嚴重隱憂。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
