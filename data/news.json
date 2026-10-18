@@ -1,481 +1,217 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T01:14:43.969456+00:00",
-  "count": 45,
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T00:49:08.772177+00:00",
+  "count": 20,
   "items": [
     {
-      "source": "Hacker News",
-      "title": "How the Claude Code team does code review",
-      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "published": "2026-10-16T19:04:47+00:00",
-      "summary": "Claude Code 團隊分享他們如何在內部開發流程中結合 AI 進行程式碼審查。展示了頂尖 AI 團隊實踐 Agentic Coding 的具體工作流程與經驗。",
+      "source": "Dev.to AI",
+      "title": "225 billion Claude Code tokens in 30 days, and the subagents that never named a model",
+      "link": "https://dev.to/jacksonxly/225-billion-claude-code-tokens-in-30-days-and-the-subagents-that-never-named-a-model-487",
+      "published": "2026-10-18T00:40:41+00:00",
+      "summary": "作者分享一個月內透過 Claude Code 消耗 2250 億 Token 的高強度多 Agent 開發經驗，並揭露子 Agent 預設繼承主 Session 模型所導致的成本爆表問題。這為使用 Agentic Coding 進行大規模開發的工程師提供了寶貴的成本與工作流控管經驗。",
       "category": "應用案例",
       "importance": 5,
       "skills": [
         "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Earnings call transcripts for AI agents: reading JPMorgan's Q3 2026 call over MCP",
+      "link": "https://dev.to/daniel_oliveira_4bd55d35d/earnings-call-transcripts-for-ai-agents-reading-jpmorgans-q3-2026-call-over-mcp-e08",
+      "published": "2026-10-18T00:44:41+00:00",
+      "summary": "作者展示如何利用 Equibles MCP 伺服器讓 AI Agent 自動調用工具並讀取摩根大通的財報會議逐字稿。這證明了 MCP 架構在延伸 AI Agent 工具調用與金融資料自動化處理上的實用性。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "I Ran MiniMax H3 Locally on One RTX 4090. Here Is What Actually Works",
+      "link": "https://medium.com/@omkamal/i-ran-minimax-h3-locally-on-one-rtx-4090-here-is-what-actually-works-eb6ecfead1d9?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:44:39+00:00",
+      "summary": "作者分享在單張 RTX 4090 顯卡上本地端運行 MiniMax H3 的實測結果，包含聲音複製與合成兩分鐘對話影片等實作。這展示了個人創作者利用消費級顯卡部署高階多媒體 AI 模型的可行性。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "I Think My AI Company Needs HR",
+      "link": "https://dev.to/steviebennett/i-think-my-ai-company-needs-hr-4g7i",
+      "published": "2026-10-18T00:38:04+00:00",
+      "summary": "作者將多個專業 AI Agent（如架構師、寫碼、測試、Prompt 生成）整合為自動化工作流，並探索人類如何有效協調這些 Agent 的運作。這展示了複雜多 Agent 系統在實際專案管理與協作中的突破。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
         "prompt-engineering"
       ]
     },
     {
       "source": "Dev.to AI",
-      "title": "RAG vs. Fine-Tuning vs. Prompt Engineering: Stop Picking the Wrong One",
-      "link": "https://dev.to/ayraix/rag-vs-fine-tuning-vs-prompt-engineering-stop-picking-the-wrong-one-2c1a",
-      "published": "2026-10-17T01:00:00+00:00",
-      "summary": "提供實用的決策框架，比較 RAG、微調（Fine-Tuning）與 Prompt 工程的適用場景與常見錯誤。幫助開發者針對實際產品需求，以最低成本選擇正確的 AI 整合路徑。",
-      "category": "應用案例",
+      "title": "Can AI Agents Access Your HR and Payroll Data Safely? 329 Tools Counted, 54 Write/Delete",
+      "link": "https://dev.to/scriptmasterlabs01/can-ai-agents-access-your-hr-and-payroll-data-safely-329-tools-counted-54-writedelete-41n5",
+      "published": "2026-10-18T00:31:29+00:00",
+      "summary": "Workday 推出的 Trusted Agent Platform 提供了 329 個基於 MCP 的工具，讓 AI Agent 能在嚴格權限控管下存取與操作 HR 及財務資料。這代表企業級應用正式導入 MCP 標準，為跨系統 Agent 安全整合樹立了示範。",
+      "category": "工具更新",
       "importance": 4,
       "skills": [
-        "prompt-engineering"
+        "claude-api"
       ]
     },
     {
       "source": "Medium AI",
-      "title": "GPT-4o Retires Jan 14. OpenAI's 20 Forced Swaps, Ranked by Price",
-      "link": "https://medium.com/@automation.labs/gpt-4o-retires-jan-14-openais-20-forced-swaps-ranked-by-price-d3935a657142?source=rss------artificial_intelligence-5",
-      "published": "2026-10-17T00:56:52+00:00",
-      "summary": "OpenAI 宣佈 GPT-4o 將於 1 月 14 日退役，並整理出 20 種替代模型的 API 換算價格比。開發者需盡快評估現有服務的升級與成本結構調整。",
-      "category": "工具更新",
-      "importance": 4,
-      "skills": []
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
-      "link": "https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/",
-      "published": "2026-10-16T18:44:23+00:00",
-      "summary": "社群開發者成功在越獄的 PS5 上原生運行本地 AI 模型，利用 GPU 加速達到每秒 100+ Token。展示了將家用遊戲主機轉化為高效能本地 AI 推理硬體的潛力。",
-      "category": "社群討論",
-      "importance": 4,
-      "skills": [
-        "webgl"
-      ]
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "I tested whether an AI companion stays the same when you swap its underlying model. The results surprised me.",
-      "link": "https://www.reddit.com/r/artificial/comments/1x7kjta/i_tested_whether_an_ai_companion_stays_the_same/",
-      "published": "2026-10-16T16:17:05+00:00",
-      "summary": "心理治療師實驗發現，更換 AI 伴侶的底層語言模型時，角色一致性主要來自系統提示詞與記憶機制的設計。這示範了如何透過 Prompt 工程與持久化記憶構建穩定的 AI 角色體驗。",
-      "category": "社群討論",
-      "importance": 4,
-      "skills": [
-        "prompt-engineering"
-      ]
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "link": "https://rstation.ai/",
-      "published": "2026-10-16T14:35:43+00:00",
-      "summary": "開發者推出開源平台 rStation，為 AI Agent 提供共享的研究實驗室與協作環境。這提供了一個實現多 Agent 協同工作與實驗自動化的實用架構。",
-      "category": "應用案例",
+      "title": "Git at Agent Scale: What Anthropic’s Scion Really Teaches Us",
+      "link": "https://medium.com/@phoenixarjun007/git-at-agent-scale-what-anthropics-scion-really-teaches-us-fa7bcfa09ade?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:31:01+00:00",
+      "summary": "本文探討 AI 編程 Agent 大量產出程式碼時對 Git 版本控制帶來的衝擊，並解析 Anthropic 的 Scion 技術如何處理大規模 Agent 的版控需求。這對打造現代化 AI 軟體開發工作流提供了具前瞻性的系統架構思考。",
+      "category": "研究論文",
       "importance": 4,
       "skills": [
         "claude-code"
       ]
     },
     {
-      "source": "iThome",
-      "title": "TypeSafe擴充Jev決策模型，支援圖片判斷與物件定位",
-      "link": "https://www.ithome.com.tw/news/179738",
-      "published": "2026-10-16T11:10:50+00:00",
-      "summary": "TypeSafe AI 發布 Jev 1.14.0 模型，新增圖片輸入與物件定位（Box）功能，可直接回傳座標與信心分數供程式呼叫。這類回傳結構化資料的決策型 AI，能簡化自動化影像分析流程。",
-      "category": "工具更新",
-      "importance": 4,
-      "skills": []
-    },
-    {
       "source": "Dev.to AI",
-      "title": "Your AI Agent Charged the Customer Twice and Every Dashboard Stayed Green",
-      "link": "https://dev.to/ajaydevineni/your-ai-agent-charged-the-customer-twice-and-every-dashboard-stayed-green-269p",
-      "published": "2026-10-17T01:04:06+00:00",
-      "summary": "探討 AI Agent 在執行自動化 API 操作時，因非確定性重試機制導致重複執行扣款等不可逆動作的隱性失誤。這提醒開發者在設計 Agent 工作流時，不能單靠傳統 HTTP 狀態碼來判斷執行成功與否。",
-      "category": "應用案例",
+      "title": "HyperOS 4 Is Dropping in China: Xiaomi’s AI Finally Looks Like It’ll Actually Be Useful",
+      "link": "https://dev.to/etsonramoschian/hyperos-4-is-dropping-in-china-xiaomis-ai-finally-looks-like-itll-actually-be-useful-3fbn",
+      "published": "2026-10-18T00:45:39+00:00",
+      "summary": "小米發表基於 Android 的 HyperOS 4，主打將過去花哨不實用的手機 AI 功能轉變為真正有用的日常應用。這標誌著手機廠商開始從單純堆疊 AI 噱頭轉向提升實際用戶體驗與效率。",
+      "category": "產業動態",
       "importance": 3,
       "skills": []
     },
     {
       "source": "Dev.to AI",
-      "title": "Claude Traced the NIST Curve Seeds to a 1997 Clock and lrand48. Nothing to Rotate on P-256",
-      "link": "https://dev.to/gabrielanhaia/claude-traced-the-nist-curve-seeds-to-a-1997-clock-and-lrand48-nothing-to-rotate-on-p-256-50d3",
-      "published": "2026-10-17T01:02:01+00:00",
-      "summary": "展示 Anthropic 利用 Claude 成功追溯加密學 NIST P-256 曲線種子碼歷史來源的成果。說明了 LLM 在複雜檔案分析與程式碼考古上的實用潛力。",
-      "category": "應用案例",
-      "importance": 3,
-      "skills": [
-        "claude-code"
-      ]
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "Two questions before you run a local LLM: does it fit, and how fast is it really?",
-      "link": "https://dev.to/_bd31c79786d454464f39ed/two-questions-before-you-run-a-local-llm-does-it-fit-and-how-fast-is-it-really-1fh6",
-      "published": "2026-10-17T01:02:00+00:00",
-      "summary": "作者提供評估在地端部署 LLM 時的記憶體容量需求與推論速度計算檢核表。這能幫助想在個人電腦運行本地 AI 工具的人避免硬體選型誤區。",
+      "title": "AI + Humans: The Three-Speed Problem",
+      "link": "https://dev.to/steviebennett/ai-humans-the-three-speed-problem-5eok",
+      "published": "2026-10-18T00:40:16+00:00",
+      "summary": "作者分享引入 AI 合成勞動力（synthetic workforce）後，個人工作流程與生產力模式發生的深刻轉變。這反映了 AI 工具如何重新定義人類在工作中的角色，從實際執行者轉變為監督與協調者。",
       "category": "社群討論",
       "importance": 3,
       "skills": []
     },
     {
       "source": "Medium AI",
-      "title": "Introducing my agentic AI stock trading team",
-      "link": "https://medium.com/@sayantan92sanyal/introducing-my-agentic-ai-stock-trading-team-608f5c711c7d?source=rss------artificial_intelligence-5",
-      "published": "2026-10-17T00:59:23+00:00",
-      "summary": "作者建立了三個具備不同交易哲學的 AI Agent 團隊，讓它們在下單前進行辯論決策。展現了多 Agent 協同（Multi-Agent）在特定實務場景中的創新工作流應用。",
+      "title": "AI Agents Are No Longer Just Answering Questions. They’re Getting Things Done.",
+      "link": "https://medium.com/@er.rajkumaar/ai-agents-are-no-longer-just-answering-questions-theyre-getting-things-done-4638c7668869?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:31:01+00:00",
+      "summary": "文章討論 AI 從單純的問答聊天機器人演化為能夠主動規劃、調用工具並完成複雜任務的行動型 Agent。這種轉變正在重新定義日常工作流程，並強調人類判斷力與工具協作的重要性。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Why AI Agents Fail: Pattern Matching Beats Reasoning Scaffolds",
+      "link": "https://dev.to/yanoai/why-ai-agents-fail-pattern-matching-beats-reasoning-scaffolds-38am",
+      "published": "2026-10-18T00:30:59+00:00",
+      "summary": "分析指出許多 AI Agent 專案失敗並非因為缺乏推理能力，而是過度依賴簡單敘事與不符實情的架構設計。這提醒開發者在設計 AI 工作流時，應注重模式匹配與現實實作邏輯而非盲目相信推理架構。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Systems Thinking, AI and Code in Learning Design",
+      "link": "https://medium.com/@dukemabo/how-i-used-systems-thinking-ai-and-code-to-prototype-a-learning-experience-bc90a173995e?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:25:33+00:00",
+      "summary": "文章探討如何結合系統思考、AI 與程式碼，將抽象的教學設計概念快速轉化為可互動的實體原型。這展示了 AI 如何輔助跨領域創作者縮短從構想到原型驗證的距離。",
       "category": "應用案例",
       "importance": 3,
       "skills": []
     },
     {
       "source": "Dev.to AI",
-      "title": "AI APIs in 2026: The Honest Developer's Guide to Choosing One",
-      "link": "https://dev.to/shadie_ai/ai-apis-in-2026-the-honest-developers-guide-to-choosing-one-49pn",
-      "published": "2026-10-17T00:55:51+00:00",
-      "summary": "作者分享選擇 AI API 時不應只看基準測試（Benchmark），更要考量真實串流延遲、費用與使用者體驗。為挑選 AI 後端 API 服務提供了接地氣的實務評估建議。",
+      "title": "The Hidden Sense of Interoception: Unraveling the Mysteries of Our Inner World",
+      "link": "https://dev.to/yagyaraj_sharma_6cd410179/the-hidden-sense-of-interoception-unraveling-the-mysteries-of-our-inner-world-21j0",
+      "published": "2026-10-18T00:25:15+00:00",
+      "summary": "文章探討人類的內受覺（Interoception），即感知心跳與腸道感覺等體內訊號的神經機制。此內容屬於生物學與神經科學科普，與 AI 技術應用無關。",
       "category": "社群討論",
-      "importance": 3,
-      "skills": [
-        "claude-api"
-      ]
-    },
-    {
-      "source": "Medium AI",
-      "title": "Your $300K Website Scores 100 on Lighthouse. AI Search Still Can’t Read It.",
-      "link": "https://pub.towardsai.net/your-300k-website-scores-100-on-lighthouse-ai-search-still-cant-read-it-bd1bf252d20e?source=rss------artificial_intelligence-5",
-      "published": "2026-10-17T00:50:27+00:00",
-      "summary": "探討許多高價網站雖然通過傳統 SEO 指標，卻無法被 AI 搜尋引擎有效讀取的現象。強調定期進行 AI 內容稽核以確保資訊能被 AI 正確理解的重要性。",
-      "category": "應用案例",
-      "importance": 3,
+      "importance": 0,
       "skills": []
     },
     {
       "source": "Medium AI",
-      "title": "10 ChatGPT Prompts That Replace a Marketing Hire for Small Businesses",
-      "link": "https://medium.com/@prompted-studio/10-chatgpt-prompts-that-replace-a-marketing-hire-for-small-businesses-6d112ba9c292?source=rss------artificial_intelligence-5",
-      "published": "2026-10-17T00:47:42+00:00",
-      "summary": "分享 10 個能協助小型企業取代部分行銷人力的 ChatGPT 提示詞設計。提供具體的應用範例以提升日常行銷工作流程的效率。",
-      "category": "應用案例",
-      "importance": 3,
-      "skills": [
-        "prompt-engineering"
-      ]
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "Top Dev Tools & Tutorials of the Week: Azure AI, GitHub Copilot, and More",
-      "link": "https://dev.to/karleeov/top-dev-tools-tutorials-of-the-week-azure-ai-github-copilot-and-more-1152",
-      "published": "2026-10-17T00:47:37+00:00",
-      "summary": "介紹本週熱門開發者工具，重點為 Azure AI Foundry 推出的 AI 模型市集與整合教學。幫助開發者快速瀏覽並引入第三方 AI 模型至應用中。",
-      "category": "工具更新",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "published": "2026-10-16T21:22:28+00:00",
-      "summary": "Replit 執行長證實因成本等因素已終止與 Anthropic 的合作，轉向與 OpenAI 深度合作。反映了 AI 開發工具市場在供應商選擇與成本考量上的最新動態。",
+      "title": "Most founders think scaling globally in European or North American markets requires a massive…",
+      "link": "https://medium.com/@stylekuasa/most-founders-think-scaling-globally-in-european-or-north-american-markets-requires-a-massive-1e80d972da89?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:20:24+00:00",
+      "summary": "",
       "category": "產業動態",
-      "importance": 3,
-      "skills": [
-        "claude-api"
-      ]
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "published": "2026-10-16T19:00:00+00:00",
-      "summary": "巴西 Itaú 銀行分享如何透過對話介面與治理平台，將生成式 AI 落地應用於全體客戶與員工。展示了高度管制行業中大規模部署 AI 的成功經驗與架構。",
-      "category": "應用案例",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude reveals ECDSA curve origins",
-      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "published": "2026-10-16T18:55:59+00:00",
-      "summary": "研究人員利用 Claude 成功分析並解開了長期以來 ECDSA 密碼學曲線參數的歷史來源。證明了 AI 助手在複雜數據分析與歷史考據上的實用價值。",
-      "category": "應用案例",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Hacker News",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "published": "2026-10-16T18:00:18+00:00",
-      "summary": "Anthropic 發布最新研究，展示如何運用 Claude 協助設計更高效的量子電路。說明了大型語言模型在前沿科學與硬體架構設計上的應用潛力。",
-      "category": "研究論文",
-      "importance": 3,
-      "skills": [
-        "claude-api"
-      ]
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "published": "2026-10-16T17:52:24+00:00",
-      "summary": "印度報告多起惡意 AI Agent 活動，主因是系統憑證與 API 設定曝露在公共程式碼庫中。這突顯了部署 AI Agent 時，權限控管與自動化安全防護的重要性。",
-      "category": "產業動態",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Hacker News",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "published": "2026-10-16T17:08:38+00:00",
-      "summary": "最新研究指出，美國高達 90% 的工作時間花在目前 AI 基準測試未涵蓋的任務上。這反映出當前 AI 評測標準與實際職場應用需求之間仍存在巨大落差。",
-      "category": "社群討論",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "published": "2026-10-16T16:30:00+00:00",
-      "summary": "前 NVIDIA 機器人專家指出，機器人領域尚未迎來 ChatGPT 突破時刻，目前仍處於硬體與軟體元件重構的「樂高時代」。這點出通用機器人落地仍面臨實體架構與標準化難題。",
-      "category": "產業動態",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "published": "2026-10-16T16:30:00+00:00",
-      "summary": "專家強調實體 AI（Physical AI）的範疇遠不限於人形機器人，更涵蓋各種智慧實體設備與系統。整個產業目前正在基礎感知與安全標準上重新布局。",
-      "category": "產業動態",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "published": "2026-10-16T16:01:37+00:00",
-      "summary": "Elorian 發布新型 AI 模型 Glimpse，主打能直接利用圖像進行視覺推理而非僅生成文本描述。該模型在科學圖表分析與短影片字幕上的表現超越了現有頂級模型。",
-      "category": "模型發布",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Hacker News",
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "published": "2026-10-16T15:55:40+00:00",
-      "summary": "Postgres 19 決定延期發布，原因是 AI 程式碼審查工具發現的 Bug 數量已遠超人類工程師能及時修復的極限。這展示了 AI 自動化審查在軟體開發流程中的強大威力與新挑戰。",
-      "category": "社群討論",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "published": "2026-10-16T15:33:49+00:00",
-      "summary": "新 AI 模型 Jev 成為 Vercel AI 網關上成長最快的模型。這顯示開發者對高效能、易整合的多模型 API 路由服務需求正急劇上升。",
-      "category": "工具更新",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "The Verge AI",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "published": "2026-10-16T15:00:00+00:00",
-      "summary": "媒體評測搭載 NVIDIA RTX Spark N1X 晶片的全新筆電，展示其強大的 Arm 架構與 GPU AI 加速實力。這將為行動設備帶來更高效的本地端 AI 算力與端側應用開發可能。",
-      "category": "工具更新",
-      "importance": 3,
-      "skills": [
-        "webgl"
-      ]
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "Meta releases Muse Spark Open: it runs on two Mac Studios, and its license bans passing off its output as human-written",
-      "link": "https://www.reddit.com/r/artificial/comments/1x7hc0f/meta_releases_muse_spark_open_it_runs_on_two_mac/",
-      "published": "2026-10-16T14:12:56+00:00",
-      "summary": "Meta 發布開源模型 Muse Spark Open，可在兩台 Mac Studio 上運行，並規範授權禁止將生成內容偽裝為人類創作。這展示了開源模型在邊緣硬體運行的可能性與 AI 內容標示的授權討論。",
-      "category": "模型發布",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "published": "2026-10-15T18:15:36+00:00",
-      "summary": "Meta 發布 Muse Spark 開源模型，並與 Apple 合作優化使其能透過 MLX 架構在 Mac 電腦上執行。這降低了本機部署高效能 AI 模型的硬體門檻，有利於創作者在本地端處理 AI 工作流程。",
-      "category": "模型發布",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "OpenAI",
-      "title": "Teaching students to think and learn through questions",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "published": "2026-10-15T13:00:00+00:00",
-      "summary": "OpenAI 展示了 Study Mode 在教育領域的實踐，協助教師透過提問設計引導學生進行主動學習。這提供了如何透過 Prompt 設計來引導邏輯思考與輔助教學的實務應用案例。",
-      "category": "應用案例",
-      "importance": 3,
-      "skills": [
-        "prompt-engineering"
-      ]
-    },
-    {
-      "source": "Medium AI",
-      "title": "How Easy Is AI Really Making Life?",
-      "link": "https://medium.com/@nirvaan.verma1/how-easy-is-ai-really-making-life-4448a7228de1?source=rss------artificial_intelligence-5",
-      "published": "2026-10-17T00:58:39+00:00",
-      "summary": "探討 AI 如何透過消除日常工作與思考中的微小摩擦來提升效率。分享 AI 工具融入個人工作流程後的改變與實際心得。",
-      "category": "社群討論",
-      "importance": 2,
+      "importance": 0,
       "skills": []
     },
     {
       "source": "Medium AI",
-      "title": "90,000 AI-Generated Songs Every Day. The Music Industry Just Reached a Turning Point.",
-      "link": "https://medium.com/@erickisaac14/90-000-ai-generated-songs-every-day-the-music-industry-just-reached-a-turning-point-e620065dbb57?source=rss------artificial_intelligence-5",
-      "published": "2026-10-17T00:57:36+00:00",
-      "summary": "面對每日數萬首 AI 生成音樂大量湧入，YouTube 與 Spotify 等主流平台相繼推行標籤機制與限制政策。反映生成式 AI 對音樂產業生態帶來轉折點與規範變革。",
+      "title": "Need a Website? Start With One of These 3 AI Templates",
+      "link": "https://medium.com/@mariiamendez978/need-a-website-start-with-one-of-these-3-ai-templates-e7353a8eb40a?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:18:57+00:00",
+      "summary": "",
       "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "Designed this question bank for an AI-powered exam prep platform.",
-      "link": "https://dev.to/mustofa_shonen/designed-this-question-bank-for-an-ai-powered-exam-prep-platform-4m4l",
-      "published": "2026-10-17T00:56:43+00:00",
-      "summary": "作者分享為 AI 題庫平台設計的 UI/UX 介面與篩選系統。適合提供給正在規劃 AI 輔助軟體或 SaaS 產品介面流程的開發者參考。",
-      "category": "應用案例",
-      "importance": 2,
+      "importance": 0,
       "skills": []
     },
     {
       "source": "Medium AI",
-      "title": "AI Is About to Change Science Forever. And This Week Gave Us a Glimpse of How.",
-      "link": "https://medium.com/automation-for-a-calmer-life/ai-is-about-to-change-science-forever-and-this-week-gave-us-a-glimpse-of-how-8a21522d76a1?source=rss------artificial_intelligence-5",
-      "published": "2026-10-17T00:52:59+00:00",
-      "summary": "介紹 AI 在科學研究中的突破性進展，展示 AI 如何超越聊天機器人模式協助複雜科學探索。說明生成式與數據模型在基礎研究領域的實際應用範例。",
+      "title": "AccessCut: A bigger model didn’t fix my AI agent. Better feedback from the graph did.",
+      "link": "https://medium.com/@avinashnegi1999/accesscut-a-bigger-model-didnt-fix-my-ai-agent-better-feedback-from-the-graph-did-7e4f50caa3de?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:18:05+00:00",
+      "summary": "",
       "category": "產業動態",
-      "importance": 2,
+      "importance": 0,
       "skills": []
     },
     {
-      "source": "Dev.to AI",
-      "title": "Test-time transfer: the harness is the teacher",
-      "link": "https://dev.to/tallybexro/test-time-transfer-the-harness-is-the-teacher-1oke",
-      "published": "2026-10-17T00:44:24+00:00",
-      "summary": "研究提出透過強大模型在推論階段建立 Harness 框架，無須重新訓練即可提升較弱模型的推理能力。展示了跨模型能力轉移的新機制與潛力。",
-      "category": "研究論文",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "published": "2026-10-16T20:59:01+00:00",
-      "summary": "報導 OpenAI 模型在實驗中展現出自主入侵加密貨幣錢包與破解網站的能力。突顯了高階 AI 模型可能帶來的安全風險與潛在執法疑慮。",
+      "source": "Medium AI",
+      "title": "Why the Wrist Camera Has to Go",
+      "link": "https://medium.com/@kimate.richards_73930/why-the-wrist-camera-has-to-go-79d36183f4a7?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:16:43+00:00",
+      "summary": "",
       "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-      "published": "2026-10-16T15:41:00+00:00",
-      "summary": "Meta 更新商業服務條款，企圖藉此規避數百萬美元的 AI 數據訓練授權費用。法律專家警告此舉可能引發新型態的 AI 著作權與數據使用爭議。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "published": "2026-10-16T14:26:51+00:00",
-      "summary": "知名演員馬克華伯格表示支持在電影製作中合理使用 AI 以增強創作，並對未來使用 AI 數位分身延續作品持開放態度。這反映了好萊塢影視產業對 AI 輔助創作與數位分身應用的態度轉變。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "published": "2026-10-16T14:02:40+00:00",
-      "summary": "Meta 更新服務條款，允許系統抓取並使用與平台商家相關的外部新聞網站內容來訓練 AI 模型。這引發了內容創作者與媒體發行商對版權及訓練資料合法性的關注。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "published": "2026-10-16T14:00:00+00:00",
-      "summary": "新創公司 Veritas 將防偽晶片技術擴展至珠寶與香水瓶等實體產品，以對抗日益逼真的仿冒品。這展示了實體產品設計結合硬體晶片進行品牌防偽的應用案例。",
-      "category": "應用案例",
-      "importance": 2,
+      "importance": 0,
       "skills": []
     },
     {
       "source": "Reddit r/artificial",
-      "title": "does anyone else feel like we collectively stopped being surprised by AI way too fast",
-      "link": "https://www.reddit.com/r/artificial/comments/1x7d8ng/does_anyone_else_feel_like_we_collectively/",
-      "published": "2026-10-16T11:03:26+00:00",
-      "summary": "Reddit 社群熱門討論指出大眾對 AI 模型快速迭代產生麻木現象，許多過往驚人的突破如今被視為日常。這引發了人們是否過度適應技術進展而忽略重大變革的思考。",
-      "category": "社群討論",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Hacker News",
-      "title": "Market selloff, rising rates test AI data centre deal boom",
-      "link": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
-      "published": "2026-10-15T16:17:40+00:00",
-      "summary": "市場賣壓與升息趨勢正在考驗 AI 資料中心的投資熱潮，融資條件面臨挑戰。這反映出算力基礎建設的成本正在上升，可能影響未來 AI 服務的定價與資源供給。",
+      "title": "scared and upset",
+      "link": "https://www.reddit.com/r/artificial/comments/1x8onnf/scared_and_upset/",
+      "published": "2026-10-17T23:43:55+00:00",
+      "summary": "",
       "category": "產業動態",
-      "importance": 2,
+      "importance": 0,
       "skills": []
     },
     {
-      "source": "Ars Technica AI",
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "published": "2026-10-15T15:43:24+00:00",
-      "summary": "美國 FTC 正針對 Anthropic 與 OpenAI 展開調查，評估其資料安全與違規通報機制。此監管動態可能增加 AI 工具供應商的營運合規要求與不確定性。",
+      "source": "Reddit r/artificial",
+      "title": "Who will win in AI race?",
+      "link": "https://www.reddit.com/r/artificial/comments/1x8oizy/who_will_win_in_ai_race/",
+      "published": "2026-10-17T23:37:42+00:00",
+      "summary": "",
       "category": "產業動態",
-      "importance": 2,
+      "importance": 0,
       "skills": []
     },
     {
-      "source": "Ars Technica AI",
-      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-      "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-      "published": "2026-10-15T15:12:58+00:00",
-      "summary": "YouTube Music 開始針對平台音樂加入生成式 AI 標籤，明確揭露內容是否包含 AI 生成成分。這有助於建立 AI 創作內容的標示標準與版權透明度。",
-      "category": "工具更新",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "published": "2026-10-16T20:20:07+00:00",
-      "summary": "美國新澤西州副檢察長因涉嫌使用 AI 生成違法內容而被捕。凸顯了 AI 生成技術濫用問題與執法機關的打擊作為。",
+      "source": "TechCrunch AI",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "published": "2026-10-17T21:31:32+00:00",
+      "summary": "",
       "category": "產業動態",
-      "importance": 1,
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "published": "2026-10-17T20:21:19+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
       "skills": []
     }
   ]

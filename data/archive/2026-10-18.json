@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T00:49:08.772177+00:00",
+  "count": 20,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "225 billion Claude Code tokens in 30 days, and the subagents that never named a model",
+      "link": "https://dev.to/jacksonxly/225-billion-claude-code-tokens-in-30-days-and-the-subagents-that-never-named-a-model-487",
+      "published": "2026-10-18T00:40:41+00:00",
+      "summary": "作者分享一個月內透過 Claude Code 消耗 2250 億 Token 的高強度多 Agent 開發經驗，並揭露子 Agent 預設繼承主 Session 模型所導致的成本爆表問題。這為使用 Agentic Coding 進行大規模開發的工程師提供了寶貴的成本與工作流控管經驗。",
+      "category": "應用案例",
+      "importance": 5,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Earnings call transcripts for AI agents: reading JPMorgan's Q3 2026 call over MCP",
+      "link": "https://dev.to/daniel_oliveira_4bd55d35d/earnings-call-transcripts-for-ai-agents-reading-jpmorgans-q3-2026-call-over-mcp-e08",
+      "published": "2026-10-18T00:44:41+00:00",
+      "summary": "作者展示如何利用 Equibles MCP 伺服器讓 AI Agent 自動調用工具並讀取摩根大通的財報會議逐字稿。這證明了 MCP 架構在延伸 AI Agent 工具調用與金融資料自動化處理上的實用性。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "I Ran MiniMax H3 Locally on One RTX 4090. Here Is What Actually Works",
+      "link": "https://medium.com/@omkamal/i-ran-minimax-h3-locally-on-one-rtx-4090-here-is-what-actually-works-eb6ecfead1d9?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:44:39+00:00",
+      "summary": "作者分享在單張 RTX 4090 顯卡上本地端運行 MiniMax H3 的實測結果，包含聲音複製與合成兩分鐘對話影片等實作。這展示了個人創作者利用消費級顯卡部署高階多媒體 AI 模型的可行性。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "I Think My AI Company Needs HR",
+      "link": "https://dev.to/steviebennett/i-think-my-ai-company-needs-hr-4g7i",
+      "published": "2026-10-18T00:38:04+00:00",
+      "summary": "作者將多個專業 AI Agent（如架構師、寫碼、測試、Prompt 生成）整合為自動化工作流，並探索人類如何有效協調這些 Agent 的運作。這展示了複雜多 Agent 系統在實際專案管理與協作中的突破。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Can AI Agents Access Your HR and Payroll Data Safely? 329 Tools Counted, 54 Write/Delete",
+      "link": "https://dev.to/scriptmasterlabs01/can-ai-agents-access-your-hr-and-payroll-data-safely-329-tools-counted-54-writedelete-41n5",
+      "published": "2026-10-18T00:31:29+00:00",
+      "summary": "Workday 推出的 Trusted Agent Platform 提供了 329 個基於 MCP 的工具，讓 AI Agent 能在嚴格權限控管下存取與操作 HR 及財務資料。這代表企業級應用正式導入 MCP 標準，為跨系統 Agent 安全整合樹立了示範。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Git at Agent Scale: What Anthropic’s Scion Really Teaches Us",
+      "link": "https://medium.com/@phoenixarjun007/git-at-agent-scale-what-anthropics-scion-really-teaches-us-fa7bcfa09ade?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:31:01+00:00",
+      "summary": "本文探討 AI 編程 Agent 大量產出程式碼時對 Git 版本控制帶來的衝擊，並解析 Anthropic 的 Scion 技術如何處理大規模 Agent 的版控需求。這對打造現代化 AI 軟體開發工作流提供了具前瞻性的系統架構思考。",
+      "category": "研究論文",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "HyperOS 4 Is Dropping in China: Xiaomi’s AI Finally Looks Like It’ll Actually Be Useful",
+      "link": "https://dev.to/etsonramoschian/hyperos-4-is-dropping-in-china-xiaomis-ai-finally-looks-like-itll-actually-be-useful-3fbn",
+      "published": "2026-10-18T00:45:39+00:00",
+      "summary": "小米發表基於 Android 的 HyperOS 4，主打將過去花哨不實用的手機 AI 功能轉變為真正有用的日常應用。這標誌著手機廠商開始從單純堆疊 AI 噱頭轉向提升實際用戶體驗與效率。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "AI + Humans: The Three-Speed Problem",
+      "link": "https://dev.to/steviebennett/ai-humans-the-three-speed-problem-5eok",
+      "published": "2026-10-18T00:40:16+00:00",
+      "summary": "作者分享引入 AI 合成勞動力（synthetic workforce）後，個人工作流程與生產力模式發生的深刻轉變。這反映了 AI 工具如何重新定義人類在工作中的角色，從實際執行者轉變為監督與協調者。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AI Agents Are No Longer Just Answering Questions. They’re Getting Things Done.",
+      "link": "https://medium.com/@er.rajkumaar/ai-agents-are-no-longer-just-answering-questions-theyre-getting-things-done-4638c7668869?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:31:01+00:00",
+      "summary": "文章討論 AI 從單純的問答聊天機器人演化為能夠主動規劃、調用工具並完成複雜任務的行動型 Agent。這種轉變正在重新定義日常工作流程，並強調人類判斷力與工具協作的重要性。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Why AI Agents Fail: Pattern Matching Beats Reasoning Scaffolds",
+      "link": "https://dev.to/yanoai/why-ai-agents-fail-pattern-matching-beats-reasoning-scaffolds-38am",
+      "published": "2026-10-18T00:30:59+00:00",
+      "summary": "分析指出許多 AI Agent 專案失敗並非因為缺乏推理能力，而是過度依賴簡單敘事與不符實情的架構設計。這提醒開發者在設計 AI 工作流時，應注重模式匹配與現實實作邏輯而非盲目相信推理架構。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Systems Thinking, AI and Code in Learning Design",
+      "link": "https://medium.com/@dukemabo/how-i-used-systems-thinking-ai-and-code-to-prototype-a-learning-experience-bc90a173995e?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:25:33+00:00",
+      "summary": "文章探討如何結合系統思考、AI 與程式碼，將抽象的教學設計概念快速轉化為可互動的實體原型。這展示了 AI 如何輔助跨領域創作者縮短從構想到原型驗證的距離。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "The Hidden Sense of Interoception: Unraveling the Mysteries of Our Inner World",
+      "link": "https://dev.to/yagyaraj_sharma_6cd410179/the-hidden-sense-of-interoception-unraveling-the-mysteries-of-our-inner-world-21j0",
+      "published": "2026-10-18T00:25:15+00:00",
+      "summary": "文章探討人類的內受覺（Interoception），即感知心跳與腸道感覺等體內訊號的神經機制。此內容屬於生物學與神經科學科普，與 AI 技術應用無關。",
+      "category": "社群討論",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Most founders think scaling globally in European or North American markets requires a massive…",
+      "link": "https://medium.com/@stylekuasa/most-founders-think-scaling-globally-in-european-or-north-american-markets-requires-a-massive-1e80d972da89?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:20:24+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Need a Website? Start With One of These 3 AI Templates",
+      "link": "https://medium.com/@mariiamendez978/need-a-website-start-with-one-of-these-3-ai-templates-e7353a8eb40a?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:18:57+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AccessCut: A bigger model didn’t fix my AI agent. Better feedback from the graph did.",
+      "link": "https://medium.com/@avinashnegi1999/accesscut-a-bigger-model-didnt-fix-my-ai-agent-better-feedback-from-the-graph-did-7e4f50caa3de?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:18:05+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Why the Wrist Camera Has to Go",
+      "link": "https://medium.com/@kimate.richards_73930/why-the-wrist-camera-has-to-go-79d36183f4a7?source=rss------artificial_intelligence-5",
+      "published": "2026-10-18T00:16:43+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "scared and upset",
+      "link": "https://www.reddit.com/r/artificial/comments/1x8onnf/scared_and_upset/",
+      "published": "2026-10-17T23:43:55+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Who will win in AI race?",
+      "link": "https://www.reddit.com/r/artificial/comments/1x8oizy/who_will_win_in_ai_race/",
+      "published": "2026-10-17T23:37:42+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "published": "2026-10-17T21:31:32+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "published": "2026-10-17T20:21:19+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    }
+  ]
+}
