@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T01:01:46.042433+00:00",
+  "count": 20,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "From Curious to Confident: How I Use AI APIs Without Being a Machine Learning Expert",
+      "link": "https://dev.to/shadie_ai/from-curious-to-confident-how-i-use-ai-apis-without-being-a-machine-learning-expert-g84",
+      "published": "2026-10-19T00:55:26+00:00",
+      "summary": "作者分享非 ML 背景的開發者如何透過呼叫現成 AI API，快速建構出每日處理數千請求的應用功能。這證明掌握 API 整合邏輯比理解機器學習底層理論更能快速落實 AI 應用。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-api",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Our music model ignores the key we ask for, so the browser measures the backing instead",
+      "link": "https://dev.to/rakim777/our-music-model-ignores-the-key-we-ask-for-so-the-browser-measures-the-backing-instead-5e3d",
+      "published": "2026-10-19T00:51:42+00:00",
+      "summary": "開發團隊分享建構哼唱轉音樂流程時，遇到生成式 AI 模型忽視指定調性問題，改由前端瀏覽器實測背景音來修正。這展示了結合前端邏輯與 AI API 來克服生成式模型不確定性的實用技巧。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "One Timeout Cannot Answer Two Questions: Why an AI Write's Confirmation Needs Two Windows",
+      "link": "https://dev.to/rain6fish/one-timeout-cannot-answer-two-questions-why-an-ai-writes-confirmation-needs-two-windows-hj8",
+      "published": "2026-10-19T00:55:56+00:00",
+      "summary": "本文探討 AI Agent 在執行寫入操作並等待人工確認時，如何將超時機制拆分為兩個獨立窗口。這為打造 Human-in-the-loop AI 流程提供了極具實用價值的架構設計心法。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published": "2026-10-17T18:48:08+00:00",
+      "summary": "程式開發平台 Replit 宣布將預設的 AI 模型從 Anthropic 切換為 OpenAI，但使用者仍可手動選擇 Claude。這反映了 AI 輔助開發工具市場的競爭轉變，影響開發者的預設工作流程。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Websites are closing their doors to AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "published": "2026-10-17T13:00:00+00:00",
+      "summary": "越來越多網站開始封鎖 AI Agent 的自動化存取，限制 Agent 代表使用者進行訂位或購物等操作。這將對依靠網絡數據爬取與自動執行的 AI Agent 工作流程應用造成挑戰。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "AI發展與普及速度受制於安全性不足，SailPoint創辦人呼籲整個產業持續投入並付諸行動",
+      "link": "https://www.ithome.com.tw/news/179760",
+      "published": "2026-10-19T12:10:38+00:00",
+      "summary": "SailPoint 創辦人指出 AI 發展不應停下，關鍵在於同步提升適應性身分防護等安全機制。這提醒產業在追求 AI 導入時，必須建立配套的身分驗證與資安防線。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "G7將舉行AI網路攻擊演練，檢驗金融業應變能力",
+      "link": "https://www.ithome.com.tw/news/179758",
+      "published": "2026-10-19T08:10:00+00:00",
+      "summary": "G7 計畫舉行桌上演練，模擬金融體系遭 AI 輔助網路攻擊時的應變能力。這顯示各國政府正評估並強化面對 AI 資安威脅的跨國防禦機制。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Proofpoint以63億美元併購Varonis，擴大資料與AI安全業務",
+      "link": "https://www.ithome.com.tw/news/179755",
+      "published": "2026-10-19T08:10:00+00:00",
+      "summary": "資安業者 Proofpoint 宣布將以 63 億美元併購 Varonis，拓展資料與 AI 安全業務。這反映企業對 AI 普及下資料安全與合規管理的需求大幅增加。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Five Open Science Challenges Where a Verifier, Not the Submitter, Decides the Score",
+      "link": "https://dev.to/ai_openfree_b23025ef075cf/five-open-science-challenges-where-a-verifier-not-the-submitter-decides-the-score-3oia",
+      "published": "2026-10-19T00:50:44+00:00",
+      "summary": "本文介紹 FINAL-Bench 提出獨立驗證器（Verifier）來客觀評分 AI 產出的分子與晶體結構挑戰。這展示了當前 AI 研究將生成解答與結果驗證解耦的新趨勢。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Can a Simple Script Feel Fear?",
+      "link": "https://medium.com/@dilaraagzbyk/can-a-simple-script-feel-fear-1a0566bead1b?source=rss------artificial_intelligence-5",
+      "published": "2026-10-19T00:36:41+00:00",
+      "summary": "作者透過 Braitenberg 載具腳本模擬巴夫洛夫制約與創傷記憶，探索簡單程式是否能展現類恐懼行為。這屬於行為模擬與神經機制的學術理論實驗。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "published": "2026-10-17T15:04:36+00:00",
+      "summary": "Meta 在引發外界反彈後更新條款，刪除可能允許其抓取新聞網站內容來訓練 AI 的相關字樣。這顯示出科技巨頭在資料抓取與版權爭議上面臨更大的監管與輿論壓力。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AI Is Getting Smarter. What Are We Forming?",
+      "link": "https://medium.com/@emergentinnovationco/ai-is-getting-smarter-what-are-we-forming-4eae9a5ca08f?source=rss------artificial_intelligence-5",
+      "published": "2026-10-19T00:37:14+00:00",
+      "summary": "文章探討當 AI 能力日益增強時，人類社會與人機關係正在發生的形塑與變革。內容偏向短篇哲學反思，缺乏具體技術或實作細節。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Nginx修補5項漏洞，3項恐導致遠端程式碼執行",
+      "link": "https://www.ithome.com.tw/news/179759",
+      "published": "2026-10-19T08:10:00+00:00",
+      "summary": "Nginx 修補了 5 項可能導致伺服器崩潰或遠端執行程式碼的高風險資安漏洞。此事件為網路基礎設施的例行修補，與 AI 技術無關。",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Google揭露中國相關駭客利用BeyondTrust零時差漏洞入侵企業內網",
+      "link": "https://www.ithome.com.tw/news/179742",
+      "published": "2026-10-19T08:10:00+00:00",
+      "summary": "Google 揭露資安威脅組織利用 BeyondTrust 零時差漏洞入侵企業遠端支援設備。此為傳統遠端設備漏洞攻擊，與 AI 技術無關。",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "微軟打擊跨國網釣犯罪服務，涉及逾10億則惡意訊息",
+      "link": "https://www.ithome.com.tw/news/179734",
+      "published": "2026-10-19T08:10:00+00:00",
+      "summary": "微軟與資安機構合作接管惡意網域，打擊發送逾 10 億則網釣訊息的犯罪服務。此為傳統網路犯罪打擊行動，與 AI 無直接關聯。",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "How I Prepped for the GH-300 GitHub Copilot Certification",
+      "link": "https://mrkristanto.medium.com/how-i-prepped-for-the-gh-300-github-copilot-certification-01640cebcc30?source=rss------artificial_intelligence-5",
+      "published": "2026-10-19T00:36:02+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "RAG Explained: What It Is, How It Works, and When Your App Needs It",
+      "link": "https://fcidev.medium.com/rag-explained-what-it-is-how-it-works-and-when-your-app-needs-it-acd68073c748?source=rss------artificial_intelligence-5",
+      "published": "2026-10-19T00:33:54+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Signature-Valid Is Not Authorized",
+      "link": "https://dev.to/minia2a/signature-valid-is-not-authorized-21nb",
+      "published": "2026-10-19T00:31:37+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Before AI Runs a Swiss Trade Office, Build the Job Packet",
+      "link": "https://dev.to/isabelle_dubuis_d858453d7/before-ai-runs-a-swiss-trade-office-build-the-job-packet-2k6f",
+      "published": "2026-10-19T00:30:40+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "How to Use Lucid to Diagram a System in 10 Minutes",
+      "link": "https://medium.com/@liutan2008/how-to-use-lucid-to-diagram-a-system-in-10-minutes-c56273467169?source=rss------artificial_intelligence-5",
+      "published": "2026-10-19T00:30:11+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    }
+  ]
+}
