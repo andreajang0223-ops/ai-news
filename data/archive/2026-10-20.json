@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T01:41:28.270978+00:00",
+  "count": 20,
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "published": "2026-10-19T19:28:34+00:00",
+      "summary": "熱門開源 AI 編程工具 OpenCode 遭駭客入侵，導致大量使用者的 API Key 遭竊並產生高額帳單。此事件提醒開發者在使用 Agent 類工具時需特別注意金鑰權限管理。",
+      "category": "產業動態",
+      "importance": 4,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "published": "2026-10-19T23:39:38+00:00",
+      "summary": "Nscale 與 Anthropic 正洽談另一筆價值 450 億美元的算力協議。這顯示出市場對 Anthropic 模型背後龐大算力基礎設施的強勁需求。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "published": "2026-10-19T22:04:28+00:00",
+      "summary": "微軟警告企業應密切監控員工使用的第三方 AI Agent，並將其視為潛在的內部資安威脅。隨著 Agent 工具普及，邊緣模型的不可信問題成為企業資安新焦點。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "published": "2026-10-19T20:09:24+00:00",
+      "summary": "亞馬遜推出全新的 TorchNeuron 開發工具，旨在打破 Nvidia 對 PyTorch 生態系統的壟斷。這能讓開發者更容易將 AI 模型移植並運行於亞馬遜自研晶片上。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "published": "2026-10-19T19:00:12+00:00",
+      "summary": "AI 陪伴應用 Tolan 吸引超 25 萬活躍用戶，並成功獲得 3,000 萬美元新融資。該軟體主打協助使用者處理生活事務與情感陪伴，展現消費級 AI 的應用潛力。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "link": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "2026-10-19T00:00:00+00:00",
+      "summary": "Hugging Face 更新 TorchNeuron 工具，讓開發者在 AWS Trainium 專用晶片上執行與部署模型變得更加容易。這有助於降低高效能 AI 模型訓練與推論的雲端硬體門檻。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "published": "2026-10-18T16:25:19+00:00",
+      "summary": "Anthropic 宣布向外部 AI 監督機構提供類似員工級別的內部存取權限，且監督機構無需經過 Anthropic 審查即可獨立發布報告。此舉創下 AI 企業提升模型安全與第三方監督透明度的重要先例。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "published": "2026-10-19T22:49:27+00:00",
+      "summary": "Hugging Face 政策負責人指出，在 AI 機構內部導入第三方嵌入式評估員並非簡單的安全解方。這突顯出目前 AI 產業在監管與安全評估機制上面臨的複雜挑戰。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The fossil fuel comeback is here",
+      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "published": "2026-10-19T21:48:01+00:00",
+      "summary": "隨著資料中心與 AI 算力需求大幅激增，美國化石燃料基礎設施正在經歷近十年來最大規模擴建。電力需求攀升正衝擊原本的再生能源轉型計畫。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "published": "2026-10-19T21:28:20+00:00",
+      "summary": "AI 算力基礎設施商 CoreWeave 的債務進入困境級別，引發市場對私人信貸泡沫的疑慮。這反映了當前 AI 算力擴展背後高昂的資金成本與財務風險。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "published": "2026-10-19T20:21:53+00:00",
+      "summary": "前 OpenAI 工程師涉嫌為沙烏地阿拉伯政府蒐集情報並遭到起訴。此事件凸顯出頂尖 AI 科技公司的核心技術安全與商業間諜防範問題。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Gen Alpha's struggling with telling the difference between AI slop and real videos. Even If AI stagnates, they got Gen Alpha to milk.",
+      "link": "https://www.reddit.com/r/artificial/comments/1x9obdy/gen_alphas_struggling_with_telling_the_difference/",
+      "published": "2026-10-19T05:21:03+00:00",
+      "summary": "Reddit 熱門討論指出 Alpha 世代兒童難以辨識 YouTube Shorts 上的逼真 AI 生成影片與真實影片的差異。這引發了對早期大量接觸 AI 低質內容可能影響兒童認知與大腦發展的疑慮。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "published": "2026-10-18T18:28:10+00:00",
+      "summary": "費城一名女子因抗議外送機器人搶走人類工作而故意阻擋其去路，最終遭到警方逮捕。此事件凸顯了自動化機器人進入日常實體空間時所引發的社會反彈與法律爭議。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Norwegian undersea cable builder pitches 2,800-mile transatlantic data link between Canada and Europe to bypass the US — Canadian majority partner sought to help fund and build new $620 million fiber connection to reduce reliance on American routes",
+      "link": "https://www.reddit.com/r/artificial/comments/1xa8lp0/norwegian_undersea_cable_builder_pitches_2800mile/",
+      "published": "2026-10-19T20:47:36+00:00",
+      "summary": "挪威海底電纜業者提議興建一條連接加拿大與歐洲的跨大西洋數據鏈路，藉此繞過美國路線。該計畫旨在降低對美國網路基礎設施的依賴並提升整體連線安全性。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Big Tech Will Not Broadcast Your Dissent",
+      "link": "https://www.reddit.com/r/artificial/comments/1xa7icd/big_tech_will_not_broadcast_your_dissent/",
+      "published": "2026-10-19T20:06:02+00:00",
+      "summary": "社群討論關注大型科技公司對平台言論與內容分發的控制力。使用者表達了對演算法審查機制可能影響個人異議聲音傳播的疑慮。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+      "link": "https://www.reddit.com/r/artificial/comments/1xa77rx/margaret_hamilton_computing_pioneer_who_led/",
+      "published": "2026-10-19T19:55:48+00:00",
+      "summary": "主導阿波羅計畫軟體開發的計算機先驅 Margaret Hamilton 辭世，享耆壽 90 歲。她開創了現代軟體工程概念，對整體電腦科學發展影響深遠。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "JetBrains將IntelliJ IDEA的Java、Kotlin分析功能帶進Cursor與VS Code",
+      "link": "https://www.ithome.com.tw/news/179794",
+      "published": "2026-10-20T09:10:48+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "微軟10月Windows Server更新引發Exchange異常，影響郵件收發",
+      "link": "https://www.ithome.com.tw/news/179792",
+      "published": "2026-10-20T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "IETF發布RFC 10024，訂定TLS 1.3混合式PQC金鑰交換標準",
+      "link": "https://www.ithome.com.tw/news/179787",
+      "published": "2026-10-20T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "微軟10月Windows更新強化NTLMv1限制，企業Wi-Fi與VPN登入恐受影響",
+      "link": "https://www.ithome.com.tw/news/179768",
+      "published": "2026-10-20T08:10:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    }
+  ]
+}
