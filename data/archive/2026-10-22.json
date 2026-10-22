@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T01:25:30.374611+00:00",
+  "count": 24,
+  "items": [
+    {
+      "source": "Medium AI",
+      "title": "We asked Claude to design real hardware. It got to a priced parts order in a week.",
+      "link": "https://medium.com/@filiphanasz/we-asked-claude-to-design-real-hardware-it-got-to-a-priced-parts-order-in-a-week-3dd203c729ee?source=rss------artificial_intelligence-5",
+      "published": "2026-10-22T00:57:06+00:00",
+      "summary": "記錄團隊利用 Claude 在一週內完成硬體產品的參數化 CAD 建置、加工圖紙與零件報價單（BOM）。極具工業設計師將 AI 整合進實體產品開發流程的參考價值。",
+      "category": "應用案例",
+      "importance": 5,
+      "skills": [
+        "claude-code",
+        "fusion-mcp",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "published": "2026-10-21T19:53:20+00:00",
+      "summary": "Anthropic 推出全新 AI Agent 工具「Claude Duet」，主打協助專業人士自動化處理跨平台工作流程。這代表 Anthropic 跨入自動化 Agent 領域，能大幅改變個人的數位工作方式。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Claude Certified Developer Exam: 15 Practice Questions with Detailed Answers",
+      "link": "https://medium.com/@zaydislam25/claude-certified-developer-exam-15-practice-questions-with-detailed-answers-d847a9d189ee?source=rss------artificial_intelligence-5",
+      "published": "2026-10-22T01:00:02+00:00",
+      "summary": "提供 Anthropic 官方 Claude 認證開發者考試的情境模擬試題與詳細解答。幫助開發者系統化掌握 Claude API 調用與提示詞工程技巧。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-api",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "published": "2026-10-21T20:27:41+00:00",
+      "summary": "新創公司 Recursive 推出免費且可在筆電運行的程式碼模型 Flint，號稱主要由其 AI 系統自我改善訓練而成。這提供了離線與端側 AI 程式開發工具的新選擇。",
+      "category": "模型發布",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Duet",
+      "link": "https://claude.com/resources/articles/claude-duet",
+      "published": "2026-10-21T19:40:18+00:00",
+      "summary": "Hacker News 熱烈討論 Anthropic 最新發布的 Claude Duet 智能代理工具。社群聚焦於其自動化工作流程的實用性與未來發展潛力。",
+      "category": "社群討論",
+      "importance": 4,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "published": "2026-10-21T19:30:00+00:00",
+      "summary": "沃爾瑪宣佈開放 AI Agent 代表顧客在平台上進行購物與交易，與封鎖 AI 的亞馬遜形成鮮明對比。這標誌著 AI 代理自動化購物時代的正式開啟。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "published": "2026-10-21T19:30:00+00:00",
+      "summary": "沃爾瑪將於下月導入 AI Agent 幫顧客購物，並配備消費審核與金額上限機制。這是 AI Agent 落地於大型電商與個人輔助消費的具體案例。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Your AI Customer is Convinced. What Have You Actually Learned?",
+      "link": "https://medium.com/@alamedamarketingco/your-ai-customer-is-convinced-what-have-you-actually-learned-f7616720b302?source=rss------artificial_intelligence-5",
+      "published": "2026-10-22T01:03:57+00:00",
+      "summary": "探討利用 AI 模擬客戶進行產品開發測試的實務效用與潛在盲點。提醒設計師與創業者，AI 的虛擬回饋無法完全替代真實市場的需求驗證。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "本機 VLM 讀帳號比雲端準，為什麼整張全對卻輸了？",
+      "link": "https://medium.com/@dimanyen/%E6%9C%AC%E6%A9%9F-vlm-%E8%AE%80%E5%B8%B3%E8%99%9F%E6%AF%94%E9%9B%B2%E7%AB%AF%E6%BA%96-%E7%82%BA%E4%BB%80%E9%BA%BC%E6%95%B4%E5%BC%B5%E5%85%A8%E5%B0%8D%E5%8D%BB%E8%BC%B8%E4%BA%86-3446f4fb206d?source=rss------artificial_intelligence-5",
+      "published": "2026-10-22T01:02:34+00:00",
+      "summary": "分析本機端視覺語言模型（VLM）在單據文字辨識與結構解析上的測試表現。指出即便 OCR 辨識完全正確，若不符合業務邏輯仍無法成為實用方案。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "[LG on board] Beyond Architecture: Expert Talks — Rethinking Vehicle Computing for AI",
+      "link": "https://medium.com/@vssalesmarketing/lg-on-board-beyond-architecture-expert-talks-rethinking-vehicle-computing-for-ai-728b95e988c9?source=rss------artificial_intelligence-5",
+      "published": "2026-10-22T01:01:01+00:00",
+      "summary": "LG 專家探討針對車載 AI 重新設計計算架構與頭載單元（Head Unit）的發展趨勢。說明生成式 AI 與車載人機介面整合對未來智慧駕駛體驗的影響。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "oma 20.10: stop gates now verify the code they checked",
+      "link": "https://dev.to/gracefullight/oma-2010-stop-gates-now-verify-the-code-they-checked-42id",
+      "published": "2026-10-22T01:00:56+00:00",
+      "summary": "AI Agent 工具 oma 發布 20.10 版，修復 agent 在測試執行期間修改程式碼導致驗證失真漏洞。大幅提升自動化編程控制流程的嚴謹度與可靠性。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "In the Age of AI, Software engineers are Product Managers",
+      "link": "https://ai.plainenglish.io/in-the-age-of-ai-software-engineers-are-product-managers-d70de73371f6?source=rss------artificial_intelligence-5",
+      "published": "2026-10-22T00:57:16+00:00",
+      "summary": "討論當 AI 大幅降低撰寫程式碼門檻後，工程師的核心角色將逐漸轉變為產品經理。強調精準定義產品需求與定義使用者體驗成為未來最關鍵的技能。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Daily Driver Use As a Professor",
+      "link": "https://www.reddit.com/r/artificial/comments/1xbzs4y/daily_driver_use_as_a_professor/",
+      "published": "2026-10-21T21:19:02+00:00",
+      "summary": "一位教授分享使用 Gemini Argon 與 ChatGPT 進行 Vibe Coding 的實測心得，並討論額度限制與 Gemini Flash 的效果。這展現了生成式 AI 在真實教學與輔助開發中的應用嘗試。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "gemini",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "published": "2026-10-21T21:14:19+00:00",
+      "summary": "Meta 宣布其 AI 應用 Muse 用戶數已突破 1,000 萬，主要應用於購物與個人生產力提升。這顯示 AI 助手正在加速進入大眾消費與個人工作流程中。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "published": "2026-10-21T18:51:42+00:00",
+      "summary": "Google Cloud 宣布將整合 OpenAI 最新模型（如 GPT 6.1 Astra），提供企業跨平台調用。這打通了兩大巨頭的雲端界線，讓開發者在系統部署上有更高靈活性。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Sovereign Local-First Ai Infrastructure — Field Notes 22Oct-4",
+      "link": "https://dev.to/sam_hiotis_117598dbfa3ac2/sovereign-local-first-ai-infrastructure-field-notes-22oct-4-1p6o",
+      "published": "2026-10-22T01:02:10+00:00",
+      "summary": "分享建置離線本機 AI 基礎設施與自動化合規工具的實務筆記。協助開發者在防範 API 限流與保護資料隱私前提下部署模型。",
+      "category": "工具更新",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "The Evaluation Layer — Or, When the Grader Works for the Thing Being Graded",
+      "link": "https://dev.to/goodpa/the-evaluation-layer-or-when-the-grader-works-for-the-thing-being-graded-33f",
+      "published": "2026-10-22T01:01:35+00:00",
+      "summary": "揭露當前 AI 評測機制（Benchmark）內部不一致與球員兼裁判的亂象。提醒開發者切勿盲目迷信榜單分數，應自建符合實際場景的評估標準。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "published": "2026-10-21T22:51:22+00:00",
+      "summary": "黑石集團（Blackstone）高層指出市場對 AI 基礎建設債務過高的疑慮有些誇大。強調私募股權對 AI 長期基礎設施價值的信心不變。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Data centers could erase decades of air quality gains",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "published": "2026-10-21T22:33:44+00:00",
+      "summary": "報導 AI 資料中心爆發性成長帶來的龐大用電需求，正使美國部分地區空氣品質大幅惡化。凸顯生成式 AI 發展背後不容忽視的環境與電力負擔問題。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "published": "2026-10-21T21:30:02+00:00",
+      "summary": "Meta 宣布發行新類別無表決權股票，用以籌措龐大的 AI 研發與基礎設施建設資金。展現科技巨頭在生成式 AI 戰場上持續進行高額資本支出的決心。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "published": "2026-10-21T21:00:00+00:00",
+      "summary": "OpenAI 說明其如何與經銷夥伴合作維持安全標準與的使用政策規範。這主要關乎平台營運政策，對終端開發與應用影響較小。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "link": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+      "published": "2026-10-21T19:14:21+00:00",
+      "summary": "Google 員工因抗議公司簽署軍方 AI 合約而引發辭職潮。這反映了科技巨頭在推動 AI 落地時面臨的倫理審查與內部文化阻力。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "published": "2026-10-21T21:16:20+00:00",
+      "summary": "TechCrunch 即將舉辦創業者高峰會，提供新創團隊與投資人對接及規模化的實務建議。此活動偏向商業創業籌備，與 AI 實際技術應用無直接關聯。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "published": "2026-10-21T19:44:40+00:00",
+      "summary": "文章探討 Apple Music 強調「真人策展」品牌價值的背後原因，對比 AI 生成內容氾濫的現狀。這屬於對 AI 時代人文與設計價值的觀點討論。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
