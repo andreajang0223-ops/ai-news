@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T01:23:41.055695+00:00",
+  "count": 20,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "Why Personal AI Agents Still Communicate Through \"Human Couriers\" — and How We Built the Open E2EE Protocol A4A",
+      "link": "https://dev.to/a4a/why-personal-ai-agents-still-communicate-through-human-couriers-and-how-we-built-the-open-e2ee-5bp6",
+      "published": "2026-10-23T01:18:43+00:00",
+      "summary": "介紹全新的 A4A 開源加密協定，解決個人 AI Agent 在跨裝置間傳遞任務與上下文的瓶頸。這讓結合 MCP 協定的各種 AI 工具能實現更流暢且安全的跨設備協同運作。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "claude-code",
+        "gemini",
+        "fusion-mcp"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "I Don’t Treat AI Agents as Features. I Give Them a Working Context.",
+      "link": "https://dev.to/iamjulienjulien/i-dont-treat-ai-agents-as-features-i-give-them-a-working-context-3nbi",
+      "published": "2026-10-23T01:18:09+00:00",
+      "summary": "作者分享如何透過設定明確的身分、角色與工作上下文，將 AI Agent 更好地融入日常重複性工作。這種系統化的管理思維，能大幅提升 AI 協助產出成果的穩定性與品質。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Block risky git commands in Claude Code with one PreToolUse hook",
+      "link": "https://dev.to/vildandenai/block-risky-git-commands-in-claude-code-with-one-pretooluse-hook-3006",
+      "published": "2026-10-23T01:13:38+00:00",
+      "summary": "提供實用的 PreToolUse Hook 腳本設定，可在 Claude Code 執行危險命令（如 git reset）前自動攔截。這能防止 AI 自動化寫程式時誤毀版本庫，大幅提升使用 CLI Agent 的安全性。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Instagram DM automation: booking with checks",
+      "link": "https://dev.to/matintellect/instagram-dm-automation-booking-with-checks-4lpg",
+      "published": "2026-10-23T01:13:09+00:00",
+      "summary": "分享如何利用 AI 自動化處理 Instagram 私訊預約流程，並透過坦承 AI 身份建立客戶信任。這展示了將 AI 對話機制整合進實際商業接待流程的實用設計原則。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Why Your AI Gets \"Dumb\" After 10 Messages (The Real Reason)",
+      "link": "https://medium.com/@deepakwriting/why-your-ai-gets-dumb-after-10-messages-the-real-reason-bc61acfb60e6?source=rss------artificial_intelligence-5",
+      "published": "2026-10-23T01:11:01+00:00",
+      "summary": "解析 AI 對話在多回合後品質下降的核心原因，包含 Context Window 限制與指令衝突。了解此現象有助於優化提示詞設計與上下文維護，避免 AI 產生偏題或錯誤回應。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "美國資安職缺年減26%，AI安全工程師逆勢成長",
+      "link": "https://www.ithome.com.tw/news/179871",
+      "published": "2026-10-23T08:10:00+00:00",
+      "summary": "美國資安職缺總數雖較去年同期下降，但 AI 安全工程師的需求卻逆勢暴增超過 260%。這顯示企業在導入 AI 技術時，極度缺乏能夠維護 AI 系統安全的專門人才。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "OpenSSF發布AI漏洞處理指引，強調漏洞驗證與人工審查",
+      "link": "https://www.ithome.com.tw/news/179863",
+      "published": "2026-10-23T08:10:00+00:00",
+      "summary": "OpenSSF 發布 AI 軟體漏洞處理指引，提供結合 AI 檢測與人工審查修補漏洞的實務建議。這有助於規範開發者安全地利用 AI 協助寫程式與除錯，降低被黑客攻擊的風險。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "How Data Analysts Can Prepare for 2027 and Beyond",
+      "link": "https://medium.com/@gib.bassett/how-data-analysts-can-prepare-for-2027-and-beyond-47a48cc9b066?source=rss------artificial_intelligence-5",
+      "published": "2026-10-23T01:20:43+00:00",
+      "summary": "探討 Claude 等 AI 工具進入儀表板領域後，數據分析師應如何調整未來定位與核心價值。這反映了 AI 正重塑數據分析流程，促使從業者轉向更高價值的商業決策。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Chapter 5 — The Agent Manager: Turning Business Intent into Coordinated Work",
+      "link": "https://medium.com/emergent-intelligence/chapter-5-the-agent-manager-turning-business-intent-into-coordinated-work-abff366d7482?source=rss------artificial_intelligence-5",
+      "published": "2026-10-23T01:12:12+00:00",
+      "summary": "介紹企業級 Agentic AI 平台的代理管理層架構，說明如何將商業意圖轉化為多 Agent 的協調運作。這對於理解大規模 AI 工作流的模組化與系統化設計相當有幫助。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Debugging a Memory Leak in a Long-Running Node Process",
+      "link": "https://dev.to/raxxostudios/debugging-a-memory-leak-in-a-long-running-node-process-p9e",
+      "published": "2026-10-23T01:17:37+00:00",
+      "summary": "詳細教學如何透過堆疊快照比較與定位，修復 Node.js 長期運行程序中的記憶體洩漏問題。這能協助後端開發者系統化地排除伺服器崩潰問題。",
+      "category": "應用案例",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "歐盟調查Booking.com，關注住宿業者帳號遭接管及訂房詐騙",
+      "link": "https://www.ithome.com.tw/news/179880",
+      "published": "2026-10-23T08:10:00+00:00",
+      "summary": "歐盟依據數位服務法對 Booking.com 展開正式調查，檢視其防止虛假住宿與詐騙的應對措施。這凸顯線上訂房平台在防詐與帳號安全管理上面臨更嚴格的法規監管。",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Chrome預設啟用HTTP連線前警告，降低資料暴露風險",
+      "link": "https://www.ithome.com.tw/news/179869",
+      "published": "2026-10-23T08:10:00+00:00",
+      "summary": "Google Chrome 瀏覽器開始預設啟用 HTTP 連線前警告機制，於建立連線前即提示使用者風險。此舉能降低使用者造訪不安全網站時資料遭攔截或竄改的可能性。",
+      "category": "工具更新",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "I Handed My Busywork to a Personal AI Agent — Notes from a Week with Muse",
+      "link": "https://dev.to/laogedev2/i-handed-my-busywork-to-a-personal-ai-agent-notes-from-a-week-with-muse-4ae7",
+      "published": "2026-10-23T01:10:31+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "甲骨文緊急修補Java 重大漏洞，被傳與eMudhra中介憑證外洩有關",
+      "link": "https://www.ithome.com.tw/news/179905",
+      "published": "2026-10-23T01:10:02+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AI Video Localization for Ads: 6 Tools Ranked by Cost per Language (2026)",
+      "link": "https://medium.com/@thebasedai/ai-video-localization-for-ads-6-tools-ranked-by-cost-per-language-2026-d3d63ceba83a?source=rss------artificial_intelligence-5",
+      "published": "2026-10-23T01:09:37+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How I Built an AI Cold Email Generator with Next.js and OpenAI",
+      "link": "https://dev.to/peterpark_coldmail/how-i-built-an-ai-cold-email-generator-with-nextjs-and-openai-13kj",
+      "published": "2026-10-23T01:09:27+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "I built a free Interactive MCP Config & .cursorrules Generator for Claude Desktop and Cursor (Open Source)",
+      "link": "https://dev.to/johann_schiffer/i-built-a-free-interactive-mcp-config-cursorrules-generator-for-claude-desktop-and-cursor-open-3oe2",
+      "published": "2026-10-23T01:09:26+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The Symbols Need to Go",
+      "link": "https://seanamcclure.medium.com/the-symbols-need-to-go-7862ac81fa1c?source=rss------artificial_intelligence-5",
+      "published": "2026-10-23T01:07:35+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Anthropic Just Showed Us the Future of Technical Hiring and Junior Roles Are Barely In It",
+      "link": "https://iffywhy.medium.com/anthropic-just-showed-us-the-future-of-technical-hiring-and-junior-roles-are-barely-in-it-acb0ebce3263?source=rss------artificial_intelligence-5",
+      "published": "2026-10-23T01:05:10+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Turn Your Inbox Into a Daily Action System With Grok Bot",
+      "link": "https://medium.com/@fahlubmun/turn-your-inbox-into-a-daily-action-system-with-grok-bot-6ac6002bb476?source=rss------artificial_intelligence-5",
+      "published": "2026-10-23T00:52:52+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    }
+  ]
+}
