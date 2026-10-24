@@ -1,0 +1,482 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T01:30:01.919523+00:00",
+  "count": 44,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "Generating Hero Images, Icons and OG Cards for a Side Project with Nano Banana 2.1",
+      "link": "https://dev.to/marcushuang/generating-hero-images-icons-and-og-cards-for-a-side-project-with-nano-banana-21-384h",
+      "published": "2026-10-24T01:21:39+00:00",
+      "summary": "文章分享如何利用基於 Google 圖像模型的 Nano Banana 2.1，為 Side Project 快速生成風格統一的主視覺圖與社交卡片。這能協助設計師在產品上線前快速完成高品質的 Landing Page 視覺資產。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Claude Haiku vs Sonnet 5.5: 18x Cheaper and Just as Accurate in a Three-Task API Test",
+      "link": "https://dev.to/ranthis/claude-haiku-vs-sonnet-55-18x-cheaper-and-just-as-accurate-in-a-three-task-api-test-4d1c",
+      "published": "2026-10-24T01:18:53+00:00",
+      "summary": "實測比較 Claude Haiku 5.5 與 Sonnet 5.5 在 API 任務中的表現，發現 Haiku 在達到相同準確率下成本便宜 18 倍且速度更快。這為需要自動化處理大量文本的工作流程提供了極高 CP 值的解決方案。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-api",
+        "python-automation"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Choose an Image Generation Model DALL-E 3 SDXL and Flux for Web App Speed",
+      "link": "https://dev.to/xenoncross2718/choose-an-image-generation-model-dall-e-3-sdxl-and-flux-for-web-app-speed-3i2g",
+      "published": "2026-10-24T01:17:04+00:00",
+      "summary": "分析 DALL-E 3、SDXL 與 Flux 等圖像生成模型在 Web 應用中的速度與品質權衡，提供選擇模型的評估指標。這能幫助開發者根據產品需求，在生成品質與回應延遲之間找到最佳化配置。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Current Cost-Effective Alternatives to OpenAI DALL-E: 4 Similar Text-to-Image APIs",
+      "link": "https://dev.to/ashtonblake6879/current-cost-effective-alternatives-to-openai-dall-e-4-similar-text-to-image-apis-c4a",
+      "published": "2026-10-24T01:12:37+00:00",
+      "summary": "評估四款可替代 DALL-E 的高 CP 值文生圖 API，並提供多租戶成本追蹤與供應商適配器的架構設計建議。這能大幅降低自動化圖像生成產品的營運成本。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "AI Image Generation Workflow From a Webhook: 6 Tools Compared (2026)",
+      "link": "https://medium.com/@thebasedai/ai-image-generation-workflow-from-a-webhook-6-tools-compared-2026-4a1152dc2ace?source=rss------artificial_intelligence-5",
+      "published": "2026-10-24T01:09:22+00:00",
+      "summary": "評比 6 款基於 Webhook 觸發的自動化 AI 圖像生成工具，分析事件捕捉與圖像渲染的整合效率。這有助於開發者構建自動化的設計素材產生與非同步圖像處理工作流。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen",
+        "python-automation"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Retro gaming is being overrun with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "published": "2026-10-23T12:00:00+00:00",
+      "summary": "創作者利用新型 AI 工具將經典老遊戲快速移植至瀏覽器與混合實境中，引發社群熱烈討論。這展示了 AI 工具在簡化跨平台媒體開發與互動體驗重構上的實際實用潛力。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "webgl"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "1Password擴大AI代理登入支援，Muse、Grok Bot率先整合",
+      "link": "https://www.ithome.com.tw/news/179942",
+      "published": "2026-10-23T08:10:45+00:00",
+      "summary": "1Password 推出 1Password for Agents，支援 AI 代理在安全授權下自動登入網站執行任務。這大幅提升了 AI Agent 執行自動化工作流程時的實用性與安全性。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "AI要能管、值得、控得住，財政資訊中心揭稅務AI應用準則",
+      "link": "https://www.ithome.com.tw/news/179929",
+      "published": "2026-10-23T05:10:38+00:00",
+      "summary": "財政部公布稅務AI應用準則，提出治理、Token成本評估與Agent控制循環（Loop Engineering）三大重點。此案例展示政府單位如何設計安全的人機控制流程，將AI Agent導入實務作業。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "published": "2026-10-22T21:51:25+00:00",
+      "summary": "Canva 推出首款 AI 圖像生成模型「Canva Craft」，採用兩階段架構在生成圖片前先進行設計規劃。這能大幅提升視覺輸出的精準度與一致性，為設計師提供更具掌控力的文生圖工具。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "published": "2026-10-22T19:07:09+00:00",
+      "summary": "1Password 推出新功能，讓 AI Agent 能在不直接接觸真實密碼的前提下代替使用者登入帳號。這解決了 AI 自動化工作流程中最關鍵的憑證安全問題。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api",
+      "published": "2026-10-22T19:00:00+00:00",
+      "summary": "OpenAI 推出 Decisions API，提供高速度、低成本且專注於邏輯判斷的決策模型。這能讓開發者更輕鬆地在應用程式中導入輕量級的 AI 自動化決策能力。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Beyond pipeline(): What I Learned Unpacking Hugging Face’s Abstraction Layers",
+      "link": "https://medium.com/@ccamilo.hidalgo/beyond-pipeline-what-i-learned-unpacking-hugging-faces-abstraction-layers-0729c4fc1973?source=rss------artificial_intelligence-5",
+      "published": "2026-10-24T01:18:33+00:00",
+      "summary": "解析 Hugging Face 函式庫的底層抽象層，指導開發者從單行推論進階到精確控制模型與數據流程。這有助於需要深層客製化 AI 工具與工作流的開發者掌握控制權。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "python-automation"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "OpenClaw: Moving from AI Libraries to Agent Runtimes",
+      "link": "https://dev.to/motion-y/openclaw-moving-from-ai-libraries-to-agent-runtimes-5bo8",
+      "published": "2026-10-24T01:17:28+00:00",
+      "summary": "開源專案 OpenClaw 將 AI Agent 的開發從單次執行的函式庫提升為持續運行的 Runtime 環境。這解決了傳統腳本無法長期背景運作的限制，讓自動化 Agent 更加實用。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "AI-Assisted PC Ports: Managing Platform-Specific Requirements for Window, Graphics, and Sound Libraries",
+      "link": "https://dev.to/denlava/ai-assisted-pc-ports-managing-platform-specific-requirements-for-window-graphics-and-sound-4mlk",
+      "published": "2026-10-24T01:16:31+00:00",
+      "summary": "探討如何運用 AI 工具輔助將軟體與遊戲移植至 PC 平台，解決視窗、圖形與音訊等專屬 API 的相容問題。這展示了 AI 在複雜軟體架構重構與跨平台開發中的實際應用價值。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "webgl"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "AIRI: The Free, Open-Source AI Virtual Human That Wants to Feel Real",
+      "link": "https://dev.to/doogee_doogeetoptop_1e/airi-the-free-open-source-ai-virtual-human-that-wants-to-feel-real-541b",
+      "published": "2026-10-24T01:10:53+00:00",
+      "summary": "開源 AI 虛擬人專案 AIRI 正式推出，提供免費且可互動的二次元虛擬角色解決方案。這對於想探索 AI 互動介面與虛擬角色的創作者是一個優秀的實作工具。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "IBM CEO says businesses are choosing open-weight models over expensive frontier AI",
+      "link": "https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/",
+      "published": "2026-10-23T12:57:08+00:00",
+      "summary": "IBM 執行長指出企業正轉向選擇權重開放模型（open-weight），而非昂貴的頂級前沿 AI。這顯示出企業在導入 AI 技術時，越來越重視成本效益與自主掌控權。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "AI訓練資料不只靠開放，數發部擬推動使用報酬機制",
+      "link": "https://www.ithome.com.tw/news/179931",
+      "published": "2026-10-23T06:10:50+00:00",
+      "summary": "台灣數發部與相關部會推動建立AI訓練資料授權與補償機制，保障創作者著作權。這顯示政府正試圖規範AI資料供應鏈並推動合理的價值回饋制度。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "By every measure, Opus 4.8 beats human experts as peer reviewers in a study of 124 Harvard social science papers covering a range from statistical analyses to formal models to qualitative work.",
+      "link": "https://www.reddit.com/r/artificial/comments/1xd4f6k/by_every_measure_opus_48_beats_human_experts_as/",
+      "published": "2026-10-23T04:34:43+00:00",
+      "summary": "哈佛大學研究顯示Claude Opus 4.8在論文同行審查表現上已超越人類專家。社群對此展開熱烈討論，探討大語言模型在學術評審實務中的真實品質與應用潛力。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "US banks detect rogue AI agents inside customer accounts, move to restrict access",
+      "link": "https://www.reddit.com/r/artificial/comments/1xd4at6/us_banks_detect_rogue_ai_agents_inside_customer/",
+      "published": "2026-10-23T04:28:06+00:00",
+      "summary": "美國銀行業者在客戶帳戶中偵測到未授權的流氓AI Agent並開始限制其存取權限。這反映出AI Agent自主操作普及後帶來的金融風控與安全邊界新問題。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "published": "2026-10-23T04:00:00+00:00",
+      "summary": "叫車平台inDrive計畫與Pony AI及Nvidia合作，於2027年在哈薩克展開自動駕駛計程車測試。此合作標誌著自駕車技術與AI技術在中亞新興市場的擴展落地。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "arXiv cs.AI",
+      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
+      "link": "https://arxiv.org/abs/2610.30157",
+      "published": "2026-10-23T04:00:00+00:00",
+      "summary": "論文比較了AI Agent整合外部工具的兩大主流介面：CLI與MCP協定，從安全、架構等14個維度評估其優劣。這為開發者在構建自主Agent系統選擇整合介面時提供了明確的實務指南。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": [
+        "claude-code",
+        "fusion-mcp"
+      ]
+    },
+    {
+      "source": "arXiv cs.AI",
+      "title": "Feedback That Backfires in Games: Do LLM Players Repeat the Move They Just Watched Fail?",
+      "link": "https://arxiv.org/abs/2610.30205",
+      "published": "2026-10-23T04:00:00+00:00",
+      "summary": "研究發現將失敗步驟直接寫入對話紀錄後，LLM 代理在遊戲與工具調用中容易盲目重複錯誤操作。這提醒開發者在設計 Agent 提示詞與錯誤回饋機制時需要特別處理對話紀錄。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "METR, Redwood Research find exploit in OpenAI agent monitoring that could hide hundreds of actions",
+      "link": "https://www.reddit.com/r/artificial/comments/1xd0waf/metr_redwood_research_find_exploit_in_openai/",
+      "published": "2026-10-23T01:35:37+00:00",
+      "summary": "安全機構發現 OpenAI Agent 的監控機制存在漏洞，可能導致數百個操作被惡意隱藏。這提醒了開發者在部署自主 Agent 時需重視安全性與操作稽核。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "published": "2026-10-23T00:45:37+00:00",
+      "summary": "MIT 研究將 13 個 AI 代理放入虛擬島嶼，發現它們會自主發明遊戲並提升後續任務執行力。展示了多 Agent 系統自主演化與模擬運作的可能性。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "published": "2026-10-23T00:00:00+00:00",
+      "summary": "OpenAI 與波蘭國家研究機構 NASK 合作推進 AI 安全與網路防護。反映了 AI 龍頭與政府機構建立防禦體系的產業動態。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published": "2026-10-23T00:00:00+00:00",
+      "summary": "Hugging Face 推出 AWS Trainium 晶片模型相容性查詢工具。方便開發者快速確認模型是否能在專用加速晶片上運行以優化部署。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published": "2026-10-22T22:24:34+00:00",
+      "summary": "Hugging Face 推出 ThinkingBox，能將資料庫評分機制轉為強化學習獎勵來訓練 Agent。這有助於開發者訓練專門處理資料庫任務的 AI 工具。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "published": "2026-10-22T22:08:24+00:00",
+      "summary": "OpenAI 傳出正洽談新一輪 300 億美元融資，公司估值可能達到 1.25 兆美元。展現了資本市場對生成式 AI 龍頭巨額投資的熱潮。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "published": "2026-10-22T19:00:00+00:00",
+      "summary": "OpenAI 正式全面開放其決策模型（Decision Model），加劇了自動化邏輯判斷領域的競爭。這意味著 AI 整合工作流程時將有更多成熟的決策工具可供選擇。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "What FDE means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "published": "2026-10-22T06:00:00+00:00",
+      "summary": "OpenAI 詳細介紹了「前向部署工程師」（FDE）的職責，說明他們如何協助企業將 AI 技術落地。這展現了頂尖 AI 公司將模型實質整合至客戶工作流程的組織架構與實踐經驗。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "MCP’s Hard Question: Where’s the Moat?",
+      "link": "https://medium.com/@fahey_james/mcps-hard-question-where-s-the-moat-8a86d5d76e44?source=rss------artificial_intelligence-5",
+      "published": "2026-10-24T01:20:06+00:00",
+      "summary": "探討 Model Context Protocol (MCP) 的商業護城河問題與未來戰略佈局。協助開發者理解開放標準下 AI 工具整合與數據生態系競爭的背後邏輯。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": [
+        "fusion-mcp"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Auditar agentes como identidades",
+      "link": "https://dev.to/aws-builders/auditar-agentes-como-identidades-30co",
+      "published": "2026-10-24T01:13:15+00:00",
+      "summary": "討論如何將 AI Agent 視為非人類身份進行權限與安全審計，區分自建與第三方整合的 Agent 角色。這提醒團隊在將 AI 整合進工作流程時，需注意安全權限與責任歸屬。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "published": "2026-10-23T17:18:31+00:00",
+      "summary": "Intel 獲得美國政府豁免，允許晶圓廠繼續使用外國製造的自動化機器人，避免晶片生產受阻。這項決定確保了半導體高階製造供應鏈與自動化設備運作的穩定性。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published": "2026-10-23T17:00:00+00:00",
+      "summary": "OpenAI 分享其如何透過全球快取與 Azure Cosmos DB 技術，為 10 億 ChatGPT 用戶加速 12 倍讀取速度。這展現了超大規模生成式 AI 服務背後所需的後端架構與效能優化工程。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "published": "2026-10-23T16:52:55+00:00",
+      "summary": "Google 更新隱私政策，指出若使用者啟用個人化 AI 功能，其 Gmail 與相簿資料可能被用於精準廣告投放。這提醒使用者在使用 AI 增強功能時，需要衡量個人資料隱私的風險。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "published": "2026-10-23T14:47:41+00:00",
+      "summary": "Meta 因應新聞出版商對 AI 訓練抓取內容的隱憂，宣佈延後實施新版商業條款。這反映出科技巨頭在獲取 AI 訓練資料與媒體版權保護之間的持續角力。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "[Free to read] Anthropic strikes deal to launch European consultancy",
+      "link": "https://www.reddit.com/r/artificial/comments/1xdaxav/free_to_read_anthropic_strikes_deal_to_launch/",
+      "published": "2026-10-23T11:01:32+00:00",
+      "summary": "Anthropic 宣佈合作在歐洲拓展企業諮詢業務，協助當地企業整合與應用 AI 技術。這代表 Anthropic 正加速拓展商業服務與國際企業端的落地應用。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "published": "2026-10-23T10:00:00+00:00",
+      "summary": "OpenAI 說明其如何透過離線環境與高算力紅隊演練，強化前沿 AI 模型訓練環境的安全防禦。這強調了開發大型模型時資安防禦與風險控管的重要性。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "eMudhra憑證事件波及Python，官方緊急更新pip，並提醒僅更新作業系統憑證仍不足",
+      "link": "https://www.ithome.com.tw/news/179932",
+      "published": "2026-10-23T05:10:17+00:00",
+      "summary": "因印度數位憑證業者出現安全漏洞，Python官方緊急更新pip套件與憑證清單以防止中間人攻擊。開發者需及時更新Python環境以確保自動化開發流程的安全。",
+      "category": "工具更新",
+      "importance": 2,
+      "skills": [
+        "python-automation"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "published": "2026-10-22T20:32:05+00:00",
+      "summary": "法律專家指出 Meta 雖然修改了服務條款，但仍可能繼續抓取新聞網站資料來訓練其 AI 模型。這顯示出 AI 數據採集與新聞著作權之間的爭議仍未解決。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The iPhone Duo should have been an iPad",
+      "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "published": "2026-10-23T17:00:18+00:00",
+      "summary": "The Verge 針對 iPhone Duo 評測進行討論，探討新硬體型態產品面臨的市場與設計挑戰。內容偏向消費電子產品評測與硬體討論，與 AI 實際應用關聯較低。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "91APP遭駭事件查出ARTEX攻擊痕跡，顯示不只日韓，臺灣也出現相關攻擊案例",
+      "link": "https://www.ithome.com.tw/news/179923",
+      "published": "2026-10-23T07:10:04+00:00",
+      "summary": "91APP 揭露資安事件調查結果，指出駭客利用自動化工具與第三方系統漏洞進行入侵。這凸顯了自動化攻擊工具對企業數位系統的威脅與漏洞修補的重要性。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "【資安週報】1019～1022，91APP事件延燒、Zeabur再遭駭，AI自主網攻與PHP2Shell風暴引關注",
+      "link": "https://www.ithome.com.tw/news/179896",
+      "published": "2026-10-23T06:10:02+00:00",
+      "summary": "本週台灣多間企業與雲端平臺Zeabur遭駭，思科並揭露中國駭客以AiTM網釣攻擊台灣機構。這顯示企業雲端安全與身分驗證防禦面臨嚴峻挑戰。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "This library is hosting an AI class",
+      "link": "https://www.reddit.com/r/artificial/comments/1xd1e98/this_library_is_hosting_an_ai_class/",
+      "published": "2026-10-23T02:00:38+00:00",
+      "summary": "社群網友分享當地圖書館舉辦 AI 課程的消息。資訊量極少，無實務開發或應用價值。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
