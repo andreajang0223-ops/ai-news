@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T01:06:13.946427+00:00",
+  "count": 20,
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "published": "2026-10-25T14:10:00+00:00",
+      "summary": "盤點了 Muse Charm、Bee、Plaud 等最新熱門的 AI 可穿戴裝置與硬體產品。這些結合 AI 的實體裝置案例對工業設計師探索軟硬體整合極具參考價值。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published": "2026-10-24T14:00:00+00:00",
+      "summary": "本文盤點能直接整合至簡訊介面的實用 AI Agent，涵蓋日常助手、工作自動化與行程規劃。這些案例展示了如何將 AI 代理自然融入使用者的日常生活與工作流程中。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "LLM Tokens and Context Windows: Why AI Forgets Your Conversation",
+      "link": "https://www.reddit.com/r/artificial/comments/1xf53kg/llm_tokens_and_context_windows_why_ai_forgets/",
+      "published": "2026-10-25T15:21:06+00:00",
+      "summary": "文章解析了 LLM 的 Token 與上下文窗口限制，說明 AI 對話時為何會遺忘先前指令。掌握這些機制有助於設計更精準的提示詞並維護對話脈絡。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "AgiBot's 110-Robot Sync Demo Proves Fleet Scheduling, Not Fleet Readiness",
+      "link": "https://www.reddit.com/r/artificial/comments/1xf31xh/agibots_110robot_sync_demo_proves_fleet/",
+      "published": "2026-10-25T13:57:58+00:00",
+      "summary": "智元機器人展示 110 台機器人同步動作，被指出主要展示了車隊調度控制而非單機實戰能力。這呈現了具身智慧與多機器人協作技術的當前現況。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google’s AI search changes upended online publishing",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "published": "2026-10-25T12:00:00+00:00",
+      "summary": "Google 搜尋導入 AI 摘要後改變了流量分發方式，對傳統線上出版業造成嚴重打擊。這顯示出 AI 搜尋技術演進對內容產業與網站經營的深遠影響。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "published": "2026-10-25T09:51:17+00:00",
+      "summary": "尼康攝影大賽獲獎作品因被科學家檢測出 AI 生成痕跡而遭取消資格。這凸顯了 AI 圖像生成技術普及後，對傳統攝影與視覺藝術競賽真實性的挑戰。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "published": "2026-10-25T01:33:49+00:00",
+      "summary": "Cerebras 宣布在其專用晶片架構上成功部署萬億參數規模的 AI 模型。這證明了超大模型可在專用晶片上獲得高吞吐量的推理表現。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "published": "2026-10-24T23:11:54+00:00",
+      "summary": "美國媒體與藝術產業近兩年減少了 20 萬個工作機會，引發關於 AI 替代創意人力的討論。這呈現了生成式 AI 技術對創意產業就業市場的實質影響。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "published": "2026-10-24T21:29:12+00:00",
+      "summary": "BBC《藍色星球 III》特意保留未經修飾的瑕疵鏡頭，以應對 AI 生成影像過於完美無瑕所引發的造假疑慮。這反映出 AI 視覺生成普及後，視覺設計與媒體創作對「真實感」的重新評估。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "No signs of AI payoff outside the tech sector",
+      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "published": "2026-10-24T19:47:19+00:00",
+      "summary": "Hacker News 熱烈討論 Apollo 的最新報告，指出除了科技業本身外，多數傳統產業目前尚無視為明顯的 AI 投資回報。這有助於客觀評估 AI 在跨領域實際落地與商業應用的真實效益。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Block’s new voice model sounds eerily human",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "published": "2026-10-24T16:00:00+00:00",
+      "summary": "Block 發表一款擬真度極高的新語音模型，且支援在 MacBook M4 Max 等設備上進行本機端部署。這降低了極速離線語音 Agent 的門檻，為硬體終端與互動設計提供新可能。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "published": "2026-10-25T16:28:26+00:00",
+      "summary": "柏克萊加州大學數學教授因學生廣泛使用 AI 解題，認為批改傳統作業已無意義。這反映了 AI 工具對傳統教育評量方式帶來的衝擊與變革壓力。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Solidigm pulled its IPO and neocloud credit spreads are blowing out ahead of hyperscaler earnings",
+      "link": "https://www.reddit.com/r/artificial/comments/1xf68po/solidigm_pulled_its_ipo_and_neocloud_credit/",
+      "published": "2026-10-25T16:06:28+00:00",
+      "summary": "晶片業者 Solidigm 撤回 IPO 且雲端供應商借貸成本上升，AI 建設資金面臨首次壓力測試。這顯示出當前 AI 算力基礎建設過度依賴單一巨頭融資的市場風險。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "published": "2026-10-25T13:25:32+00:00",
+      "summary": "Reddit 的 r/opensource 版面發布新規，全面禁止任何使用或針對 AI 開發的開源專案。這反映出傳統開源社群對生成式 AI 帶來的版權與倫理爭議。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "link": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "published": "2026-10-25T12:47:20+00:00",
+      "summary": "Hacker News 社群探討未來若過度依賴 AI 平台，一旦帳號遭封鎖可能導致個人失去經濟能力。這探討了中心化 AI 基礎設施對個人職涯與經濟安全的風險。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "I with the advancement of AI, is there a time coming where video, audio, and image evidence won’t stand up in court?",
+      "link": "https://www.reddit.com/r/artificial/comments/1xetiew/i_with_the_advancement_of_ai_is_there_a_time/",
+      "published": "2026-10-25T05:02:04+00:00",
+      "summary": "社群熱烈討論深度偽造技術演進是否會導致影音與圖像證據在法庭上失去法律效力。這反映了生成式 AI 圖像與影片對社會信任體系帶來的衝擊。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published": "2026-10-24T19:00:00+00:00",
+      "summary": "TechCrunch 整理了未達預期或已終止的 AI 專案與新創公司清單，包含 Siri 延期與 OpenAI 軟體爭議。這為 AI 工具的選擇與技術路線提供了警惕與經驗教訓。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "published": "2026-10-24T18:32:21+00:00",
+      "summary": "美國賓州簽署新法案，要求所有經由 AI 生成或顯著修改的廣告圖像與影音均須標示 AI 標籤。這標誌著生成式 AI 商業應用的法規監管趨嚴，視覺設計師需留意生成內容的合規問題。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "published": "2026-10-24T15:00:00+00:00",
+      "summary": "研究顯示 Grok 與 OpenAI 的 AI 模型在政治偏好上呈現極端立場差異，逾九成候選人推薦結果相反。這凸顯了在設計 AI 產品時，提示詞控制與偏見過濾的重要性。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "The Succession Layer — Or, \"Our Partner Will Handle It\" Is the Most Expensive Sentence in Procurement",
+      "link": "https://dev.to/goodpa/the-succession-layer-or-our-partner-will-handle-it-is-the-most-expensive-sentence-in-36dg",
+      "published": "2026-10-26T01:01:50+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    }
+  ]
+}
