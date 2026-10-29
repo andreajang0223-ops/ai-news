@@ -1,0 +1,395 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T02:17:34.996401+00:00",
+  "count": 36,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "Claude Code MCP Deep Dive (7): From Calling Tools to Reading Resources and Asking Users",
+      "link": "https://dev.to/_94be737e156beb4d74df2/claude-code-mcp-deep-dive-7-from-calling-tools-to-reading-resources-and-asking-users-2agk",
+      "published": "2026-10-29T02:05:39+00:00",
+      "summary": "本文深入解析 Claude Code 的 MCP 機制，介紹其如何讀取 URI 資源並在操作過程中主動向使用者發問。這能協助開發者建立雙向互動、功能更完整的 Agent 工作流程。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Connect Claude Code to Carbon Forge over MCP: shared memory your agents can read, write and cite",
+      "link": "https://dev.to/jeshuabenjoseph/connect-claude-code-to-carbon-forge-over-mcp-shared-memory-your-agents-can-read-write-and-cite-1dep",
+      "published": "2026-10-29T02:04:27+00:00",
+      "summary": "本文提供將 Claude Code 透過 MCP 連接到 Carbon Forge 的教學，建立多個 Agent 可共享與引用的記憶體空間。這能大幅提升團隊與 AI 進行跨檔案協同開發與自動化維護的效率。",
+      "category": "應用案例",
+      "importance": 5,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "GitHub just announced a major overhaul of Copilot, 'evolving' to focus on an agentic future",
+      "link": "https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/",
+      "published": "2026-10-28T20:58:58+00:00",
+      "summary": "GitHub 宣布對 Copilot 進行重大改造，全面轉向以代理人（Agent）為核心的開發體驗。這將改變軟體開發流程，顯著提升自動化協作與 Agentic 寫程式的效率。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "published": "2026-10-28T20:03:00+00:00",
+      "summary": "Google 發布最新旗艦模型 Gemini 4 Carbon，在程式編寫、Agent 代理任務與資安防禦上均有重大躍進。該模型在多項指標上超越同級競爭對手，為實用 AI 應用帶來強大支撐。",
+      "category": "模型發布",
+      "importance": 5,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "I rebuilt a 7,199-game queer arcade in WordPress in five days, driving Elementor through its MCP. Every prompt is published.",
+      "link": "https://dev.to/mpmike/i-rebuilt-a-7199-game-queer-arcade-in-wordpress-in-five-days-driving-elementor-through-its-mcp-19fg",
+      "published": "2026-10-29T02:08:08+00:00",
+      "summary": "作者透過 MCP 驅動 Elementor，在 5 天內使用 AI 提示詞重新建構包含七千多款遊戲的 WordPress 網站。這示範了將 MCP 與提示詞工程整合至自動化網站開發的強大效率。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "published": "2026-10-28T21:34:04+00:00",
+      "summary": "著名音樂硬體品牌 Akai 擁抱 Vibe Coding 風潮，提早開放開源韌體 MPC 裝置給開發者進行硬體客製化。這展示了 AI 寫程式趨勢延伸至產品硬體與音樂裝置改裝的全新應用實例。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Open Source Project to help Secure LLM powered Applications",
+      "link": "https://www.reddit.com/r/artificial/comments/1xhzatd/open_source_project_to_help_secure_llm_powered/",
+      "published": "2026-10-28T20:18:25+00:00",
+      "summary": "開源專案 extensible-mcp 透過 MCP 代理伺服器架構，協助開發者安全地擴充 LLM 工具能力並執行零信任權限控管。這為整合 MCP 協定的應用提供了非常實用的安全性維護方案。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "fusion-mcp"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "Legora is building the agentic operating system for legal work",
+      "link": "https://openai.com/index/legora",
+      "published": "2026-10-28T09:30:00+00:00",
+      "summary": "Legora 結合 OpenAI 模型與 Codex 打造法律 Agent 作業系統，實現合約分析與流程自動化。這是一個將 LLM 深度整合至特定專業領域自動化工作流的實用案例。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "arXiv cs.AI",
+      "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
+      "link": "https://arxiv.org/abs/2610.36146",
+      "published": "2026-10-28T04:00:00+00:00",
+      "summary": "研究提出 StruPO 結構感知 Prompt 編輯器，能在優化圖像 Prompt 時精準保留場景物件與關係。這對於控管文生圖細節與提示詞工程有極高的實用價值。",
+      "category": "研究論文",
+      "importance": 4,
+      "skills": [
+        "imagen",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "published": "2026-10-27T16:00:22+00:00",
+      "summary": "Google DeepMind 發表 Genie 4 世界模型，提供更逼真的物理模擬與人類動作生成，即將開放給開發者使用。這對 3D 模擬、互動設計與虛擬物理環境建構帶來突破性的技術支援。",
+      "category": "模型發布",
+      "importance": 4,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
+      "published": "2026-10-27T15:00:00+00:00",
+      "summary": "Retell 結合 OpenAI 模型打造語音 AI 代理，每月處理一億通電話並實現極高的營收效率。這展示了將語音代理整合進業務流程以獲得極致產出效率的實踐案例。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Sora OpenAI: Revolusi AI Generatif Multimodal Video, Peluang & Tantangan Etis",
+      "link": "https://dev.to/ibramedia/sora-openai-revolusi-ai-generatif-multimodal-video-peluang-tantangan-etis-1f3g",
+      "published": "2026-10-29T02:06:37+00:00",
+      "summary": "本文介紹 OpenAI Sora 文字生成影片模型的核心能力及其帶來的視覺創作革命與倫理挑戰。雖然非最新發布，但仍是理解多模態生成工具發展的重要參考。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Claude Opus 5.5 Can Say “Done” Before Your Agent Is Done",
+      "link": "https://generativeai.pub/claude-opus-5-5-can-say-done-before-your-agent-is-done-013b78e2fcf2?source=rss------artificial_intelligence-5",
+      "published": "2026-10-29T02:04:59+00:00",
+      "summary": "文章指出大型語言模型 Agent 在進行長思考編程時，可能會發生過早判定任務完成的潛在問題。這提醒開發者在建構 AI 自動化寫程式工作流時，必須加入更嚴謹的結果驗證機制。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "The AI Agent Era Doesn't Need More Data — It Needs a Semantic Layer",
+      "link": "https://dev.to/observabilityguy/the-ai-agent-era-doesnt-need-more-data-it-needs-a-semantic-layer-bi2",
+      "published": "2026-10-29T02:04:57+00:00",
+      "summary": "開源專案 UnifiedModel 為企業級 AI Agent 提供語意層，將系統資料轉化為可查詢與呼叫的物件圖譜。這有助於 AI Agent 更精準地理解企業系統關係並執行自動化任務。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "published": "2026-10-28T23:05:39+00:00",
+      "summary": "Instagram 負責人 Adam Mosseri 表示，大眾與創作者社群對 AI 的抵觸與反感短期內仍會持續加劇。這反映了 AI 工具在視覺與創意產業落地時面臨的社會接受度挑戰。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "published": "2026-10-28T21:58:32+00:00",
+      "summary": "微軟首次公開 Azure 的單季實際營收達到 332 億美元，正迅速逼近市場龍頭 AWS。這反映了全球企業對 AI 雲端基礎設施的巨大需求。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "published": "2026-10-28T21:48:37+00:00",
+      "summary": "Google 在全球範圍擴展 AI 搜尋廣告服務，以彌補核心廣告成長放緩的問題。這顯示生成式 AI 正加速重塑搜尋引擎的商業化模式。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "LLMs are significantly better at finding mistakes in papers than trained human reviewers",
+      "link": "https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/",
+      "published": "2026-10-28T21:40:09+00:00",
+      "summary": "社群討論指出大語言模型在尋找學術論文中的錯誤時，表現顯著優於受過專業訓練的人類審稿者。這展現了 AI 在自動化文件審查與除錯上的實用價值。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "published": "2026-10-28T21:34:30+00:00",
+      "summary": "微軟透露上一季度從與 OpenAI 的商業合作中獲得高達 100 億美元的營收。這凸顯了兩家公司之間龐大的商業依賴性與 AI 商業化成效。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "OpenAI reportedly plans to buy Google's AI chips (TPUs) — rivals becoming each other's suppliers",
+      "link": "https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/",
+      "published": "2026-10-28T20:42:44+00:00",
+      "summary": "消息指出 OpenAI 計劃向競爭對手 Google 購買其 AI 晶片（TPU）以擴充算力。這顯示在算力極度吃緊的狀況下，科技巨頭間的競爭與供應鏈合作關係正日益模糊。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "published": "2026-10-28T13:15:00+00:00",
+      "summary": "OpenAI 與 ServiceNow 擴大合作，將 AI 模型與智能 Agent 整合至企業業務流程中。這能自動化跨部門工作流，大幅提升企業運作效率。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "The future of the firm",
+      "link": "https://openai.com/index/the-future-of-the-firm",
+      "published": "2026-10-28T10:00:00+00:00",
+      "summary": "OpenAI 探討 AI Agent 如何重塑企業組織架構與人力協作模式。這對於理解未來企業工作流程與人機協作演變具有參考價值。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "arXiv cs.AI",
+      "title": "Counting the Bandages: On measuring the time that AI saves",
+      "link": "https://arxiv.org/abs/2610.35942",
+      "published": "2026-10-28T04:00:00+00:00",
+      "summary": "論文提出衡量 AI 節省時間的評估架構，指出除計算操作時間外，更需扣除修正 AI 錯誤成本。這提供評估導入 AI 工具實際效益與工作流程優化的理論依據。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "published": "2026-10-27T21:50:04+00:00",
+      "summary": "美國德拉瓦州提出新法案，擬允許 AI 代理人全權營運企業且免除人類經營者特定法律責任。這可能重塑企業法律架構，並開啟全自動化商業運作的先例。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "published": "2026-10-27T18:49:08+00:00",
+      "summary": "生物設計軟體開始支援自然語言指令，讓使用者能透過文字提示詞進行蛋白質與基因設計。這降低了專業生物工程工具的使用門檻，推動提示詞工程在專業領域的落地應用。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Build specialized multimodal models with LFM3",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "published": "2026-10-27T17:16:52+00:00",
+      "summary": "Hugging Face 介紹如何基於 LFM3 構建專屬的多模態模型，協助開發者打造客製化工具。這讓團隊能更輕鬆地處理圖像與文字等複合資料，優化特定工作流程。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "published": "2026-10-27T07:00:00+00:00",
+      "summary": "OpenAI 與 Oracle 擴大合作，將企業商用應用程式與 AI 代理整合至 ChatGPT 中。這使得企業能直接在 ChatGPT 介面存取 Oracle 的業務數據，推進 AI 代理在企業端的落地應用。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The Pet Boom Moved to Small-Town India. The Vets Didn’t.",
+      "link": "https://medium.com/the-story-well/the-pet-boom-moved-to-small-town-india-the-vets-didnt-2409cb45f0b7?source=rss------artificial_intelligence-5",
+      "published": "2026-10-29T02:08:35+00:00",
+      "summary": "開發團隊分享在印度非一線城市推廣寵物智慧項圈的實務經驗與測試心得。這展現了軟硬體整合產品落地偏遠地區時面臨的真實使用者需求與挑戰。",
+      "category": "應用案例",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Not Drama, Not Zoomies, Not Free",
+      "link": "https://medium.com/the-story-well/not-drama-not-zoomies-not-free-a38bd7ad8ae3?source=rss------artificial_intelligence-5",
+      "published": "2026-10-29T02:07:43+00:00",
+      "summary": "文章透過寵物追蹤器與行為數據的實際故事，探討硬體感測器資料解讀的局限性。這提示設計師在設計智慧監測產品時，不能僅依賴單一訊號進行判斷。",
+      "category": "應用案例",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Abliterate Your Safetensors",
+      "link": "https://www.reddit.com/r/artificial/comments/1xi1zzx/abliterate_your_safetensors/",
+      "published": "2026-10-28T22:02:51+00:00",
+      "summary": "社群討論分享了移除模型安全限制（Abliteration）的技術與工具應用。這有助於開發人員深入了解如何調整模型權重以改變 AI 的回應行為。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "published": "2026-10-28T21:25:30+00:00",
+      "summary": "微軟創下連續 10 個季度營收打破歷史紀錄的佳績，本季營收達 923 億美元。這證明了當前 AI 浪潮持續為雲端與科技巨頭挹注強勁的獲利動能。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Hochul signs AI chatbot and baby monitor regulations",
+      "link": "https://www.reddit.com/r/artificial/comments/1xi04ex/hochul_signs_ai_chatbot_and_baby_monitor/",
+      "published": "2026-10-28T20:49:19+00:00",
+      "summary": "紐約州長簽署了針對 AI 聊天機器人和嬰兒監視器的全新監管法案。這標誌著政府正在加強對消費級 AI 產品的安全與隱私規範。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed",
+      "link": "https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/",
+      "published": "2026-10-28T13:07:21+00:00",
+      "summary": "英國政府使用 AI 自動摘要庇護面談紀錄，但抽查顯示每五份就有份存在關鍵錯誤。這揭示了將 AI 自動化摘要應用於高風險領域時的落地隱憂。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Voters in Texas agree: They hate data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": "德州居民強烈抗議數據中心的擴建計畫，擔心影響綠地與水電資源。這反映出 AI 算力需求急速擴張所帶來的實體基礎設施與在地社群衝突。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "published": "2026-10-27T21:31:14+00:00",
+      "summary": "Anthropic 在公開說明書中將 AI 可能產生的勒索、意識萌發及威脅人類等極端狀況列為風險因素。這反映出頂尖 AI 廠商在商業化過程中面臨的監管與安全責任。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "What Graphium can do 03: Calculate between cells of a table",
+      "link": "https://dev.to/kumagallium/what-graphium-can-do-03-calculate-between-cells-of-a-table-39e5",
+      "published": "2026-10-29T02:08:48+00:00",
+      "summary": "Graphium 筆記軟體推出跨表格儲存格計算功能，支援透過變數與單位進行動態公式運算。這提升了結構化筆記中的數據處理與自動化計算效率。",
+      "category": "工具更新",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
