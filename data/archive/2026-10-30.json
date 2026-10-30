@@ -1,0 +1,383 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T02:31:14.755045+00:00",
+  "count": 35,
+  "items": [
+    {
+      "source": "Reddit r/artificial",
+      "title": "A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.",
+      "link": "https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/",
+      "published": "2026-10-29T13:46:22+00:00",
+      "summary": "一名獨立遊戲創作者使用 Claude Code 代理人在 20 天內寫出近四千次提交，成功推出一款 FPS 遊戲試玩版。這證明了 AI Agent 在實際開發與系統構建上的強大實用價值。",
+      "category": "應用案例",
+      "importance": 5,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "GitHub開源AI原型工具Replica，可參考企業設計規範製作互動介面",
+      "link": "https://www.ithome.com.tw/news/180076",
+      "published": "2026-10-29T08:10:27+00:00",
+      "summary": "GitHub 開源 AI 原型工具 Replica，讓設計師能基於團隊既有規範並透過自然語言快速構建互動介面。這能顯著提升設計與開發團隊間的原型溝通效率。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "link": "https://news.ycombinator.com/item?id=50291116",
+      "published": "2026-10-29T15:56:32+00:00",
+      "summary": "Simantic 推出供 AI Agent 與工程師使用的固件模擬平台，可在無實體硬體的狀況下測試與驗證產品固件。這顯著簡化了硬體開發流程並加速軟硬體整合驗證。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "published": "2026-10-29T14:39:37+00:00",
+      "summary": "紐約時報 Cooking App 正測試 AI 食譜微調功能，可協助使用者替換食材與調整份量。這是將 AI 整合至日常消費級產品以提供個人化體驗的實用案例。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "published": "2026-10-29T03:33:42+00:00",
+      "summary": "Hacker News 熱烈討論 Claude Code 的背景 Agent 會定期傳送對話紀錄至模型的運作機制。這對於了解 Claude Code 內部原理與優化開發自動化流程極具參考價值。",
+      "category": "社群討論",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "link": "https://huggingface.co/blog/mistral-large4",
+      "published": "2026-10-29T00:00:00+00:00",
+      "summary": "Hugging Face 正式上線 Mistral Large 4 模型，提供開發者更強大的開源大語言模型選擇。這讓創作者與工程師能更容易調用最新模型進行各類應用開發。",
+      "category": "模型發布",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "link": "https://huggingface.co/blog/anydecisionmodel",
+      "published": "2026-10-29T00:00:00+00:00",
+      "summary": "推出專為 Apple 平台優化的 AnySpeechRecognizer 與 AnyDecisionModel 開源模型，支援端側語音識別與決策推理。這大幅降低了在 iOS 與 macOS 上開發本機 AI 應用的門檻。",
+      "category": "模型發布",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "published": "2026-10-28T21:34:04+00:00",
+      "summary": "音樂設備大廠 Akai 擁抱「vibe coding」趨勢，為尚未正式上市的 MPC 開放韌體並讓創作者提前開發客製化功能。這展示了硬體廠商如何結合 AI 輔助程式開發與開源社群進行產品創新。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "Legora is building the agentic operating system for legal work",
+      "link": "https://openai.com/index/legora",
+      "published": "2026-10-28T09:30:00+00:00",
+      "summary": "法律科技公司 Legora 使用 OpenAI 模型與 Codex 打造法律專用的 Agent 作業系統，協助加速合約分析與法律研判。這展示了專用型 AI Agent 如何徹底改造傳統專業領域的工作流程。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "OpenAI 更新了 AI 模型規範（Model Spec），制定五大核心價值以引導模型做出符合人類意圖的判斷。這為未來 AI 工具的行為邊界與安全互動設定了重要基礎。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "Mistral 開源了其萬億參數級別的網路安全 AI 模型權重，主打比封閉模型更高的自主控制權。這為企業提供新型態的資安防禦工具與自架選擇。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Microsoft’s AI future has fewer jobs",
+      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "published": "2026-10-29T16:00:00+00:00",
+      "summary": "微軟向全球約六萬名員工提出自願離職方案，顯示 AI 轉型正深刻重塑其人力規模與組織結構。這是科技巨頭為因應 AI 時代進行大規模內部調整的明確訊號。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks",
+      "link": "https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/",
+      "published": "2026-10-29T15:41:37+00:00",
+      "summary": "玩家社群成功解鎖 Nvidia RTX 20/30/40 系列顯示卡的隱藏 AI 效能，部分基準測試效能翻倍。這讓使用者能不花額外預算大幅提升本地 AI 運算效率。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "webgl"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "link": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "published": "2026-10-29T15:06:17+00:00",
+      "summary": "社群文章探討 AI 生成內容中常出現無根據或過時的「僵屍數據」來源問題。這提醒使用者在使用 AI 進行市場調研與資料收集時需注意事實查核。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "LLM Voice",
+      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "published": "2026-10-29T14:57:55+00:00",
+      "summary": "軟體大師 Martin Fowler 撰文分析 LLM 在生成文字時展現的特定語氣與風格特徵（LLM Voice）。這有助於使用者透過 Prompt 調整，讓生成內容更自然且符合特定溝通需求。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "published": "2026-10-29T14:00:00+00:00",
+      "summary": "Anthropic 提交 IPO 招股書，向華爾街投資人展示通用人工智慧（AGI）的商業前景與財務狀況。這標誌著領先的 AI 獨角獸正加速邁向公開資本市場。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "published": "2026-10-29T13:30:00+00:00",
+      "summary": "報導揭露 Anthropic 透過財務規劃將大規模資本投注於算力建設，全力追求開發前沿 AI。這反映了頂尖 AI 廠商在硬體與算力規模上的激烈競逐。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "OpenAI 分享其透過多層次監控機制來偵測模型偏差與未授權 Agent 行為的技術。這對於維護前沿 AI 系統安全與防止自動化風險擴大至關重要。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "New AA intelligence index v5 with “Private tests” conveniently upranks GPT, Google’s models, while open weights chinese models downrank",
+      "link": "https://www.reddit.com/r/artificial/comments/1xiein9/new_aa_intelligence_index_v5_with_private_tests/",
+      "published": "2026-10-29T08:42:38+00:00",
+      "summary": "社群質疑 Artificial Analysis 指數引入非公開測試，導致開源模型排名下滑而商業模型上升。這引發了使用者對 AI 基準評測公正性與透明度的熱烈討論。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "千家臺灣中小企業採用，老牌印度協作軟體業者主打企業級AI、擴大在臺布局",
+      "link": "https://www.ithome.com.tw/news/180077",
+      "published": "2026-10-29T08:10:28+00:00",
+      "summary": "印度協作軟體商 Zoho 擴大在台布局，推廣基於 LLM 的 AI 工具與自動化 Zia Agents。已有千家台灣中小企業導入，顯示企業級 AI 生產力工具正加速普及。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published": "2026-10-29T07:00:00+00:00",
+      "summary": "法律事務所 Ropes & Gray 與 OpenAI 合作開發 AI 盡職調查工具，協助律師加速文件審閱與摘要生成。這展示了 AI 在專業領域處理複雜商務文本的實務工作流程。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "arXiv cs.AI",
+      "title": "Counting the Bandages: On measuring the time that AI saves",
+      "link": "https://arxiv.org/abs/2610.35942",
+      "published": "2026-10-29T04:00:00+00:00",
+      "summary": "論文探討如何精確衡量 AI 所節省的時間，強調必須將修復 AI 產生錯誤的時間納入考量。這為評估 AI 工具對工作流程效率的真實影響提供了新的量化思考。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "link": "https://huggingface.co/blog/announcing-project-protostar",
+      "published": "2026-10-29T00:00:00+00:00",
+      "summary": "Hugging Face 推出 Project ProtoStar，旨在將政府與公共資助的科學數據轉換為適合 AI 訓練的開放格式。這將促進科學研究成果的共享並加速 AI 技術應用。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "published": "2026-10-28T23:05:39+00:00",
+      "summary": "Instagram 負責人 Adam Mosseri 表示，大眾與創作者對 AI 技術的負面反彈情緒短期內恐將持續加劇。他探討了當前大眾對 AI 工具的疑慮以及科技公司面臨的公關挑戰。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "published": "2026-10-28T14:58:17+00:00",
+      "summary": "NVIDIA 推出 Nemotron 3.5 Transcribe 與 Granary v2 多語言語音轉錄工具，支援透過提示詞調整與微調轉錄結果。這讓語音轉文字的自動化處理能更精準地配合專業領域的需求。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "published": "2026-10-28T13:15:00+00:00",
+      "summary": "OpenAI 與 ServiceNow 擴大合作，將 AI 模型與 Agent 深入整合至企業工作流程管理系統中。此舉將加速自動化 Agent 進入大型企業營運流程的普及率。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "published": "2026-10-29T16:24:55+00:00",
+      "summary": "Google 承認 AI 搜尋摘要功能導致廣告收益下滑，並計劃增加廣告投放以彌補虧損。這反映出搜尋巨頭將 AI 導入現有商業模式時面臨的獲利陣痛。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion | TechCrunch",
+      "link": "https://www.reddit.com/r/artificial/comments/1xinf2c/microsoft_just_shared_azures_actual_revenue_in/",
+      "published": "2026-10-29T15:39:54+00:00",
+      "summary": "微軟首次公開 Azure 雲端服務的實際美元營收達 332 億美元，呈現強勁成長。這驗證了企業端對雲端 AI 算力與服務的龐大需求。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+      "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "published": "2026-10-29T14:29:06+00:00",
+      "summary": "文章揭露注重隱私的 Proton 公司內部對於是否導入 AI 應用的劇烈爭辯與文化衝擊。這展現了安全隱私導向的企業在面對 AI 浪潮時所面臨的策略選擇挑戰。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "published": "2026-10-29T13:37:07+00:00",
+      "summary": "Granite Switch 發布 4.1.1 版本，主張讓開發者能像更新一般軟體一樣簡化 AI 模型升級。這有助於降低 AI 模型在實際應用與部署上的維護門檻。",
+      "category": "工具更新",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Europe's data centers are booming. Who gets first dibs on electricity?",
+      "link": "https://www.reddit.com/r/artificial/comments/1xifxgv/europes_data_centers_are_booming_who_gets_first/",
+      "published": "2026-10-29T10:10:47+00:00",
+      "summary": "歐洲數據中心因 AI 需求急速成長，引發了電力資源優先分配與基礎建設負荷的社群討論。這凸顯了 AI 技術擴張對實體能源網路帶來的重大挑戰。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "AI has come for Arizona’s water",
+      "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "published": "2026-10-29T10:00:04+00:00",
+      "summary": "隨著 AI 數據中心在沙漠中大量興建，龐大的冷卻水與電力消耗對亞利桑那州水資源造成壓力。這顯示出 AI 運算背後高昂的環境與自然資源成本。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "published": "2026-10-28T18:47:27+00:00",
+      "summary": "Google 發表了最新前沿模型 Gemini 4 Carbon，標榜效能優於之前的模型，但目前尚未開放給大眾使用。由於一般使用者無法實測與導入工作流程，實際應用價值有限。",
+      "category": "模型發布",
+      "importance": 2,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "The future of the firm",
+      "link": "https://openai.com/index/the-future-of-the-firm",
+      "published": "2026-10-28T10:00:00+00:00",
+      "summary": "OpenAI 發布文章討論 AI 如何重新塑造未來企業組織架構與角色分工。內容偏向企業管理與組織轉型的高層觀點論述。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "published": "2026-10-28T17:46:32+00:00",
+      "summary": "使用者發現 Google AI 在美國境內被問及 2020 年大選結果時態度迴避，但在美國境外卻能正常回答。這反映了生成式 AI 產品在面對特定地區政治敏感議題時的防護與審查策略。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": [
+        "gemini"
+      ]
+    }
+  ]
+}
