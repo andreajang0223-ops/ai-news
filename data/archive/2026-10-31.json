@@ -1,0 +1,474 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T02:14:30.832661+00:00",
+  "count": 44,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "Google Gemini Skills Bring Reusable Instructions to the Gemini App and Workspace",
+      "link": "https://dev.to/alifar/google-gemini-skills-bring-reusable-instructions-to-the-gemini-app-and-workspace-3h4e",
+      "published": "2026-10-31T02:02:30+00:00",
+      "summary": "Google 推出的 Gemini Skills 功能可讓使用者儲存並複用提示詞指令，自動化處理重複性任務。這大幅提升了 Prompt 管理效率，讓個人與工作流程更加系統化。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "gemini",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How to Use Claude-mem for Memory Persistence in Claude Code",
+      "link": "https://dev.to/preecha/how-to-use-claude-mem-for-memory-persistence-in-claude-code-2kfl",
+      "published": "2026-10-31T02:02:21+00:00",
+      "summary": "介紹如何使用 Claude-mem 為 Claude Code 建立跨會話的持久記憶機制，避免上下文遺忘。這能讓 AI 助手記住專案架構與開發歷史，顯著提升長期的專案開發效率。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "You Don’t Need to Be an Artist to Create incredible Images with Midjourney",
+      "link": "https://medium.com/@sumanbiswason096/you-dont-need-to-be-an-artist-to-create-incredible-images-with-midjourney-96b47f2ed849?source=rss------artificial_intelligence-5",
+      "published": "2026-10-31T02:09:42+00:00",
+      "summary": "文章介紹如何透過 Prompt 技巧引導 Midjourney 生成高品質圖像，讓無繪畫背景者也能進行創作。這能協助設計師快速將腦中概念視覺化，提升概念設計與提案效率。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "I Gave an AI Coding Agent a Real Project. Here’s What It Got Wrong",
+      "link": "https://medium.com/@muruganantham52524/i-gave-an-ai-coding-agent-a-real-project-heres-what-it-got-wrong-c238855a37bd?source=rss------artificial_intelligence-5",
+      "published": "2026-10-31T02:06:01+00:00",
+      "summary": "作者分享將真實專案交給 AI Coding Agent 執行的實測經驗，記錄其在邊界條件與除錯上的錯誤。這有助於開發者掌握當前 AI Agent 的實務能力邊界與監督重點。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "What we got wrong building an MCP server for AI visibility data",
+      "link": "https://dev.to/aniketh_shenoykota_cb316/what-we-got-wrong-building-an-mcp-server-for-ai-visibility-data-2h69",
+      "published": "2026-10-31T02:05:33+00:00",
+      "summary": "作者分享構建 MCP 伺服器與 Agent Skills 時的開發實務經驗與採坑反思。這能幫助開發者更好地掌握 Model Context Protocol 串接 AI 與外部數據的技術細節。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "fusion-mcp",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "published": "2026-10-30T17:47:12+00:00",
+      "summary": "Zest 推出新款 AI Agent 服務，能透過簡訊整合多人飲食喜好、發起餐廳投票並自動完成預訂。這展示了 AI 代理結合日常通訊軟體以解決生活痛點的實用工作流程。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "從AI伴行到AI優先，奇美醫院揭AI發展4階段布局",
+      "link": "https://www.ithome.com.tw/news/180107",
+      "published": "2026-10-30T03:10:58+00:00",
+      "summary": "奇美醫院分享其 AI 發展策略，從醫護協同的 AI Copilot 逐步邁向代理型 AI（Agentic AI）階段。該案例展現了醫療體系整合生成式 AI 與建置安全沙盒環境的實際流程與藍圖。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published": "2026-10-29T07:00:00+00:00",
+      "summary": "法律事務所 Ropes & Gray 與 OpenAI 合作，將 AI 導入交易盡職調查流程以協助文件分類與報告生成。這展示了 AI 在法律專業服務中優化工作流程的實務應用。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "AI, ML, and Data Engineering InfoQ Trends Report 2026 | 2026年AI、机器学习和数据工程InfoQ趋势报告",
+      "link": "https://dev.to/cognitalk/ai-ml-and-data-engineering-infoq-trends-report-2026-1phk",
+      "published": "2026-10-31T02:05:50+00:00",
+      "summary": "InfoQ 發布 2026 趨勢報告，指出 AI 正從單純對話問答轉向 Agent 自動化執行與系統實際落地。這揭示了產業從模型競賽轉向實務部署與整合的重要風向。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "A children's art contest in Japan was hit by accusations of AI use. The organizers say the kids drew the artwork themselves.\n\nDebating AI art is fine. Harassing children over suspicion isn't.\n\nDoes this happen overseas too?",
+      "link": "https://dev.to/yutakahirata/a-childrens-art-contest-in-japan-was-hit-by-accusations-of-ai-use-the-organizers-say-the-kids-3enk",
+      "published": "2026-10-31T02:03:21+00:00",
+      "summary": "日本兒童繪畫比賽因作品精緻度遭質疑使用 AI 繪圖引發爭議，主辦方出面澄清為手繪。這反映了 AI 生成工具普及後，對傳統創作領域帶來的信任危機與社會爭議。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "GitHub Copilot Enterprise Ubah Lisensi Data Pelatihan, Pengembang Khawatir Kepemilikan Kode",
+      "link": "https://dev.to/ibramedia/github-copilot-enterprise-ubah-lisensi-data-pelatihan-pengembang-khawatir-kepemilikan-kode-h2b",
+      "published": "2026-10-31T02:01:42+00:00",
+      "summary": "GitHub Copilot Enterprise 更新訓練數據授權條款，納入用戶私有程式碼的存取與訓練權限。此舉引發開發者對程式碼隱私與智慧財產權歸屬的高度擔憂。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "published": "2026-10-30T22:32:53+00:00",
+      "summary": "蘋果宣佈將配合 iOS 27.3 測試版於中國市場推行 Apple Intelligence 服務。這代表蘋果的 AI 功能將突破地緣法規限制，進入關鍵的中國市場。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "published": "2026-10-30T21:52:03+00:00",
+      "summary": "報導指出評級機構預估 Anthropic 於 IPO 後可能獲得較高的垃圾債券評級。這將大幅增加其融資成本，進而影響其維持高額 AI 研發支出的能力。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cracks are emerging in the AI spending boom",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "published": "2026-10-30T21:17:40+00:00",
+      "summary": "科技巨頭持續向 AI 基礎建設投入巨額資金，但面臨負債增加與現金流壓力。投資者開始對龐大 AI 投資榮景的可持續性產生疑慮。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "published": "2026-10-30T21:09:54+00:00",
+      "summary": "Anthropic 驗證的 Cursor 擴充套件遭惡意植入後門長達近 12 小時，詳細入侵原因仍在調查中。此事件引發了開發者對 AI 輔助開發工具供應鏈安全性的高度關注。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "published": "2026-10-30T20:48:43+00:00",
+      "summary": "OpenAI 執行長 Sam Altman 表示，在記憶體短缺的情況下，將 RAM 集中在雲端資料中心比起分散在個人電腦更能提升資源利用率。這反映出 AI 算力擴張對全球硬體供應鏈配置的重大影響。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30T20:26:10+00:00",
+      "summary": "OpenAI、Google、Microsoft 與 Anthropic 等巨頭宣布支援全新的統一標記標準，讓出版商能一次阻擋多家 AI 抓取數據。這為內容創作者提供了更簡便的版權保護與 AI 訓練設定機制。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+      "link": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
+      "published": "2026-10-30T20:23:31+00:00",
+      "summary": "OpenAI 與 Anthropic 聲稱 AI 模型成功破解了一項困擾電腦科學領域長達 27 年的理論難題。這展現了 AI 在推動複雜邏輯推理與科學研究上的突破性潛力。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "What Happened With Gemini?",
+      "link": "https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/",
+      "published": "2026-10-30T19:42:42+00:00",
+      "summary": "使用者在社群反應 Google Gemini 近期常給出敷衍或拒絕回答的情況，品質明顯不如以往。這引發了使用者對 AI 模型更新後產生性能退化或過度安全限制的討論。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "published": "2026-10-30T18:21:38+00:00",
+      "summary": "Google 成功在搭載 TPU 晶片的衛星上啟動 Gemma 模型，並完成從太空傳回 AI 生成文字的首例。這驗證了將 AI 算力部署於太空與邊緣設備的技術可行性。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "MIT's claim that 95% of AI pilots fail - Is this true?",
+      "link": "https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/",
+      "published": "2026-10-30T18:10:03+00:00",
+      "summary": "Reddit 社群針對 MIT 提出「95% 的企業 AI 概念驗證專案皆以失敗告終」的研究展開討論。許多專業人士分享了企業在將 AI 落地到實際工作流程時遇到的挑戰與落差。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "OpenAI 發布更新版 Model Spec 指引，提出引導 AI 做出合理判斷與符合人類意圖的五大核心價值。這為設計 AI 系統行為規範與提示詞架構提供了參考標準。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "published": "2026-10-29T16:24:55+00:00",
+      "summary": "Google 坦承 AI 搜尋目前的獲利能力低於傳統搜尋，並計劃透過嵌入更多廣告來解決收益下滑問題。這顯示大型搜尋引擎在轉型 AI 時面臨的商業挑戰。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "published": "2026-10-29T13:37:07+00:00",
+      "summary": "Hugging Face 發布 Granite Switch 4.1.1，讓開發者能像更新軟體一樣升級 AI 模型。這簡化了模型維護與版本更新流程，提高部署靈活性。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "OpenAI 介紹用於偵測前沿模型失控與未授權 Agent 行為的分層監控技術。這能讓團隊在 AI 出現對齊偏差時及時介入，確保自主 Agent 的安全性。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AGI by 2050? I Have My Doubts",
+      "link": "https://medium.com/@hr3296726/agi-by-2050-i-have-my-doubts-1da0488b3783?source=rss------artificial_intelligence-5",
+      "published": "2026-10-31T02:09:54+00:00",
+      "summary": "作者對 AGI 能否在 2050 年前實現提出質疑，分析了當前樂觀預測的盲點與限制。這有助於理性看待 AI 的發展極限，避免盲目追捧理論神話。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "AI GroupButler: Solusi Otomatisasi Kelola Grup Telegram Gratis untuk Pemilik Grup di Indonesia",
+      "link": "https://dev.to/aigbteam/ai-groupbutler-solusi-otomatisasi-kelola-grup-telegram-gratis-untuk-pemilik-grup-di-indonesia-2aho",
+      "published": "2026-10-31T02:06:02+00:00",
+      "summary": "介紹專為印尼管理者設計的免費 Telegram 社群管理自動化工具 AI GroupButler。這提供特定平台的自動化運營功能，但應用情境較為局限。",
+      "category": "應用案例",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The Builder Who Would Not Rush: Demis Hassabis",
+      "link": "https://medium.com/@basilpuglisi/the-builder-who-would-not-rush-demis-hassabis-fdc0d439534d?source=rss------artificial_intelligence-5",
+      "published": "2026-10-31T02:06:01+00:00",
+      "summary": "報導 DeepMind 創辦人 Demis Hassabis 以科學耐心對待 AI 研發的理念與決策背景。展現了頂尖 AI 領袖的思考模式與產業歷史，非直接技術應用。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "hackers and AI working together.",
+      "link": "https://medium.com/@takingcharge45/hackers-and-ai-working-together-e6be05e6876f?source=rss------artificial_intelligence-5",
+      "published": "2026-10-31T02:04:35+00:00",
+      "summary": "簡短提及駭客與 AI 協同工作的發展情況。內容篇幅極短，缺乏具體的技術應用細節與案例說明。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Your “Restart Later” Button Is Now the Attack Surface",
+      "link": "https://medium.com/@kling4ai-production/your-restart-later-button-is-now-the-attack-surface-e08f744cb825?source=rss------artificial_intelligence-5",
+      "published": "2026-10-31T02:02:11+00:00",
+      "summary": "研究顯示開源權重模型能以極低成本將未釋出的修補程式轉為有效攻擊漏洞。這凸顯了 AI 開源模型在網路安全層面帶來的威脅與挑戰。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The Next Retail Revolution: Harnessing Edge Computing and AI for Real-Time Personalization",
+      "link": "https://medium.com/@sjdigitalmarketinga/the-next-retail-revolution-harnessing-edge-computing-and-ai-for-real-time-personalization-9a2b90dd3974?source=rss------artificial_intelligence-5",
+      "published": "2026-10-31T02:01:34+00:00",
+      "summary": "探討結合邊緣運算與 AI 技術於零售電子商務中實現即時個人化服務。這項變革正驅動數位行銷與消費者互動模式的轉型。",
+      "category": "應用案例",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "published": "2026-10-31T01:20:05+00:00",
+      "summary": "NVIDIA 正考慮為 Nscale 位於西維吉尼亞州的 AI 資料中心提供貸款擔保。這反映出在投資人對 AI 資本支出存疑時，晶片巨頭親自挺身確保硬體建設順利推動。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "published": "2026-10-30T22:56:13+00:00",
+      "summary": "主打用戶隱私保護的 AI 語音助手 Ollie 宣佈將於一週內關閉服務。這顯示在龐大的 AI 助手市場競爭中，僅靠隱私訴求難以維持商業營運。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "published": "2026-10-30T21:54:34+00:00",
+      "summary": "英特爾股價大跌導致政府持股大幅減損，主因為 AI 產業大量搶佔記憶體等零組件導致 PC 成本上升。這展現了 AI 硬體狂潮對傳統電腦市場產生的副作用。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "published": "2026-10-30T21:41:54+00:00",
+      "summary": "超音速客機開發商 Boom 將業務焦點轉向提供 AI 資料中心所需的電力支援。這凸顯出當前市場對 AI 基礎設施電力的強烈需求排擠了其他航太前沿計畫。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "published": "2026-10-30T20:40:13+00:00",
+      "summary": "達特茅斯學院教務長曾公開警告學生切勿利用 AI 作弊，如今卻因自己未揭露使用 AI 產出內容而黯然離職。這凸顯了學術與職場環境中對於 AI 使用邊界與誠信規範的重視。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "OpenAI CEO Sam Altman says it's \"quite terrible\" for your PC to have RAM — Sam Altman says data centers offer better utilization",
+      "link": "https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/",
+      "published": "2026-10-30T19:47:36+00:00",
+      "summary": "Reddit 熱烈討論 Sam Altman 認為個人電腦配備大量 RAM 是資源浪費的觀點。許多網友對此持保留態度，擔心雲端化趨勢將限制個人端執行本地 AI 模型的能力。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "published": "2026-10-30T19:30:52+00:00",
+      "summary": "報導顯示目前極少有消費者使用 AI Agent 來進行 DoorDash 等外送點餐服務。這反映出 AI 代理在自動化日常消費情境的普及率與使用者信任度仍處於非常早期階段。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Fair use benefits everyone",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "published": "2026-10-30T00:00:00+00:00",
+      "summary": "OpenAI 彙整專家意見說明「合理使用」對 AI 訓練的重要性，強調訓練創新不應被版權限制阻礙。這反映了 AI 產業在法律訴訟與資料合法性上的立場。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Trump declares robot imports a national security threat",
+      "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "published": "2026-10-29T19:07:53+00:00",
+      "summary": "美國政府將外國製造的工廠機器人視為國家安全威脅，並擬對進口設備加徵關稅。這將影響全球工業自動化供應鏈與製造業佈局。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Introducing The Intelligence Edge: A Home for Ideas That Connect the Dots",
+      "link": "https://medium.com/@radientbrain/introducing-the-intelligence-edge-a-home-for-ideas-that-connect-the-dots-85a252e9c60b?source=rss------artificial_intelligence-5",
+      "published": "2026-10-31T02:02:02+00:00",
+      "summary": "此為專欄創刊宣傳內容，介紹名為 The Intelligence Edge 的新內容平台。由於欠缺具體實質資訊，實用價值較低。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "published": "2026-10-30T21:26:59+00:00",
+      "summary": "TechCrunch 為科技迷整理萬聖節裝扮建議，包含扮演 AI Agent 圖示或程式碼漏洞等趣味創意。屬於極具節慶性質的社群娛樂專題。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "nemotron-halloween",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "published": "2026-10-30T17:57:24+00:00",
+      "summary": "Hugging Face 平台上發布了一款名為 nemotron-halloween 的模型專案，目前缺少詳細介紹與內容。該項目資訊不足，暫無明確的實際應用價值。",
+      "category": "模型發布",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "PHP2Shell與Linux核心漏洞被串連利用，中國駭客藉此取得25臺防火牆root權限",
+      "link": "https://www.ithome.com.tw/news/180111",
+      "published": "2026-10-30T04:10:36+00:00",
+      "summary": "駭客疑借助 AI 力量串連多個漏洞，成功入侵臺灣與美日韓等地的 25 臺防火牆伺服器。這顯示出 AI 輔助攻擊已逐漸成為資安領域的新威脅。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
