@@ -1,0 +1,266 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T02:18:26.334653+00:00",
+  "count": 25,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "Add Claude to your GitHub pull requests with one command in Claude Code",
+      "link": "https://dev.to/dedupedai/add-claude-to-your-github-pull-requests-with-one-command-in-claude-code-5a2j",
+      "published": "2026-11-02T02:05:13+00:00",
+      "summary": "介紹如何透過 Claude Code 一鍵安裝官方 GitHub Action，讓 Claude 直接在 PR 與 Issue 留言中協助審查並自動修改程式碼。",
+      "category": "應用案例",
+      "importance": 5,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Text-to-Image API Integration for Code Review Tools (and Why the Endpoint Matters)",
+      "link": "https://dev.to/griffinhayes3461/text-to-image-api-integration-for-code-review-tools-and-why-the-endpoint-matters-4131",
+      "published": "2026-11-02T02:05:50+00:00",
+      "summary": "實作分享如何將文生圖 API 整合至開發者的程式審查工具中，並透過適配器架構彈性控管成本與替換提供商。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Use your Claude, ChatGPT or Gemini subscription in goose, no API key",
+      "link": "https://dev.to/dedupedai/use-your-claude-chatgpt-or-gemini-subscription-in-goose-no-api-key-2mkn",
+      "published": "2026-11-02T02:05:12+00:00",
+      "summary": "開源 AI Agent 工具 goose 支援使用現有的 Claude 或 Gemini 個人訂閱帳號運作，讓使用者無需額外付費購買 API Key。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "claude-api",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention",
+      "link": "https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/",
+      "published": "2026-11-01T19:38:51+00:00",
+      "summary": "DeepSeek 開源了一款 super-agent 程式開發原型，採用單一 Router 與多 Worker 架構來處理專案開發。這提供了一套不依賴新模型、專注於多 Agent 任務調度的實作參考架構。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Anthropic's automated red-teaming found a blind spot in training-data monitors",
+      "link": "https://www.reddit.com/r/artificial/comments/1xks5ad/anthropics_automated_redteaming_found_a_blind/",
+      "published": "2026-11-01T02:41:27+00:00",
+      "summary": "Anthropic 部署上千個 Claude Agent 進行自動化紅隊測試，成功找出訓練資料監控器的盲點。這展示了利用 Claude API 進行大規模自動化系統漏洞防禦測試的實務應用價值。",
+      "category": "研究論文",
+      "importance": 4,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "published": "2026-10-31T16:05:00+00:00",
+      "summary": "作者搶在 Meta 發售 Muse Charm 前，自行 DIY 打造了一款電子雞風格的實體 AI 助手。這展現了結合產品設計與 AI 互動說明的軟硬體整合創新實踐。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't use it as well for most use cases",
+      "link": "https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/",
+      "published": "2026-11-01T18:27:56+00:00",
+      "summary": "Reddit 網友討論多數人至今仍未充分利用 Excel 等基礎工具，認為 AI 技術雖強但多數人的實際應用需求被高估。這引發關於 AI 工具如何真正融入日常工作流程的深度檢視。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "X/Twitter makes AI dev look effortless, but I keep burning tokens on unfinished projects. How are you actually shipping full apps?",
+      "link": "https://www.reddit.com/r/artificial/comments/1xl815r/xtwitter_makes_ai_dev_look_effortless_but_i_keep/",
+      "published": "2026-11-01T16:53:42+00:00",
+      "summary": "網友探討社群網路上宣稱「兩小時用 AI 寫完專案」的現象，並尋求實際將 AI 應用於完整產品開發的真實流程。這點出了開發者從 MVP 邁向完整產品交付時常遇到的代幣消耗與品質瓶頸。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "published": "2026-10-31T21:41:00+00:00",
+      "summary": "蘋果執行長強調不會為了做 AI 而做 AI，將專注於能為用戶創造實質價值的產品功能。這反映出科技巨頭在整合 AI 時走向實用導向的產品策略。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "An AI Security Startup Got Into an AI Lab Through Its Sales Software.",
+      "link": "https://medium.com/@moneylabai777/an-ai-security-startup-got-into-an-ai-lab-through-its-sales-software-b5aa8f9cf769?source=rss------artificial_intelligence-5",
+      "published": "2026-11-02T02:09:38+00:00",
+      "summary": "一家資安新創透過傳統銷售軟體的漏洞侵入 AI 實驗室，顯示 AI 系統周邊的軟體防護才是主要資安威脅所在。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "$173M ads, one AI rebrand: OpenAI data centers",
+      "link": "https://dev.to/frankchu/173m-ads-one-ai-rebrand-openai-data-centers-110a",
+      "published": "2026-11-02T02:06:29+00:00",
+      "summary": "OpenAI 因應資料中心面臨龐大居民反對與抗議廣告，計畫將資料中心改名為「AI 計算校園」以推動公關與立法溝通。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "arXiv (2610.32813) — LLM 에이전트 하네스 토큰 효율 극대화를 위한 재귀적 자기 개선: HarnessMM 아키텍처 분석",
+      "link": "https://medium.com/@mdpman/arxiv-2610-32813-llm-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%95%98%EB%84%A4%EC%8A%A4-%ED%86%A0%ED%81%B0-%ED%9A%A8%EC%9C%A8-%EA%B7%B9%EB%8C%80%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9E%AC%EA%B7%80%EC%A0%81-%EC%9E%90%EA%B8%B0-%EA%B0%9C%EC%84%A0-harnessmm-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B6%84%EC%84%9D-913f5bf49012?source=rss------artificial_intelligence-5",
+      "published": "2026-11-02T02:06:15+00:00",
+      "summary": "剖析 HarnessMM 研究論文，探討如何透過遞迴自我改善機制大幅提升 LLM Agent 的 Token 使用效率。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The Ant on the Beach — Simon, Symbols, and Design In The Age Of AI",
+      "link": "https://medium.com/@jongovi/the-ant-on-the-beach-simon-symbols-and-design-in-the-age-of-ai-4caa838417ae?source=rss------artificial_intelligence-5",
+      "published": "2026-11-02T02:05:29+00:00",
+      "summary": "從設計理論角度探討企業級 AI 專案的痛點，分析為何 AI 產品在 Demo 階段很驚艷，但在實際部署時卻極為脆弱。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "I Thought Creating Animated Videos Was the Hard Part.",
+      "link": "https://medium.com/@mskmedum.fad172/how-freelancers-find-animated-video-clients-e0193be7ebd0?source=rss------artificial_intelligence-5",
+      "published": "2026-11-02T02:01:01+00:00",
+      "summary": "創作者分享動畫影片製作的實戰經驗，指出技術製作並非最難，尋找有真實需求且願意付費的商業客戶才是難題所在。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "published": "2026-11-01T21:55:23+00:00",
+      "summary": "報導 OpenAI 因應社區對資料中心建設的強烈反彈，擬將設施重新包裝為「AI 計算校園」以降低民眾疑慮。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card",
+      "link": "https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/",
+      "published": "2026-11-01T21:44:45+00:00",
+      "summary": "OpenAI 開始限制每台裝置與付款卡可註冊的 ChatGPT 付費帳號數量。此舉旨在打擊帳號濫用與轉售行為，維護平台運作秩序。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Grok Bot users ran out of a week’s usage overnight, and Elon Musk says the agent was costing too much",
+      "link": "https://www.reddit.com/r/artificial/comments/1xlfd9v/grok_bot_users_ran_out_of_a_weeks_usage_overnight/",
+      "published": "2026-11-01T21:44:18+00:00",
+      "summary": "Grok 機器人用戶在一天內耗盡整週使用額度，馬斯克回應稱其 Agent 營運成本過高。這突顯了高階 AI Agent 在規模化推廣時面臨的算力與成本瓶頸。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "published": "2026-11-01T20:57:58+00:00",
+      "summary": "報導討論科技公司 CEO 對於 AI 效益的發言與一般員工實際感受之間的落差。這反映出 AI 工具在提高基層生產力上仍面臨落地與推廣的挑戰。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit",
+      "link": "https://www.reddit.com/r/artificial/comments/1xkzv9y/if_it_wasnt_for_chatgpt_my_brother_would_still_be/",
+      "published": "2026-11-01T10:35:40+00:00",
+      "summary": "報導揭露 OpenAI 安全團隊在追求市場領先時面臨的挑戰，並探討對話式 AI 帶來的心理風險與倫理爭議。這提醒開發者在設計 AI 互動時需高度重視安全防禦機制。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "持續推動網路自主營運、資安強化與AI原生支援，HPE揭示旗下三大雲端網路管理平臺最新整合時程",
+      "link": "https://www.ithome.com.tw/news/180118",
+      "published": "2026-11-01T05:11:51+00:00",
+      "summary": "HPE 宣布整合旗下三大雲端網路管理平台，持續強化網路自主營運與 AI 原生支援。這將大幅提升企業 IT 基礎架構的自動化維運與資安防護效率。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "published": "2026-10-31T21:17:03+00:00",
+      "summary": "法官批准 NAACP 針對 xAI 資料中心涉嫌違反《清潔空氣法》的訴訟繼續進行。這凸顯了 AI 算力中心快速擴建所引發的環境污染爭議與法規監管壓力。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "published": "2026-10-31T16:12:55+00:00",
+      "summary": "據報導 OpenAI 調低了新一輪融資的目標金額，募資表現未達原先市場期待。這反映出資本市場對 AI 巨頭的高額燒錢模式與投資回報率開始採取更審慎的態度。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Built to Burn: Corporate Governance, Software Failure, and Modern Abundance",
+      "link": "https://medium.com/@aludanyi/built-to-burn-corporate-governance-software-failure-and-modern-abundance-54df0510f126?source=rss------artificial_intelligence-5",
+      "published": "2026-11-02T02:09:06+00:00",
+      "summary": "探討企業治理結構、軟體系統失敗原因與現代資源豐裕時代下的管理與開發挑戰。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Hiring for Capabilities, Not Just Impressions",
+      "link": "https://medium.com/@versatile_satin_sardine_119/hiring-for-capabilities-not-just-impressions-68943d7d6211?source=rss------artificial_intelligence-5",
+      "published": "2026-11-02T02:07:02+00:00",
+      "summary": "分析企業招募如何跳脫履歷的表面第一印象，轉而深入評估求職者實際解決問題的能力。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "published": "2026-10-31T21:36:07+00:00",
+      "summary": "TechCrunch 宣傳即將舉辦的 Founder Summit 活動，提供新創團隊交流與資源對接平台。內容屬於商業活動宣傳，無具體 AI 技術或應用細節。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
