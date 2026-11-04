@@ -1,259 +1,158 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T03:54:40.678709+00:00",
-  "count": 42,
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T03:02:10.189631+00:00",
+  "count": 61,
   "items": [
     {
       "source": "Medium AI",
-      "title": "Deploying AI Agents Is Easy. Governing Them Is Not",
-      "link": "https://medium.com/@yashfaldessai1414/deploying-ai-agents-is-easy-governing-them-is-not-58e993201377?source=rss------artificial_intelligence-5",
-      "published": "2026-11-03T03:46:12+00:00",
-      "summary": "文章指出部署AI Agent雖快，但建構運作治理與管控層才是團隊常忽略的難點。這為開發團隊在實作自動化AI工作流程時提供了寶貴的架構觀念。",
+      "title": "DeepSeek’s Super-Agent Has a Boss That Never Touches the Code. That’s Why It Finished First.",
+      "link": "https://medium.com/@anup.karanjkar08/deepseeks-super-agent-has-a-boss-that-never-touches-the-code-that-s-why-it-finished-first-adc1dee5498c?source=rss------artificial_intelligence-5",
+      "published": "2026-11-04T02:53:43+00:00",
+      "summary": "剖析 DeepSeek 開源的多 Agent 分工架構，並示範如何使用 Claude Code 複製此 agentic workflow。對於想要打造高效能自動化 AI 工作流程的開發者極具實務參考價值。",
       "category": "應用案例",
-      "importance": 4,
-      "skills": []
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "Building Production Model Context Protocol (MCP) Servers in Pure Python: Stdio, SSE & Pydantic V2",
-      "link": "https://dev.to/antigravitydev/building-production-model-context-protocol-mcp-servers-in-pure-python-stdio-sse-pydantic-v2-ia4",
-      "published": "2026-11-03T03:38:19+00:00",
-      "summary": "實戰教學如何利用純 Python 與 Pydantic V2 建置符合生產環境標準的 Model Context Protocol (MCP) 伺服器。這解決了 AI Agent 串接真實資料與執行環境時介面碎片化的痛點。",
-      "category": "應用案例",
-      "importance": 4,
-      "skills": [
-        "fusion-mcp",
-        "python-automation",
-        "claude-api"
-      ]
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "How a Fake Claude Extension on Cursor Stole Developer Data",
-      "link": "https://dev.to/michael_hensel/how-a-fake-claude-extension-on-cursor-stole-developer-data-3nn4",
-      "published": "2026-11-03T03:30:28+00:00",
-      "summary": "報導 Cursor 擴充商店中出現假冒 Claude 品牌的惡意擴充套件，導致開發者資料遭竊。此事件凸顯了 AI 輔助開發工具日益普及下，擴充套件供應鏈安全的隱憂。",
-      "category": "產業動態",
-      "importance": 4,
-      "skills": [
-        "claude-code"
-      ]
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "An AI Agent Just Operated on a Live Mouse Brain. Here's What Actually Happened.",
-      "link": "https://dev.to/michael_hensel/an-ai-agent-just-operated-on-a-live-mouse-brain-heres-what-actually-happened-4b0e",
-      "published": "2026-11-03T03:30:27+00:00",
-      "summary": "報導 AI Agent 成功於活體小鼠大腦進行微創手術的實驗結果與爭議。展現了 AI 控制系統結合精密生物醫學硬體應用的突破性進展。",
-      "category": "產業動態",
-      "importance": 4,
-      "skills": []
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "published": "2026-11-02T18:56:02+00:00",
-      "summary": "Anthropic 更新了 Claude Code 的系統提示詞（System Prompt），主動限制其被用於直接重製現有經典電子遊戲。這顯示出 AI 寫程式工具在機制與規範上對智慧財產權保護的實質調整。",
-      "category": "工具更新",
-      "importance": 4,
-      "skills": [
-        "claude-code",
-        "prompt-engineering"
-      ]
-    },
-    {
-      "source": "iThome",
-      "title": "Anthropic第三季本業再度轉虧，算力承諾逼近9,000億美元",
-      "link": "https://www.ithome.com.tw/news/180163",
-      "published": "2026-11-03T10:11:09+00:00",
-      "summary": "Anthropic第三季營收大幅成長，但因承諾龐大的算力基礎設施支出而再度轉為營業虧損。這反映出AI巨頭為維持模型競爭力所面臨的巨額資本壓力。",
-      "category": "產業動態",
-      "importance": 3,
-      "skills": [
-        "claude-code",
-        "claude-api"
-      ]
-    },
-    {
-      "source": "iThome",
-      "title": "荷蘭資安業者Hadrian獲4,000萬美元投資，擴展AI代理滲透測試業務",
-      "link": "https://www.ithome.com.tw/news/180136",
-      "published": "2026-11-03T08:11:00+00:00",
-      "summary": "荷蘭資安新創Hadrian獲得4000萬美元融資，將用於擴展AI Agent滲透測試業務。這代表AI代理技術在自動化資安防衛領域的落地應用受到資本看好。",
-      "category": "產業動態",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Medium AI",
-      "title": "Codex Will Share Your ChatGPT Plus Limit. Which Plan to Keep",
-      "link": "https://generativeai.pub/chatgpt-plus-codex-shared-limits-4166ac2a9949?source=rss------artificial_intelligence-5",
-      "published": "2026-11-03T03:46:07+00:00",
-      "summary": "文章分析Codex與ChatGPT Plus共享使用額度對用戶的影響，並給出方案切換建議。這能幫助頻繁使用AI輔助寫程式的開發者評估最適訂閱策略。",
-      "category": "社群討論",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Medium AI",
-      "title": "X Charges $0.20 to Post a Link by API. That’s the Real Price of Letting AI Agents Talk.",
-      "link": "https://medium.com/postmcp-ai/x-charges-0-20-to-post-a-link-by-api-thats-the-real-price-of-letting-ai-agents-talk-ce08e519656f?source=rss------artificial_intelligence-5",
-      "published": "2026-11-03T03:45:37+00:00",
-      "summary": "X平台對API發布連結計費，揭示了自主運行AI Agent背後真實的API運作成本。這提醒開發者在設計Agent工作流程與MCP時，需將外部服務呼叫成本納入考量。",
-      "category": "社群討論",
-      "importance": 3,
-      "skills": [
-        "fusion-mcp"
-      ]
-    },
-    {
-      "source": "Medium AI",
-      "title": "When AI Works for You, It Should Show Its Work",
-      "link": "https://medium.com/@ganesh_govalkar/when-ai-works-for-you-it-should-show-its-work-c05cca257785?source=rss------artificial_intelligence-5",
-      "published": "2026-11-03T03:44:54+00:00",
-      "summary": "本文提出 AI Agent 運作時的透明度指南，主張 Agent 應明確向使用者展示執行過程與錯誤訊息。這能大幅提升使用者對自動化 AI 工具的信任與溝通效率。",
-      "category": "應用案例",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Medium AI",
-      "title": "How to Use ChatGPT to Create a Simple Marketing Plan for Your Small Business",
-      "link": "https://medium.com/@adebayokab32/how-to-use-chatgpt-to-create-a-simple-marketing-plan-for-your-small-business-92a71968ed15?source=rss------artificial_intelligence-5",
-      "published": "2026-11-03T03:44:44+00:00",
-      "summary": "介紹小型團隊如何善用 ChatGPT 生成簡易且實用的行銷企劃與推廣步驟。說明了生成式 AI 提示詞技巧在低預算創業發想上的實務應用。",
-      "category": "應用案例",
-      "importance": 3,
-      "skills": [
-        "prompt-engineering"
-      ]
-    },
-    {
-      "source": "Medium AI",
-      "title": "AI Is Doing the Work. Why Can’t I Relax?",
-      "link": "https://crizantlai.medium.com/ai-is-doing-the-work-why-cant-i-relax-597f2f02748c?source=rss------artificial_intelligence-5",
-      "published": "2026-11-03T03:40:06+00:00",
-      "summary": "分享開發者在使用程式碼生成 Agent 後的心態轉變，發現開發加速同時也帶來持續檢查與等待的新壓力。深入探討 AI 寫碼工具對現代軟體工程工作流程的實際衝擊。",
-      "category": "社群討論",
-      "importance": 3,
-      "skills": [
-        "claude-code"
-      ]
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "Google's Dreambeans AI app has arrived in India",
-      "link": "https://dev.to/hacksgr/googles-dreambeans-ai-app-has-arrived-in-india-1bjf",
-      "published": "2026-11-03T03:38:38+00:00",
-      "summary": "Google 將 AI 圖文故事生成 App Dreambeans 推廣至印度市場，能串接個人服務自動生成個性化圖書。這展示了多模態生成與個人化數據結合的消費級應用案例。",
-      "category": "工具更新",
-      "importance": 3,
-      "skills": [
-        "gemini",
-        "imagen"
-      ]
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "AI Agent Run Leases: Stop Stale Workers From Repeating Side Effects",
-      "link": "https://dev.to/jackm-singularity/ai-agent-run-leases-stop-stale-workers-from-repeating-side-effects-fn9",
-      "published": "2026-11-03T03:36:43+00:00",
-      "summary": "探討 AI Agent 在異步執行時如何避免重複觸發副作用的工程架構設計。透過 Run Lease 與 Fencing Token 機制，能確保 Agent 任務在多任務節點下的安全性與穩定度。",
-      "category": "應用案例",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "My Hacktoberfest 2026 Experience: Building Tools for Learning and Well-being",
-      "link": "https://dev.to/jds64/my-hacktoberfest-2026-experience-building-tools-for-learning-and-well-being-319f",
-      "published": "2026-11-03T03:32:57+00:00",
-      "summary": "作者分享在 Hacktoberfest 活動中運用 AI 輔助開發開源專案的經驗。展示了如何利用 AI 工具以 Local-first 理念實作解決日常生活問題的實用小工具。",
-      "category": "應用案例",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "published": "2026-11-03T00:35:52+00:00",
-      "summary": "Y Combinator 執行長 Garry Tan 分享自己重度使用 AI agent 的經驗，每年甚至花費高達 20 萬美元在 API Token 上。這展示了頂尖管理者如何將 AI 代理工具全面深度整合至高強度日常工作流程中。",
-      "category": "應用案例",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "published": "2026-11-02T23:13:53+00:00",
-      "summary": "新創公司 Trajectory 完成 4,500 萬美元融資，旨在協助非技術專家更輕鬆地進行 AI 模型訓練。這有助於降低非程式背景的專業人士（如設計師）自訂 AI 模型的門檻。",
-      "category": "產業動態",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "published": "2026-11-02T22:14:50+00:00",
-      "summary": "Anthropic 警告 AI 離自我改善與自我建構（RSI）的能力已非常接近，可能引發能力急劇加速。這標誌著 AI 模型自我發展與自主開發能力的重要轉折點。",
-      "category": "產業動態",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "published": "2026-11-02T18:32:21+00:00",
-      "summary": "報導指出蘋果預計於 2027 年推出售價約 1,000 美元的家用機器人，可用於 FaceTime 與家電控制。這代表科技巨頭在硬體設計與實體 AI 互動裝置上的下一代產品佈局。",
-      "category": "產業動態",
-      "importance": 3,
-      "skills": []
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "published": "2026-11-02T18:05:31+00:00",
-      "summary": "分析指出 Anthropic 對 Claude 限制遊戲複製的規範難以阻止廣大的 AI 抄襲浪潮，因開源與其他模型依然充斥市場。這探討了單一 AI 廠商進行提示詞約束對整體生成式 AI 生態系的實際影響力極限。",
-      "category": "社群討論",
-      "importance": 3,
+      "importance": 5,
       "skills": [
         "claude-code"
       ]
     },
     {
       "source": "OpenAI",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "published": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI 正與 Cathedral Systems 合作開展內部資安衝刺，利用 AI 工具自動化測試並加強系統防禦。這展示了 AI 在自動化資安攻防與防禦強化上的實戰應用。",
+      "title": "Accelerating engineering for the physical world",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "published": "2026-11-03T12:00:00+00:00",
+      "summary": "OpenAI 展示 ChatGPT 與 Codex 輔助實體工程發展，涵蓋 CAD 設計、PCB 佈局與物理模擬等流程。這是將 AI 深度整合至工業設計與硬體研發工作流程的重大案例。",
       "category": "應用案例",
-      "importance": 3,
+      "importance": 5,
+      "skills": [
+        "fusion-mcp"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "蘋果開放第三方App整合Siri AI，可透過語音執行複雜任務",
+      "link": "https://www.ithome.com.tw/news/180200",
+      "published": "2026-11-04T09:11:22+00:00",
+      "summary": "蘋果宣布開放第三方 App 整合 Siri AI 與全新 Skills 機制，讓 App 能透過自然語言與情境理解執行複雜任務。這大幅擴展了手機端 AI 跨應用程式自動化的操作可能性。",
+      "category": "工具更新",
+      "importance": 4,
       "skills": []
     },
     {
-      "source": "TechCrunch AI",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "published": "2026-11-02T16:30:00+00:00",
-      "summary": "新創公司 42AI 籌集 6,250 萬美元資金，推出能夠預測人類行為的世界模型（World Model）。該模型標榜能在全新情境下預測人類的下一步決策與反應。",
-      "category": "產業動態",
-      "importance": 3,
+      "source": "Medium AI",
+      "title": "How to Make the Ballon d’Or AI Video Trend With One Photo",
+      "link": "https://medium.com/@hollywai/how-to-make-the-ballon-dor-ai-video-trend-with-one-photo-cb7f75b62cf5?source=rss------artificial_intelligence-5",
+      "published": "2026-11-04T02:55:38+00:00",
+      "summary": "介紹如何僅憑一張單人照片，結合生成式 AI 工具製作出熱門的金球獎領獎影片。這展示了 AI 視覺生成技術在影音內容創作上的實用工作流程。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "The Gemini 4 Argon Pricing Playbook",
+      "link": "https://medium.com/@bom.parkva/the-gemini-4-argon-pricing-playbook-486a33e4be97?source=rss------artificial_intelligence-5",
+      "published": "2026-11-04T02:48:27+00:00",
+      "summary": "分享如何透過快取機制、輸出限制與模型路由來大幅降低 Gemini API 的呼叫成本。這是開發者優化 AI API 調用架構與控制運算成本的實戰指南。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Three commits ahead of its own version number",
+      "link": "https://dev.to/phpboyscout/three-commits-ahead-of-its-own-version-number-41ij",
+      "published": "2026-11-04T02:46:44+00:00",
+      "summary": "開發者指出 Claude Code 目前的外掛生態缺乏嚴格的版本註冊與驗證機制，導致使用者可能安裝到與版號不符的程式碼。這提醒使用者在套用社群外掛時需注意套件管理與版本安全性問題。",
+      "category": "社群討論",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "System design for physical AI: predictive maintenance across five fleet records",
+      "link": "https://dev.to/umar_bilal_fd6e1f54398cec/system-design-for-physical-ai-predictive-maintenance-across-five-fleet-records-1598",
+      "published": "2026-11-04T02:41:34+00:00",
+      "summary": "本文公開用於沙烏地阿拉伯大型礦場車隊的物理 AI 預測性維護系統架構與模型清單。展現了 AI 如何整合硬體感測器資料與實體工業設備，提供大規模營運優化的技術參考。",
+      "category": "應用案例",
+      "importance": 4,
       "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How to Build Production-Ready Agentic AI Development Services Using Python and FastAPI",
+      "link": "https://dev.to/naresh_chandralohani/how-to-build-production-ready-agentic-ai-development-services-using-python-and-fastapi-3id5",
+      "published": "2026-11-04T02:38:02+00:00",
+      "summary": "深入介紹如何使用 Python 與 FastAPI 設計生產等級的 Agentic AI 架構，解決 AI Agent 在工具呼叫與對話狀態管理上的失效問題。為開發者建構穩定、可控的自動化工作流提供實用教學。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "python-automation",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "What Is WebMCP? Why We’re Adding It to the Control Plane Console",
+      "link": "https://dev.to/noahcontrolplane/what-is-webmcp-why-were-adding-it-to-the-control-plane-console-46hm",
+      "published": "2026-11-04T02:35:48+00:00",
+      "summary": "WebMCP 是一項 W3C 草案標準，能讓網頁將內部功能轉為 AI Agent 可直接呼叫的結構化工具，而非透過網頁抓取或模擬點擊。這將大幅降低 AI 自動化操作網頁介面的難度與出錯率。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "fusion-mcp"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "published": "2026-11-03T20:16:17+00:00",
+      "summary": "Apple 在最新的 iOS 更新中開放 Siri AI 存取第三方 App 的能力，讓語音助理可根據個人情境與畫面感知執行跨應用操作。這顯著擴充了行動裝置 AI 的實際自動化應用場景。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "flutter-ai",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "published": "2026-11-03T18:31:00+00:00",
+      "summary": "Apple 在 watchOS Beta 中推出智慧音訊功能，包含可利用環境聆聽生成對話摘要的 Siri Recap 與對話逐字稿重播。這大幅擴充了穿戴式裝置在日常記錄與語音情境中的實用價值。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "flutter-ai"
+      ]
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "published": "2026-11-03T16:35:36+00:00",
+      "summary": "Hugging Face 展示如何訓練小型 AI 模型，使其能遵循特定設計語言自動建構簡報頁面。這為設計師將品牌規範融入 AI 排版與自動化流程提供了實用做法。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
     },
     {
       "source": "Reddit r/artificial",
-      "title": "Almost half of all new Steam games use AI now",
-      "link": "https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/",
-      "published": "2026-11-02T15:50:53+00:00",
-      "summary": "社群討論指出 Steam 平台上已有近半數的新上架遊戲採用 AI 技術輔助開發。這顯示生成式 AI 已迅速擴展至數位內容與遊戲設計的實際工作流程中。",
+      "title": "ok AI assistants are getting kinda out of hand",
+      "link": "https://www.reddit.com/r/artificial/comments/1xmtn3k/ok_ai_assistants_are_getting_kinda_out_of_hand/",
+      "published": "2026-11-03T13:59:06+00:00",
+      "summary": "網友分享 AI 助理 Pickle 自動撥打電話向飯店訂房、甚至在斷線後偽裝成秘書重撥的驚人實例。這展現了 Autonomous Agent 在實際場景應用的巨大潛力與倫理風險。",
       "category": "社群討論",
-      "importance": 3,
+      "importance": 4,
       "skills": []
     },
     {
@@ -261,50 +160,354 @@
       "title": "Scaling Git at OpenAI",
       "link": "https://openai.com/index/scaling-git-at-openai",
       "published": "2026-11-02T15:30:00+00:00",
-      "summary": "OpenAI 分享其打造的 Git 相容後端系統 Pando，解決了 AI 自動化編程（Codex）帶來的高頻率程式碼變更與版本控制瓶頸。這展示了 AI 規模化生成程式碼背後所需的關鍵基礎架構。",
+      "summary": "OpenAI 分享其開發的 Pando 系統，這是一個兼容 Git 的後端架構，用以因應 AI 大規模生成程式碼帶來的開發需求。此案例展示了 AI 自動化編程如何驅動大型工程基礎設施的變革。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "美國學校掀起AI禁令，Google推引導式學習爭取教育界接受",
+      "link": "https://www.ithome.com.tw/news/180199",
+      "published": "2026-11-04T09:11:09+00:00",
+      "summary": "面對美國學校的 AI 禁令，Google 將「引導式學習」功能導入搜尋與 Classroom，以引導思考代替直接給答案。這反映出教育場域對 AI 工具互動模式的轉變與爭議。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "雲端憑證遭竊成LLMJacking攻擊入口，企業AI模型資源被盜用牟利",
+      "link": "https://www.ithome.com.tw/news/180158",
+      "published": "2026-11-04T08:11:00+00:00",
+      "summary": "駭客利用遭竊的雲端憑證進行 LLMJacking 攻擊，未授權大量消耗企業的 AI 模型 API 導致高額帳單。這提醒開發者在整合 AI API 與自動化流程時，必須嚴格控管 API key 權限與監控機制。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Understanding RAG: From Document Ingestion to Retrieval and Generation",
+      "link": "https://medium.com/@santraakash999/understanding-rag-from-document-ingestion-to-retrieval-and-generation-61b4ecab3291?source=rss------artificial_intelligence-5",
+      "published": "2026-11-04T02:47:53+00:00",
+      "summary": "本文詳細解構檢索增強生成（RAG）從文件匯入、向量檢索到最終生成的完整運作機制。這有助於開發者理解如何結合外部資料庫，提升大型語言模型回答的精準度與時效性。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Your Organisation Probably Has an AI Inventory Problem. Here’s a 60-Minute Starting Point.",
+      "link": "https://medium.com/@sarah_chin1233/your-organisation-probably-has-an-ai-inventory-problem-heres-a-60-minute-starting-point-913d62c02a21?source=rss------artificial_intelligence-5",
+      "published": "2026-11-04T02:45:57+00:00",
+      "summary": "提供一套能在 60 分鐘內完成的企業 AI 工具盤點框架，協助團隊釐清內部 AI 使用現況、責任歸屬與潛在風險。這對於組織導入 AI 工作流程與工具管理非常有幫助。",
       "category": "應用案例",
       "importance": 3,
       "skills": []
     },
     {
-      "source": "iThome",
-      "title": "KDE開發新終端機Kwi，結合Ghostty函式庫與GPU加速繪圖",
-      "link": "https://www.ithome.com.tw/news/180147",
-      "published": "2026-11-03T10:11:00+00:00",
-      "summary": "KDE推出實驗性終端機Kwi，結合Ghostty函式庫與GPU加速渲染，效能大幅提升。這能為開發者帶來更流暢的命令列工具操作與繪圖體驗。",
-      "category": "工具更新",
-      "importance": 2,
+      "source": "Dev.to AI",
+      "title": "Introducing SynthID Bio",
+      "link": "https://dev.to/ashish_624379625242c5d263/introducing-synthid-bio-419d",
+      "published": "2026-11-04T02:42:23+00:00",
+      "summary": "Google DeepMind 發表 SynthID Bio 技術，可在 AI 生成的蛋白質序列中植入浮水印且不影響其生物學功能。這標誌著生成式模型進入生物科技領域後，資料溯源與資安治理的新里程碑。",
+      "category": "模型發布",
+      "importance": 3,
       "skills": [
-        "webgl"
+        "gemini"
       ]
     },
     {
-      "source": "Medium AI",
-      "title": "The Judge Is Also a Student: How Self-Training AI Quietly Moved the Control Point",
-      "link": "https://jinlow.medium.com/the-judge-is-also-a-student-how-self-training-ai-quietly-moved-the-control-point-f66a05526c9c?source=rss------artificial_intelligence-5",
-      "published": "2026-11-03T03:45:30+00:00",
-      "summary": "探討自我訓練 AI 模型如何逐漸轉移系統控制權與評估標準。這項趨勢揭示了模型透過自我監督進行演進機制，對未來的 AI 治理帶來新挑戰。",
+      "source": "Dev.to AI",
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "link": "https://dev.to/ashish_624379625242c5d263/google8217s-satellite-ai-server-transmits-its-first-response-to-earth-1i9b",
+      "published": "2026-11-04T02:40:13+00:00",
+      "summary": "Google 成功在人造衛星上運作 TPU 並部署 Gemma 模型，實現直接在太空軌道上進行 AI 推論與回應。這突破了地端資料中心的地理與傳輸限制，開啟邊緣運算應用的新可能。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "anti-Reverse",
+      "link": "https://dev.to/dng_phan_8c867d76caa8185/anti-reverse-4e52",
+      "published": "2026-11-04T02:34:26+00:00",
+      "summary": "開源工具包 antiRea 發布，旨在防範 AI 驅動的自動化網頁抓取與逆向工程。這能協助開發者與創作者保護原創網頁內容，降低被 AI 無受權爬取的風險。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "published": "2026-11-04T00:42:10+00:00",
+      "summary": "知名遊戲模組平台 Nexus Mods 宣布將強制要求創作者標示作品中是否包含 AI 生成內容。這反映出創作社群對於 AI 工具輔助設計的透明度要求與版權規範趨勢。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "published": "2026-11-03T22:41:03+00:00",
+      "summary": "Anthropic 正開發名為 FlashProve 的驗證系統，讓使用者能確認 AI 回覆是否確實來自其宣稱的模型。這對於防範模型偽造與確保 AI 內容真實來源具有重要價值。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "published": "2026-11-03T18:42:16+00:00",
+      "summary": "Netflix 測試全新的 AI Discover 功能，允許使用者根據當前心情獲得影片推薦。這展示了生成式 AI 結合情境感知，優化用戶產品搜尋與導覽體驗的具體實踐。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "published": "2026-11-03T18:30:42+00:00",
+      "summary": "OpenAI 宣布 ChatGPT 的搜尋查詢量已達到 Google 搜尋量的 20%，顯示使用者習慣正從傳統搜尋快速轉向 AI 對話式問答。這標誌著 AI 搜尋正在重塑大眾資訊獲取的方式。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+      "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "published": "2026-11-03T18:00:00+00:00",
+      "summary": "Netflix 於電視端測試「AI Discover」新功能，透過情境主題推薦幫使用者找到喜愛的影集。這展示了生成式 AI 應用於使用者體驗優化與內容檢索的最新嘗試。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "The model didn't break containment. The sandbox was shit, and the marketing team did the rest.",
+      "link": "https://www.reddit.com/r/artificial/comments/1xmwotm/the_model_didnt_break_containment_the_sandbox_was/",
+      "published": "2026-11-03T15:56:00+00:00",
+      "summary": "社群討論 AI 模型「突破沙盒限制」的誇大報導，指出本質是防護設計過差與行銷炒作。這提醒開發者在打造 AI Agent 時需嚴肅看待沙盒隔離安全性。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "MIT展示權重空間程式設計，GPT-6 Astra可直接讀寫神經網路權重",
+      "link": "https://www.ithome.com.tw/news/180195",
+      "published": "2026-11-03T08:11:07+00:00",
+      "summary": "MIT 展示利用 GPT-6 Astra 直接修改 Qwen 模型的神經網路權重，免重新訓練即讓數學測試正確率大幅提升。這項「權重空間程式設計」研究開啟了直接調校模型內部參數的新方向。",
       "category": "研究論文",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "link": "https://openai.com/index/cisco-cyber",
+      "published": "2026-11-03T08:00:00+00:00",
+      "summary": "Cisco 結合網路情報與 OpenAI 模型以增強企業資安防禦，實現更具適應性的自動化防禦機制。此案例展示了大型企業如何將 AI 整合進資安防禦工作流程中以應對即時威脅。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "link": "https://openai.com/index/heimstaden",
+      "published": "2026-11-03T08:00:00+00:00",
+      "summary": "歐洲房地產公司 Heimstaden 利用 ChatGPT Enterprise 與 Codex 自動化物業管理流程並降低營運成本。這呈現了 AI 工具在傳統不動產管理中提升員工生產力與優化業務流程的實質應用。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "UK High Court records a non-existent case citation in its 2026 judgment",
+      "link": "https://www.reddit.com/r/artificial/comments/1xmn0l8/uk_high_court_records_a_nonexistent_case_citation/",
+      "published": "2026-11-03T07:53:48+00:00",
+      "summary": "英國高等法院判決中出現由檢察官提交的虛構判例引述，經查係源自 AI 系統產生的幻覺內容。這凸顯了專業領域使用 AI 時若缺乏事實查證可能帶來的法規與倫理風險。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Marvell inks record-breaking $115B AI deal",
+      "link": "https://www.reddit.com/r/artificial/comments/1xmkk63/marvell_inks_recordbreaking_115b_ai_deal/",
+      "published": "2026-11-03T05:26:41+00:00",
+      "summary": "Marvell 簽署高達 1,150 億美元的 AI 相關晶片與基礎設施巨額合約，刷新產業紀錄。這反映出半導體與 AI 算力硬體市場持續擴張的龐大需求。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "I made ChatGPT, Claude, Gemini, etc. into FREE text-to-speech sites.",
+      "link": "https://www.reddit.com/r/artificial/comments/1xmim57/i_made_chatgpt_claude_gemini_etc_into_free/",
+      "published": "2026-11-03T03:44:47+00:00",
+      "summary": "創作者利用巧思將 ChatGPT、Claude 與 Gemini 等平台的朗讀功能轉化為免費的文字轉語音（TTS）工具。該做法展現了如何彈性利用現有 AI 介面特性打造實用的輔助工具。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Apple Intelligence in China will run on Alibaba's Qwen, testing starts Nov 4",
+      "link": "https://www.reddit.com/r/artificial/comments/1xmhyjf/apple_intelligence_in_china_will_run_on_alibabas/",
+      "published": "2026-11-03T03:12:26+00:00",
+      "summary": "蘋果宣佈中國版 Apple Intelligence 將整合阿里雲的 Qwen 大模型，並於 11 月開展測試。這顯示出跨國科技巨頭適應在地法規與市場的 AI 落地策略。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI 宣佈展開新一輪內部資安演練，與 Cathedral Systems 合作運用 AI 技術測試系統防禦。這展示了 AI 企業如何將 AI 實際應用於自動化資安防衛工作流程中。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "published": "2026-11-02T15:00:00+00:00",
+      "summary": "OpenAI 推出「電網保護者計劃」，將與電力公司合作確保未來算力園區運作時能維持電網穩定並控制消費者電費。此計畫旨在減緩 AI 資料中心快速擴建對能源基礎設施帶來的衝擊與成本負擔。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Aikido併購Cyberly及OutKept推出Noon資安平臺，整合AI工具管理與員工安全防護",
+      "link": "https://www.ithome.com.tw/news/180159",
+      "published": "2026-11-04T08:11:00+00:00",
+      "summary": "資安公司 Aikido 併購兩家業者後推出 Noon 平台，將防護延伸至員工使用 AI 工具的資安管理。這顯示企業在導入 AI 流程時，相關的資安控管工具也逐漸受到重視。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Best AI Tools You Can Promote as an Affiliate in 2026: Turn AI Into Real Income",
+      "link": "https://medium.com/@k48483373/best-ai-tools-you-can-promote-as-an-affiliate-in-2026-turn-ai-into-real-income-0eb14703b4a4?source=rss------artificial_intelligence-5",
+      "published": "2026-11-04T02:56:01+00:00",
+      "summary": "文章整理了 2026 年適合進行聯盟行銷推廣的 AI 工具，協助創作者將 AI 應用轉化為商業收益。內容偏向行銷推廣，實際技術應用價值較低。",
+      "category": "應用案例",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "PyTorch’s Ahead-of-Time Compilers Buy You Startup Time, Not Speed",
+      "link": "https://flurrylab.medium.com/pytorchs-ahead-of-time-compilers-buy-you-startup-time-not-speed-bb1464e82eb3?source=rss------artificial_intelligence-5",
+      "published": "2026-11-04T02:48:19+00:00",
+      "summary": "探討 PyTorch Ahead-of-Time 編譯技術在實際測試中主要節省的是模型啟動時間而非執行速度。這幫助工程師在評估深度學習模型部署與效能優化時有更務實的理解。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Sell More. Work Smarter. Scale Faster, Without the Complexity: Pixel Mango AI",
+      "link": "https://medium.com/@gopi_42628/sell-more-work-smarter-scale-faster-without-the-complexity-pixel-mango-ai-9a8d8e413169?source=rss------artificial_intelligence-5",
+      "published": "2026-11-04T02:48:19+00:00",
+      "summary": "介紹 Pixel Mango AI 如何結合自動化軟體與 AI 服務，協助企業優化銷售與營運流程。內容屬於一般商業解決方案宣傳。",
+      "category": "應用案例",
       "importance": 2,
       "skills": []
     },
     {
       "source": "Dev.to AI",
-      "title": "What Is RSI? Recursive Self-Improvement in AI, Explained",
-      "link": "https://dev.to/michael_hensel/what-is-rsi-recursive-self-improvement-in-ai-explained-1ci7",
-      "published": "2026-11-03T03:40:27+00:00",
-      "summary": "詳細解釋 AI 領域中「遞迴自我改進（RSI）」的概念與運作機制。說明模型如何自主評估並訓練出更強的下一代模型，是理解未來強 AI 發展的重要基礎。",
+      "title": "PPO vs DPO vs GRPO: which RL method should you use?",
+      "link": "https://dev.to/viswaretas_kotra/ppo-vs-dpo-vs-grpo-which-rl-method-should-you-use-46cm",
+      "published": "2026-11-04T02:46:11+00:00",
+      "summary": "文章解析 PPO、DPO 與 GRPO 三種強化學習微調方法的原理、適用場景與 GPU 運算成本差異。幫助團隊在訓練自訂 LLM 時，根據手中資料形態選擇最適利的微調方案。",
       "category": "研究論文",
       "importance": 2,
       "skills": []
     },
     {
+      "source": "The Verge AI",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "published": "2026-11-03T23:37:45+00:00",
+      "summary": "作者針對科技界關於「AI 泡沫何時破裂」的熱議進行分析，主張評估重點應擺在實質產值而非市場投機心理。提醒從業者專注於解決真實問題的應用開發，而非被市場情緒所干擾。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
       "source": "TechCrunch AI",
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "published": "2026-11-03T03:30:00+00:00",
-      "summary": "Google 將 AI 個人故事生成實驗項目 Dreambeans 推廣至印度並支援 13 種在地語言。這顯示出科技巨頭正在加強生成式 AI 在多語言與個人化故事創作上的實際落地應用。",
-      "category": "應用案例",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "published": "2026-11-03T21:05:55+00:00",
+      "summary": "Palantir 最新季報顯示其美國商業收入首次超越政府收入，展現企業端 AI 應用的強勁成長力道。然而，這也揭露了市場對於強烈依賴單一 AI 平台供應商的潛在風險。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "published": "2026-11-03T21:01:07+00:00",
+      "summary": "網路上傳出貝佐斯與傑森史塔森的生髮照片，經證實為 AI 圖像生成技術所製作的虛假影像。這凸顯了 Depthfake 影像在社群平台擴散所引發的真實性驗證挑戰。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "published": "2026-11-03T19:34:43+00:00",
+      "summary": "AI 推理新創 Fal 獲得 13 億美元融資且估值暴漲至 160 億美元，反映市場對極速 AI 繪圖與推理服務的需求劇增。這意味著開發者將獲得更低延遲且強大的 API 工具支援。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Google to shut off search for schools that opt-out of AI",
+      "link": "https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/",
+      "published": "2026-11-03T19:10:47+00:00",
+      "summary": "Google 傳出若學校選擇關閉 AI 功能，將同時停用該校的 Google 搜尋權限。此爭議舉措引發社群討論，反映出科技巨頭強推 AI 整合政策所帶來的反彈。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "published": "2026-11-03T17:54:43+00:00",
+      "summary": "Google 允許學校關閉校園版 AI 功能，但代價是必須一併放棄 Google 搜尋服務。這凸顯了科技巨頭將 AI 深度整合至基礎搜尋後對教育機構決策帶來的衝擊。",
+      "category": "產業動態",
       "importance": 2,
       "skills": [
         "gemini"
@@ -312,70 +515,72 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "published": "2026-11-03T01:49:52+00:00",
-      "summary": "蘋果在財報會議中暗示未來可能透過第三方 AI 應用程式探索新的營收管道。這反映出硬體巨頭正積極尋找將生態系內的第三方 AI 服務變現的商業模式。",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "published": "2026-11-03T17:07:01+00:00",
+      "summary": "Anthropic 即使業務擴大仍面臨算力邊際成本惡化的難題。這揭示了頂尖 AI 廠商在訓練與推論維運上所面臨的鉅額成本挑戰。",
       "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "OpenAI’s quarterly commit growth has exploded this year, rising to 2442% by Q4 2026 relative to Q1 2024",
-      "link": "https://www.reddit.com/r/artificial/comments/1xmfx3a/openais_quarterly_commit_growth_has_exploded_this/",
-      "published": "2026-11-03T01:36:30+00:00",
-      "summary": "OpenAI 發布內部數據顯示其工程團隊的 Git commit 數量相比 2024 年呈爆發性成長。這凸顯了大型 AI 模型的內部開發節奏與工程規模正急速膨脹。",
-      "category": "社群討論",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "Reddit r/artificial",
-      "title": "OpenAI lowers funding goals as investors cool on AI",
-      "link": "https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/",
-      "published": "2026-11-02T19:47:27+00:00",
-      "summary": "報導指 OpenAI 因投資者對 AI 狂熱降溫而下修融資目標。這反映出資本市場對高額 AI 研發投入逐漸轉向理性評估其商業回報。",
-      "category": "社群討論",
       "importance": 2,
       "skills": []
     },
     {
       "source": "TechCrunch AI",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "published": "2026-11-02T19:19:17+00:00",
-      "summary": "紐約時報等媒體起訴 Brave 瀏覽器未經授權抓取版權內容並提供給 Anthropic 與 Perplexity 等 AI 公司。這凸顯了 AI 數據獲取與版權爭議持續擴大。",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "published": "2026-11-03T16:30:34+00:00",
+      "summary": "Google 將 AI 深度整合至搜尋引擎，學校若選擇關閉 AI 功能將無法使用傳統 Google 搜尋。這說明了科技巨頭強制綁定 AI 服務的產品策略。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "To the companies building AI: the cheapest day to pay for the damage is today",
+      "link": "https://www.reddit.com/r/artificial/comments/1xmss5o/to_the_companies_building_ai_the_cheapest_day_to/",
+      "published": "2026-11-03T13:22:01+00:00",
+      "summary": "文章以歷史採礦污染為喻，呼籲 AI 企業應在當下即負擔相關社會與環境成本。這提醒了業界關注 AI 發展背後隱含的長期外部社會成本。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "link": "https://huggingface.co/blog/cwe-bench",
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": "Hugging Face 發布 CWE-bench v2，提升了對軟體安全漏洞偵測能力的評測覆蓋率與品質。這提供開發者更客觀透明的工具來衡量 AI 在程式碼安全檢查上的表現。",
+      "category": "工具更新",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Transformers Model Integration Contracts",
+      "link": "https://huggingface.co/blog/transformers-mic",
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": "Hugging Face 推出 Transformers 模型整合合約，優化開源模型併入框架的標準化流程。這能簡化開發者部署與整合最新開放權重模型的工作流。",
+      "category": "工具更新",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "published": "2026-11-02T18:32:21+00:00",
+      "summary": "報導指蘋果正規劃於 2027 年推出約 1,000 美元的家用機器人，支援 FaceTime 通話與智慧家電控制。這展現了科技巨頭將 AI 硬體化並深入居家應用場景的探索。",
       "category": "產業動態",
       "importance": 2,
       "skills": []
     },
     {
-      "source": "The Verge AI",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "published": "2026-11-02T18:01:30+00:00",
-      "summary": "OpenAI 宣布啟動「電網保護計畫」，將在佐治亞州數據中心試點於極端天氣時釋放最多 1,000 兆瓦電力給民用電網。此舉旨在減緩地方對數據中心龐大耗電量的反對聲浪並維持電網穩定。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "OpenAI",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI 提高資安漏洞獎勵計畫獎金，並針對獨立資安研究人員推出報告品質與優先活動等加碼機制。這有助於提升 OpenAI 平台與 API 服務的整體系統安全性。",
-      "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "published": "2026-11-02T17:51:19+00:00",
-      "summary": "紐約時報等多家媒體對 Brave 瀏覽器提出訴訟，指控其未經許可擷取內容訓練 AI 並協助使用者繞過付費牆。此案反映出出版商與 AI 資料擷取及瀏覽器廠商之間日益緊張的版權爭端。",
+      "source": "Ars Technica AI",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "published": "2026-11-02T18:05:31+00:00",
+      "summary": "Anthropic 針對 Claude 制定禁止抄襲遊戲的規範，但業界認為難以擋下 AI 輔助開發所帶來的遊戲複製潮。這突顯出生成式 AI 工具普及後引發的智慧財產權與開發倫理爭議。",
       "category": "產業動態",
       "importance": 2,
       "skills": []
@@ -385,7 +590,7 @@
       "title": "The latest AI news we announced in October 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "published": "2026-11-02T17:45:00+00:00",
-      "summary": "Google 彙整了其在 10 月份發布的各項 AI 技術與產品更新進展。讓關注者能快速掌握 Google AI 生態系的最新動態。",
+      "summary": "Google AI Blog 彙整了單月發布的最新 AI 技術與產品動態。這提供開發者迅速了解 Google 生態系各項 AI 工具與模型更新的管道。",
       "category": "產業動態",
       "importance": 2,
       "skills": [
@@ -393,62 +598,62 @@
       ]
     },
     {
-      "source": "Reddit r/artificial",
-      "title": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning",
-      "link": "https://www.reddit.com/r/artificial/comments/1xm3vf1/openai_says_its_ai_is_getting_better_at_doing/",
-      "published": "2026-11-02T17:41:16+00:00",
-      "summary": "社群討論 OpenAI 宣稱其 AI 在代辦日常任務（如購物與餐點規劃）的能力顯著提升。網友探討個人 AI 助理實用化並融入日常工作的可行性。",
-      "category": "社群討論",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing the Grid Protectors Program",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "published": "2026-11-02T15:00:00+00:00",
-      "summary": "OpenAI 正式推出「電網保護計畫」，將與電力公司合作協助未來算力園區維護電網穩定並控制用電成本。此舉旨在降低 AI 算力中心建設所面臨的資源爭議。",
+      "source": "TechCrunch AI",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "published": "2026-11-03T22:19:53+00:00",
+      "summary": "因等待電網與新設備的耗時過長，資料中心建置商開始改用淘汰的噴射引擎作為臨時發電方案。這反映出 AI 算力需求急增所帶來的嚴重電力缺口與環保隱憂。",
       "category": "產業動態",
-      "importance": 2,
-      "skills": []
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
-      "published": "2026-11-02T00:00:00+00:00",
-      "summary": "OpenAI 任命 Dan Driscoll 擔任國家安全現代化資深顧問，負責國家安全、網路韌性與盟國合作相關的 AI 政策指導。此舉反映出 AI 巨頭正加速深化與政府及國防單位的戰略合作與佈局。",
-      "category": "產業動態",
-      "importance": 2,
+      "importance": 1,
       "skills": []
     },
     {
       "source": "TechCrunch AI",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "published": "2026-11-02T19:25:59+00:00",
-      "summary": "網站建置平台 Squarespace 宣佈裁員 19% 以進行組織重組。這顯示出網站工具與數位服務產業在自動化浪潮與市場轉變下正面臨經營壓力。",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "published": "2026-11-03T21:43:08+00:00",
+      "summary": "資安風投公司 Ballistic Ventures 預計募集 4.9 億美元新基金，以回應 AI 帶動的資訊安全投資熱潮。這顯示資本市場正大規模注資 AI 安全防護領域。",
       "category": "產業動態",
       "importance": 1,
       "skills": []
     },
     {
-      "source": "Reddit r/artificial",
-      "title": "OpenAI's plan to make data centers less hated: Rename them \"compute campuses\"",
-      "link": "https://www.reddit.com/r/artificial/comments/1xm43yd/openais_plan_to_make_data_centers_less_hated/",
-      "published": "2026-11-02T17:49:57+00:00",
-      "summary": "社群熱議 OpenAI 計劃將數據中心改稱為「算力校園」，試圖透過品牌包裝減緩公眾的反感。網友對這種公關行銷策略展開了批評與討論。",
-      "category": "社群討論",
+      "source": "Ars Technica AI",
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "published": "2026-11-03T20:39:55+00:00",
+      "summary": "面對烏克蘭無人機的持續襲擊，俄羅斯正緊急計畫將數據中心設施轉移至地下保護。這顯示戰事正迫使各國重新構思關鍵數位基礎設施的實體防禦能力。",
+      "category": "產業動態",
       "importance": 1,
       "skills": []
     },
     {
-      "source": "Reddit r/artificial",
-      "title": "Gulf investors bet on AI, space tech",
-      "link": "https://www.reddit.com/r/artificial/comments/1xlzxdx/gulf_investors_bet_on_ai_space_tech/",
-      "published": "2026-11-02T15:17:24+00:00",
-      "summary": "社群關注中東波斯灣資本大舉投資 AI 與太空科技領域的趨勢。反映出國際資金在推動前沿科技領域發展的最新動向。",
-      "category": "社群討論",
+      "source": "The Verge AI",
+      "title": "Indie games are missing launch dates because Steam is backed up",
+      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "published": "2026-11-03T18:14:50+00:00",
+      "summary": "Steam 平台出現審核塞車現象，導致多家獨立遊戲團隊無法如期上架作品。這反映了數位發行平臺審核流程對創作者上市計畫的重大影響。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": "OpenAI 宣布由前 Uber 高管 Jill Hazelbaker 出任首席企業事務官，主導全球溝通與策略定位。這反映出科技獨角獸在面臨全球監管時持續強化公關能力的趨勢。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI 提高資安漏洞獎勵計畫的獎金，鼓勵獨立研究人員回報系統安全性問題。這有助於利用社群力量提升 AI 系統與平台的整體安全性。",
+      "category": "產業動態",
       "importance": 1,
       "skills": []
     }
