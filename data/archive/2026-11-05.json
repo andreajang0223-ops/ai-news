@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T03:24:39.877269+00:00",
+  "count": 20,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "Introducing Next3D: AI-Powered 3D Model Generation for Game Devs, Creators & 3D Printing",
+      "link": "https://dev.to/next3d/introducing-next3d-ai-powered-3d-model-generation-for-game-devs-creators-3d-printing-510n",
+      "published": "2026-11-05T03:10:06+00:00",
+      "summary": "Next3D推出瀏覽器原生的AI 3D模型生成器，能自動生成具備乾淨網格拓撲與3D列印密封幾何結構的模型。這能大幅縮短工業設計與3D建模的時間，改變傳統資產建構流程。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "imagen",
+        "webgl"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "Meta收購AI程式開發協作平臺新創公司Conductor",
+      "link": "https://www.ithome.com.tw/news/180238",
+      "published": "2026-11-05T09:11:43+00:00",
+      "summary": "Meta收購AI開發協作新創Conductor，引進可以在背景獨立進行編寫與測試的自治AI代理人技術。這將顯著提升軟體工程自動化與長鏈任務的執行效率。",
+      "category": "產業動態",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "2026 Automation & GDPR Compliance Guide for Online Jewelry & Eyewear Brands: True-Scale AI Try-On",
+      "link": "https://dev.to/cuneytemirr1/2026-automation-gdpr-compliance-guide-for-online-jewelry-eyewear-brands-true-scale-ai-try-on-155n",
+      "published": "2026-11-05T03:10:37+00:00",
+      "summary": "針對高價精品與眼鏡產品，本文探討如何克服生成式AI的圖像扭曲，實現亞毫米級精確度的虛擬試戴（AI Try-On）。這為實體產品開發與數位展售提供了高精度的視覺AI整合範例。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "蘋果傳縮減員工AI費用額度，工程人員可能降到每天100美元",
+      "link": "https://www.ithome.com.tw/news/180241",
+      "published": "2026-11-05T11:11:33+00:00",
+      "summary": "由於AI運算成本居高不下，蘋果傳出縮減內部工程師每日使用AI工具的預算額度。這反映出企業在全面導入AI工作流程時正面臨實質的營運成本控管挑戰。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "美國掀起反AI資料中心浪潮，一面倒支持限制開發",
+      "link": "https://www.ithome.com.tw/news/180237",
+      "published": "2026-11-05T09:11:49+00:00",
+      "summary": "美國地方公投呈現一面倒反對興建AI資料中心的趨勢，反映居民對電力負擔與環境影響的反彈。這可能限制未來AI基礎算力設施擴建的速度。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How to Choose the Right AI Voice for Your Project",
+      "link": "https://dev.to/voice_developer/how-to-choose-the-right-ai-voice-for-your-project-3oi0",
+      "published": "2026-11-05T03:12:12+00:00",
+      "summary": "本文分析如何在產品體驗中選擇適合的AI語音，評估聲音表現對使用者沉浸感、系統延遲與成本的影響。這為注重互動體驗的產品設計者提供了實用的選型思維。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Vibe coding explained before you pick a full stack developer course in Nepal",
+      "link": "https://dev.to/saarathi_academy/vibe-coding-explained-before-you-pick-a-full-stack-developer-course-in-nepal-goj",
+      "published": "2026-11-05T03:08:53+00:00",
+      "summary": "文章探討完全依賴AI生成程式碼的「Vibe Coding」現象，並強調程式人員仍需具備審查AI產出內容的能力。這提醒創作者與開發者在運用AI輔助時，仍需維持核心審查能力。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering",
+        "claude-code"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "AI驅動攻擊與鎖定AI系統的攻擊來勢洶洶，近兩千位全球企業高層有超過一半坦承無法招架",
+      "link": "https://www.ithome.com.tw/news/180232",
+      "published": "2026-11-05T10:11:20+00:00",
+      "summary": "資釋最新報告顯示AI已成為企業資安首要威脅，過半受訪高層坦承無法防禦AI驅動的網路攻擊。這突顯出隨著AI普及，專屬的資安防禦體系建置需求大增。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Cisco修補UCS Central遠端程式碼執行漏洞",
+      "link": "https://www.ithome.com.tw/news/180242",
+      "published": "2026-11-05T11:11:39+00:00",
+      "summary": "Cisco發布修補修復UCS Central管理平臺的遠端程式碼執行漏洞 CVE-2026-76506。此事件屬於一般IT資安維護範疇，與AI應用無直接關聯。",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
+      "link": "https://www.ithome.com.tw/news/180244",
+      "published": "2026-11-05T11:11:28+00:00",
+      "summary": "SpaceX攜手高通採用Dragonwing技術，預計於2027年起在全美部署數萬座5G基地臺。此計畫旨在結合星鏈與地面網路，屬於基礎通訊建設。",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "蘋果旗下產品已知漏洞遭積極利用",
+      "link": "https://www.ithome.com.tw/news/180239",
+      "published": "2026-11-05T10:11:28+00:00",
+      "summary": "美國CISA將蘋果產品的身份驗證漏洞加入已知遭利用名單，要求聯邦機構限期修補。這屬於例行性的資訊安全警訊。",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "毛寶電商網站遭不明人士攻擊，已通報主管機關並通知受影響顧客",
+      "link": "https://www.ithome.com.tw/news/180240",
+      "published": "2026-11-05T10:11:10+00:00",
+      "summary": "生活清潔用品廠商毛寶的電商網站遭外部異常網路攻擊，已通報主管機關並啟動應變措施。這屬於單一企業資安威脅事件。",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The 128GB RAM Trap: Why More Memory Doesn’t Always Make Local AI Faster",
+      "link": "https://medium.com/@moekthona001/the-128gb-ram-trap-why-more-memory-doesnt-always-make-local-ai-faster-569f539fe11c?source=rss------artificial_intelligence-5",
+      "published": "2026-11-05T03:08:50+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Unknown Payment Outcomes: The Agent Recovery Problem Nobody Instruments",
+      "link": "https://dev.to/brudy_dev24/unknown-payment-outcomes-the-agent-recovery-problem-nobody-instruments-3k04",
+      "published": "2026-11-05T03:08:41+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "ERC-8004 and Agent Identity: What the Draft Standard Actually Defines",
+      "link": "https://dev.to/brudy_dev24/erc-8004-and-agent-identity-what-the-draft-standard-actually-defines-22g6",
+      "published": "2026-11-05T03:08:35+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "ElevenLabs vs Google Cloud TTS: Developer Comparison",
+      "link": "https://dev.to/voice_developer/elevenlabs-vs-google-cloud-tts-developer-comparison-1m38",
+      "published": "2026-11-05T03:06:58+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AI Bot vs Chatbot: How to Choose",
+      "link": "https://matintellect.medium.com/ai-bot-vs-chatbot-how-to-choose-d5df5382255c?source=rss------artificial_intelligence-5",
+      "published": "2026-11-05T03:06:44+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Zero-Gas Autonomous Agents: Account Abstraction on Base L2",
+      "link": "https://dev.to/nindhita/zero-gas-autonomous-agents-account-abstraction-on-base-l2-2g8l",
+      "published": "2026-11-05T03:06:43+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Human Touch, Soul Touch: How is AI affecting Journalism?",
+      "link": "https://medium.com/@soultouchpublications/human-touch-soul-touch-how-is-ai-affecting-journalism-8d69b510c7bf?source=rss------artificial_intelligence-5",
+      "published": "2026-11-05T03:06:36+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The AI Confidence Trap: Why Better-Looking Work Is Becoming More Dangerous",
+      "link": "https://logansivanasen.medium.com/the-ai-confidence-trap-why-better-looking-work-is-becoming-more-dangerous-1ffb38ad6041?source=rss------artificial_intelligence-5",
+      "published": "2026-11-05T03:06:18+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    }
+  ]
+}
