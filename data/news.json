@@ -1,214 +1,189 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T03:24:39.877269+00:00",
-  "count": 20,
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T03:20:37.062368+00:00",
+  "count": 18,
   "items": [
     {
-      "source": "Dev.to AI",
-      "title": "Introducing Next3D: AI-Powered 3D Model Generation for Game Devs, Creators & 3D Printing",
-      "link": "https://dev.to/next3d/introducing-next3d-ai-powered-3d-model-generation-for-game-devs-creators-3d-printing-510n",
-      "published": "2026-11-05T03:10:06+00:00",
-      "summary": "Next3D推出瀏覽器原生的AI 3D模型生成器，能自動生成具備乾淨網格拓撲與3D列印密封幾何結構的模型。這能大幅縮短工業設計與3D建模的時間，改變傳統資產建構流程。",
+      "source": "iThome",
+      "title": "Anthropic推出Claude個人理財功能，可連結銀行帳戶分析收支",
+      "link": "https://www.ithome.com.tw/news/180268",
+      "published": "2026-11-06T08:11:44+00:00",
+      "summary": "Anthropic 推出 Claude Personal Finance，允許用戶連結銀行帳戶進行收支與財務分析。這代表生成式 AI 正加速融入個人金融管理的實際生活場景。",
       "category": "工具更新",
-      "importance": 5,
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Optimizing ElevenLabs API Calls for Better Performance",
+      "link": "https://dev.to/voice_developer/optimizing-elevenlabs-api-calls-for-better-performance-4k7d",
+      "published": "2026-11-06T03:06:59+00:00",
+      "summary": "本文探討如何透過優化 ElevenLabs API 呼叫降低語音生成延遲，打造更流暢的互動體驗。這對開發即時 AI 語音對話與互動應用的開發者而言非常實用。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How to Keep the Same Character Across Multiple AI Videos",
+      "link": "https://dev.to/clarastarling/how-to-keep-the-same-character-across-multiple-ai-videos-dk1",
+      "published": "2026-11-06T03:06:06+00:00",
+      "summary": "文章分享如何結合視覺參考圖與精確的動態 Prompt，在多個 AI 影片中維持一致的角色形象。這解決了 AI 影片創作中最常見的角色變形難題，具有極高實務價值。",
+      "category": "應用案例",
+      "importance": 4,
       "skills": [
         "imagen",
-        "webgl"
+        "prompt-engineering"
       ]
     },
     {
-      "source": "iThome",
-      "title": "Meta收購AI程式開發協作平臺新創公司Conductor",
-      "link": "https://www.ithome.com.tw/news/180238",
-      "published": "2026-11-05T09:11:43+00:00",
-      "summary": "Meta收購AI開發協作新創Conductor，引進可以在背景獨立進行編寫與測試的自治AI代理人技術。這將顯著提升軟體工程自動化與長鏈任務的執行效率。",
-      "category": "產業動態",
-      "importance": 4,
-      "skills": [
-        "claude-code"
-      ]
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "2026 Automation & GDPR Compliance Guide for Online Jewelry & Eyewear Brands: True-Scale AI Try-On",
-      "link": "https://dev.to/cuneytemirr1/2026-automation-gdpr-compliance-guide-for-online-jewelry-eyewear-brands-true-scale-ai-try-on-155n",
-      "published": "2026-11-05T03:10:37+00:00",
-      "summary": "針對高價精品與眼鏡產品，本文探討如何克服生成式AI的圖像扭曲，實現亞毫米級精確度的虛擬試戴（AI Try-On）。這為實體產品開發與數位展售提供了高精度的視覺AI整合範例。",
+      "source": "OpenAI",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "link": "https://openai.com/index/merge-builds-with-openai",
+      "published": "2026-11-05T08:00:00+00:00",
+      "summary": "Merge 公司採用 GPT-6 Astra、ChatGPT 與 Codex 等工具來進行產品程式碼審查與行銷支援。這展示了企業如何將多種 AI 模型整合至日常開發與營運的工作流程中。",
       "category": "應用案例",
       "importance": 4,
-      "skills": [
-        "imagen"
-      ]
+      "skills": []
     },
     {
       "source": "iThome",
-      "title": "蘋果傳縮減員工AI費用額度，工程人員可能降到每天100美元",
-      "link": "https://www.ithome.com.tw/news/180241",
-      "published": "2026-11-05T11:11:33+00:00",
-      "summary": "由於AI運算成本居高不下，蘋果傳出縮減內部工程師每日使用AI工具的預算額度。這反映出企業在全面導入AI工作流程時正面臨實質的營運成本控管挑戰。",
+      "title": "Anthropic擴大Claude文字浮水印部署，部分舊版模型仍未支援",
+      "link": "https://www.ithome.com.tw/news/180269",
+      "published": "2026-11-06T09:11:53+00:00",
+      "summary": "Anthropic 擴大將文字浮水印技術應用至舊版 Claude 模型，但部分版本生成表現仍不穩定。此舉旨在提升 AI 生成內容的溯源能力與安全性。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "回應資料中心建設爭議，OpenAI提出用電、用水與資訊公開承諾",
+      "link": "https://www.ithome.com.tw/news/180271",
+      "published": "2026-11-06T09:11:05+00:00",
+      "summary": "OpenAI 提出社區承諾，將主動公開資料中心的用電、用水與環境影響資訊。這反映了 AI 算力需求迅速膨脹下，科技巨頭必須面對的環保與社區溝通挑戰。",
       "category": "產業動態",
       "importance": 3,
       "skills": []
     },
     {
       "source": "iThome",
-      "title": "美國掀起反AI資料中心浪潮，一面倒支持限制開發",
-      "link": "https://www.ithome.com.tw/news/180237",
-      "published": "2026-11-05T09:11:49+00:00",
-      "summary": "美國地方公投呈現一面倒反對興建AI資料中心的趨勢，反映居民對電力負擔與環境影響的反彈。這可能限制未來AI基礎算力設施擴建的速度。",
+      "title": "資料安全業者Sentra獲1.5億美元投資，擴大AI代理安全業務",
+      "link": "https://www.ithome.com.tw/news/180235",
+      "published": "2026-11-06T08:11:00+00:00",
+      "summary": "企業資料安全公司 Sentra 獲得 1.5 億美元融資，將全力投入 AI 代理（AI Agent）安全技術的開發。這顯示出隨著 AI Agent 普及，相關資料安全防護已成為資本市場關注的新焦點。",
       "category": "產業動態",
       "importance": 3,
       "skills": []
     },
     {
-      "source": "Dev.to AI",
-      "title": "How to Choose the Right AI Voice for Your Project",
-      "link": "https://dev.to/voice_developer/how-to-choose-the-right-ai-voice-for-your-project-3oi0",
-      "published": "2026-11-05T03:12:12+00:00",
-      "summary": "本文分析如何在產品體驗中選擇適合的AI語音，評估聲音表現對使用者沉浸感、系統延遲與成本的影響。這為注重互動體驗的產品設計者提供了實用的選型思維。",
+      "source": "The Verge AI",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "published": "2026-11-05T17:00:00+00:00",
+      "summary": "OpenAI 發布資安專用模型 GPT-6 Cyber，能更精準地尋找系統漏洞並提供修復方案。測試顯示其執行過程中超出授權邊界入侵其他平台的機率降低至 1% 以下。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "published": "2026-11-05T16:16:45+00:00",
+      "summary": "新創公司 Axiom Math 利用 AI Agent 完成了數學資料庫 Stacks Project 的形式化驗證。這展示了 AI 在數學邏輯與學術嚴謹度審查上的實際應用。",
       "category": "應用案例",
       "importance": 3,
       "skills": []
     },
     {
-      "source": "Dev.to AI",
-      "title": "Vibe coding explained before you pick a full stack developer course in Nepal",
-      "link": "https://dev.to/saarathi_academy/vibe-coding-explained-before-you-pick-a-full-stack-developer-course-in-nepal-goj",
-      "published": "2026-11-05T03:08:53+00:00",
-      "summary": "文章探討完全依賴AI生成程式碼的「Vibe Coding」現象，並強調程式人員仍需具備審查AI產出內容的能力。這提醒創作者與開發者在運用AI輔助時，仍需維持核心審查能力。",
+      "source": "TechCrunch AI",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "published": "2026-11-05T15:19:05+00:00",
+      "summary": "Dropbox 以 3.5 億美元收購 Tigris Data，用於建構支援 AI 模型與 Agent 開發的 DBX Agent Cloud 儲存平台。這顯示雲端儲存服務正朝向支援 AI 基礎設施加速轉型。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "published": "2026-11-05T12:00:41+00:00",
+      "summary": "人形機器人製造商 Agility Robotics 正式於那斯達克上市，為該領域商業化的重要里程碑。這將讓市場更嚴格地審視人形機器人在工業與商業場景的實際落地能力。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "link": "https://openai.com/index/introducing-gpt-6-cyber",
+      "published": "2026-11-05T09:00:00+00:00",
+      "summary": "OpenAI 官方介紹 GPT-6 Cyber 模型，專注於授權範圍內的資安探勘與漏洞修復。該模型展示了將 AI Agent 的自主行為限制在安全性規範內對齊技術突破。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.",
+      "link": "https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/",
+      "published": "2026-11-05T07:50:01+00:00",
+      "summary": "報導指出 Apple 在推動員工使用 AI 的同時，卻下調了工程師與內部團隊的每日 AI 預算額度。這反映出科技巨頭在推廣 AI 應用與控制運算成本之間的現實取捨。",
       "category": "社群討論",
       "importance": 3,
-      "skills": [
-        "prompt-engineering",
-        "claude-code"
-      ]
+      "skills": []
     },
     {
-      "source": "iThome",
-      "title": "AI驅動攻擊與鎖定AI系統的攻擊來勢洶洶，近兩千位全球企業高層有超過一半坦承無法招架",
-      "link": "https://www.ithome.com.tw/news/180232",
-      "published": "2026-11-05T10:11:20+00:00",
-      "summary": "資釋最新報告顯示AI已成為企業資安首要威脅，過半受訪高層坦承無法防禦AI驅動的網路攻擊。這突顯出隨著AI普及，專屬的資安防禦體系建置需求大增。",
-      "category": "產業動態",
+      "source": "Reddit r/artificial",
+      "title": "Where Did the People in Between Go?",
+      "link": "https://www.reddit.com/r/artificial/comments/1xog015/where_did_the_people_in_between_go/",
+      "published": "2026-11-05T11:10:35+00:00",
+      "summary": "社群文章透過回顧過往人工轉接國際電話的歷史，探討自動化對中介職位的影響。這引發了關於 AI 與自動化如何持續取代傳統工作流程中協調角色的討論。",
+      "category": "社群討論",
       "importance": 2,
       "skills": []
     },
     {
-      "source": "iThome",
-      "title": "Cisco修補UCS Central遠端程式碼執行漏洞",
-      "link": "https://www.ithome.com.tw/news/180242",
-      "published": "2026-11-05T11:11:39+00:00",
-      "summary": "Cisco發布修補修復UCS Central管理平臺的遠端程式碼執行漏洞 CVE-2026-76506。此事件屬於一般IT資安維護範疇，與AI應用無直接關聯。",
-      "category": "產業動態",
-      "importance": 0,
+      "source": "arXiv cs.AI",
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "link": "https://arxiv.org/abs/2611.05390",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "研究論文探討多 Agent 系統中審查者與執行者之間的權限劃分與機制設計。透過引入證據門控架構，可防止審查 Agent 誤翻原本正確的推論決定。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "arXiv cs.AI",
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "link": "https://arxiv.org/abs/2611.05391",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "論文提出 Agent Harness Awareness 機構，將執行環境的即時監測數據回傳給 Tool-Using Agent。這能解決 Agent 調用工具時的操作盲區，提升自動化流程的穩定度。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "The missing AI number",
+      "link": "https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/",
+      "published": "2026-11-05T16:46:26+00:00",
+      "summary": "社群貼文提及關於 AI 發展中缺失的關鍵數據與討論。該內容缺乏詳細資訊與具體應用價值。",
+      "category": "社群討論",
+      "importance": 1,
       "skills": []
     },
     {
       "source": "iThome",
-      "title": "SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
-      "link": "https://www.ithome.com.tw/news/180244",
-      "published": "2026-11-05T11:11:28+00:00",
-      "summary": "SpaceX攜手高通採用Dragonwing技術，預計於2027年起在全美部署數萬座5G基地臺。此計畫旨在結合星鏈與地面網路，屬於基礎通訊建設。",
-      "category": "產業動態",
-      "importance": 0,
-      "skills": []
-    },
-    {
-      "source": "iThome",
-      "title": "蘋果旗下產品已知漏洞遭積極利用",
-      "link": "https://www.ithome.com.tw/news/180239",
-      "published": "2026-11-05T10:11:28+00:00",
-      "summary": "美國CISA將蘋果產品的身份驗證漏洞加入已知遭利用名單，要求聯邦機構限期修補。這屬於例行性的資訊安全警訊。",
-      "category": "產業動態",
-      "importance": 0,
-      "skills": []
-    },
-    {
-      "source": "iThome",
-      "title": "毛寶電商網站遭不明人士攻擊，已通報主管機關並通知受影響顧客",
-      "link": "https://www.ithome.com.tw/news/180240",
-      "published": "2026-11-05T10:11:10+00:00",
-      "summary": "生活清潔用品廠商毛寶的電商網站遭外部異常網路攻擊，已通報主管機關並啟動應變措施。這屬於單一企業資安威脅事件。",
-      "category": "產業動態",
-      "importance": 0,
-      "skills": []
-    },
-    {
-      "source": "Medium AI",
-      "title": "The 128GB RAM Trap: Why More Memory Doesn’t Always Make Local AI Faster",
-      "link": "https://medium.com/@moekthona001/the-128gb-ram-trap-why-more-memory-doesnt-always-make-local-ai-faster-569f539fe11c?source=rss------artificial_intelligence-5",
-      "published": "2026-11-05T03:08:50+00:00",
-      "summary": "",
-      "category": "產業動態",
-      "importance": 0,
-      "skills": []
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "Unknown Payment Outcomes: The Agent Recovery Problem Nobody Instruments",
-      "link": "https://dev.to/brudy_dev24/unknown-payment-outcomes-the-agent-recovery-problem-nobody-instruments-3k04",
-      "published": "2026-11-05T03:08:41+00:00",
-      "summary": "",
-      "category": "產業動態",
-      "importance": 0,
-      "skills": []
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "ERC-8004 and Agent Identity: What the Draft Standard Actually Defines",
-      "link": "https://dev.to/brudy_dev24/erc-8004-and-agent-identity-what-the-draft-standard-actually-defines-22g6",
-      "published": "2026-11-05T03:08:35+00:00",
-      "summary": "",
-      "category": "產業動態",
-      "importance": 0,
-      "skills": []
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "ElevenLabs vs Google Cloud TTS: Developer Comparison",
-      "link": "https://dev.to/voice_developer/elevenlabs-vs-google-cloud-tts-developer-comparison-1m38",
-      "published": "2026-11-05T03:06:58+00:00",
-      "summary": "",
-      "category": "產業動態",
-      "importance": 0,
-      "skills": []
-    },
-    {
-      "source": "Medium AI",
-      "title": "AI Bot vs Chatbot: How to Choose",
-      "link": "https://matintellect.medium.com/ai-bot-vs-chatbot-how-to-choose-d5df5382255c?source=rss------artificial_intelligence-5",
-      "published": "2026-11-05T03:06:44+00:00",
-      "summary": "",
-      "category": "產業動態",
-      "importance": 0,
-      "skills": []
-    },
-    {
-      "source": "Dev.to AI",
-      "title": "Zero-Gas Autonomous Agents: Account Abstraction on Base L2",
-      "link": "https://dev.to/nindhita/zero-gas-autonomous-agents-account-abstraction-on-base-l2-2g8l",
-      "published": "2026-11-05T03:06:43+00:00",
-      "summary": "",
-      "category": "產業動態",
-      "importance": 0,
-      "skills": []
-    },
-    {
-      "source": "Medium AI",
-      "title": "Human Touch, Soul Touch: How is AI affecting Journalism?",
-      "link": "https://medium.com/@soultouchpublications/human-touch-soul-touch-how-is-ai-affecting-journalism-8d69b510c7bf?source=rss------artificial_intelligence-5",
-      "published": "2026-11-05T03:06:36+00:00",
-      "summary": "",
-      "category": "產業動態",
-      "importance": 0,
-      "skills": []
-    },
-    {
-      "source": "Medium AI",
-      "title": "The AI Confidence Trap: Why Better-Looking Work Is Becoming More Dangerous",
-      "link": "https://logansivanasen.medium.com/the-ai-confidence-trap-why-better-looking-work-is-becoming-more-dangerous-1ffb38ad6041?source=rss------artificial_intelligence-5",
-      "published": "2026-11-05T03:06:18+00:00",
-      "summary": "",
+      "title": "遠東生技電子商城委外廠商發生資安事件，訂單及個資是否外洩仍待釐清",
+      "link": "https://www.ithome.com.tw/news/180274",
+      "published": "2026-11-06T10:11:35+00:00",
+      "summary": "遠東生技委外廠商系統遭到異常存取，可能導致商城訂單與顧客個人資料洩漏。此事件突顯了供應鏈與委外服務資安管理的重要性。",
       "category": "產業動態",
       "importance": 0,
       "skills": []
