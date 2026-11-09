@@ -1,0 +1,358 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T02:32:44.367881+00:00",
+  "count": 33,
+  "items": [
+    {
+      "source": "iThome",
+      "title": "微軟Intelligent Terminal支援背景執行，關閉視窗不中斷AI代理任務",
+      "link": "https://www.ithome.com.tw/news/180295",
+      "published": "2026-11-09T08:11:01+00:00",
+      "summary": "微軟發布 Intelligent Terminal 0.3，新增支援背景執行的 Headless 模式。開發者關閉視窗後仍可持續執行 AI Agent 或程式編譯等長時間任務，提升自動化效率。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Build a Tiny Node.js API for Text, Image and Video Generation with the OpenAI SDK",
+      "link": "https://dev.to/amany_syori_8f60db1d7dea8/build-a-tiny-nodejs-api-for-text-image-and-video-generation-with-the-openai-sdk-277p",
+      "published": "2026-11-09T02:28:13+00:00",
+      "summary": "本教學展示如何用 Node.js 與 OpenAI SDK 搭配多模態 API 閘道，快速構建整合文字、圖像與影片生成的後端服務。這提供開發者實用的 AI 多模態 API 整合範例。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Consumer Gemini autonomously ingests Drive files/Gmail into human review pool",
+      "link": "https://www.reddit.com/r/artificial/comments/1xr1o9g/consumer_gemini_autonomously_ingests_drive/",
+      "published": "2026-11-08T15:58:18+00:00",
+      "summary": "Google 悄悄修改條款，確認用戶透過 Gemini 連結的 Gmail 與 Drive 個人文件可能會被送往人工審查。這代表使用者在處理敏感的設計專案與個人資料時，需要重新評估資安與隱私風險。",
+      "category": "社群討論",
+      "importance": 4,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "published": "2026-11-07T12:30:00+00:00",
+      "summary": "METR 調查報告揭露 Anthropic 正利用 AI 工具自動化內部 AI 開發，使模型進步速度提升一倍。這展現了 Agentic Coding 整合進軟體工程工作流程的巨大潛力與研發變革。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "Dropbox砸3.5億美元收購Tigris，進軍AI儲存基礎設施市場",
+      "link": "https://www.ithome.com.tw/news/180302",
+      "published": "2026-11-09T08:11:29+00:00",
+      "summary": "Dropbox 以 3.5 億美元收購 Tigris Data 並推出 DBX Agent Cloud，進軍 AI 儲存基礎設施市場。這將為開發者提供打造 AI Agent 所需的專用資料儲存託管服務。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Side Effects of AI Use in Software Engineering",
+      "link": "https://medium.com/@rafikhan/side-effects-of-ai-use-in-software-engineering-4d6d04c3d8e8?source=rss------artificial_intelligence-5",
+      "published": "2026-11-09T02:22:59+00:00",
+      "summary": "探討過度依賴 AI 寫程式可能引發的副作用，警告這會削弱使用者發現 AI 錯誤的能力。這提醒在整合 AI 至工作流程時仍需保持批判審視。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Why AI Speed Is Not the Bottleneck in Your Workflow",
+      "link": "https://medium.com/@yashfaldessai1414/why-ai-speed-is-not-the-bottleneck-in-your-workflow-90ea950648e5?source=rss------artificial_intelligence-5",
+      "published": "2026-11-09T02:22:17+00:00",
+      "summary": "指出目前 AI 模型運算速度已夠快，真正的效率瓶頸在於人類如何決策與處理產出。這提醒設計工作流程時應重點優化人機協作的決策節點。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "How to Build an AI Marketing Portfolio That Gets You Hired — BuzzRiding",
+      "link": "https://medium.com/@buzzriding/how-to-build-an-ai-marketing-portfolio-that-gets-you-hired-buzzriding-fec67b76f694?source=rss------artificial_intelligence-5",
+      "published": "2026-11-09T02:22:06+00:00",
+      "summary": "探討在作品集中單純標榜「使用了 AI」已失去競爭優勢，關鍵在於如何展示解決問題的能力。這對準備設計作品集的學生具有實務參考價值。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "What Model Evaluation Chaos Tells Us About Your Next Product",
+      "link": "https://medium.com/@solovaultinfo/what-model-evaluation-chaos-tells-us-about-your-next-product-39e84d5aded0?source=rss------artificial_intelligence-5",
+      "published": "2026-11-09T02:16:14+00:00",
+      "summary": "透過在不同前沿模型上測試 Agent 的實際案例，剖析 AI 產品開發時面臨的模型評估困境。有助於理解當前 AI Agent 落地應用的挑戰。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Can you give your agent personality?",
+      "link": "https://www.reddit.com/r/artificial/comments/1xrcrsn/can_you_give_your_agent_personality/",
+      "published": "2026-11-08T23:49:40+00:00",
+      "summary": "開發者分享透過 Prompt 為 Claude Agent 賦予特定個性，成功改善其互動行為與實用性的實踐經驗。展現了如何透過提示工程優化 Agent 表現。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "claude-api",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "AI progress per dollar of investment shows diminishing returns. This is using METR's estimate of acceleration at Anthropic. That acceleration isn't enough to overcome the diminishing returns",
+      "link": "https://www.reddit.com/r/artificial/comments/1xrcmjw/ai_progress_per_dollar_of_investment_shows/",
+      "published": "2026-11-08T23:42:39+00:00",
+      "summary": "最新分析指出 AI 的每單位投入報酬呈現邊際效益遞減現象，即便算力持續增加也難以維持過往的指數成長速度。這意味著企業未來可能需要尋找更高效的應用模式而非單純堆疊資源。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "MIT CSAIL: GPT-6 Astra edited 0.016% of a small Qwen model's weights and lifted MATH-500 from 7.9% to 48.1% -- critics say it's standard ML engineering",
+      "link": "https://www.reddit.com/r/artificial/comments/1xr8gei/mit_csail_gpt6_astra_edited_0016_of_a_small_qwen/",
+      "published": "2026-11-08T20:36:57+00:00",
+      "summary": "麻省理工學院研究展示了利用高階 AI 自動微調小模型權重的新技術，成功大幅提升小模型的數學推理能力。這為未來大規模自動化優化模型與機器學習工程開創了可行路徑。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "how should I actually be learning and using AI?",
+      "link": "https://www.reddit.com/r/artificial/comments/1xr6y63/how_should_i_actually_be_learning_and_using_ai/",
+      "published": "2026-11-08T19:34:38+00:00",
+      "summary": "一名資工系學生在社群上發問，表達對 AI 快速發展導致就業市場不確定性的焦慮，並請教該聚焦於哪些關鍵技能。這引發了關於如何在 AI 時代建立不可替代性的廣泛討論。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple is racing to make Siri more agentic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "published": "2026-11-08T19:18:19+00:00",
+      "summary": "蘋果正全力加速 Siri 的研發進度，目標是賦予其更強大的 Agent（代理人）自動執行能力以迎戰競爭對手。若成功推出，將顯著改善 iOS 裝置上的自動化工作流程與互動體驗。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Are better AI tools actually widening the gap between people?",
+      "link": "https://www.reddit.com/r/artificial/comments/1xr1apu/are_better_ai_tools_actually_widening_the_gap/",
+      "published": "2026-11-08T15:41:41+00:00",
+      "summary": "社群熱烈討論生成式 AI 工具是否反而在拉大人與人之間的差距，因為善用提示詞與整合技能的人能獲得倍數優勢。對於創作者而言，懂得結合 AI 與專門領域知識將成為拉開差距的關鍵。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Any LLM that doesn't agree with me so much?",
+      "link": "https://www.reddit.com/r/artificial/comments/1xquuqq/any_llm_that_doesnt_agree_with_me_so_much/",
+      "published": "2026-11-08T09:52:04+00:00",
+      "summary": "使用者在社群上尋求不會盲目順從用戶意見的 LLM，希望克服 AI 容易過度討好的傾向。這凸顯出在腦力激盪與決策設計時，如何透過 System Prompt 設定讓 AI 扮演客觀批評者的重要性。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "published": "2026-11-07T15:50:00+00:00",
+      "summary": "筆者實測 NYT Cooking 的 AI 烹飪助手，分享其在處理晚餐菜單的便利與烘焙精確度上的不足。這展示了垂直領域 AI 助手在日常生活應用的實際表現與極限。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "published": "2026-11-07T15:00:00+00:00",
+      "summary": "本集專訪 Cognition 資安長 Alex Stamos，深入探討 AI 如何重塑網路安全與攻防對抗的實務現狀。這提供了一線資安專家對 AI 代理投入真實防禦與威脅處理的觀點。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Linux核心IPv4 TCP連線漏洞影響廣泛，多家廠商陸續推出修補",
+      "link": "https://www.ithome.com.tw/news/180298",
+      "published": "2026-11-07T10:11:00+00:00",
+      "summary": "Linux 核心發現重大 TCP 連線漏洞，Anthropic 證實旗下 Claude 已能自動編寫出該漏洞的程式碼。這證明了 AI 在程式碼分析與漏洞利用上的實務能力，並對系統安全帶來警訊。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "黃仁勳承認婚外情，Nvidia董事會調查涉諜疑雲",
+      "link": "https://www.ithome.com.tw/news/180301",
+      "published": "2026-11-09T08:11:22+00:00",
+      "summary": "輝達創辦人黃仁勳公開承認婚外情，董事會已啟動調查評估是否影響公司機密與資安。此事件屬於企業高層個人風波，對 AI 技術開發實務影響有限。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AI Made a Romantic Movie. I Watched a Comedy.",
+      "link": "https://medium.com/@ekmekdelum/ai-made-a-romantic-movie-i-watched-a-comedy-b57aa99384ff?source=rss------artificial_intelligence-5",
+      "published": "2026-11-09T02:23:12+00:00",
+      "summary": "作者觀看一部完全由 AI 生成的短片，發現角色外貌不一致且場景出現荒謬邏輯錯誤。這揭示了目前 AI 視覺生成技術在連貫性上的實務挑戰。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Hiring a GEO Agency for a Korean Clinic: What Compliance Review Should Include",
+      "link": "https://medium.com/@hotsybk/hiring-a-geo-agency-for-a-korean-clinic-what-compliance-review-should-include-dc9a3c671318?source=rss------artificial_intelligence-5",
+      "published": "2026-11-09T02:17:55+00:00",
+      "summary": "介紹韓國診所在聘請 AI 搜尋最佳化（GEO）機構時的合規審查要點。內容偏向特定地區的醫療行銷法規，應用範圍較窄。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Should Students Be Allowed to Use AI Instead of Participating in a Teacher-Led Classroom Review?",
+      "link": "https://ppaccone.medium.com/should-students-be-allowed-to-use-ai-instead-of-participating-in-a-teacher-led-classroom-review-2eb0980336d8?source=rss------artificial_intelligence-5",
+      "published": "2026-11-09T02:17:15+00:00",
+      "summary": "探討課堂中是否應允許學生以 AI 替代傳統課堂複習的教育議題。與設計領域的 AI 工具實務整合關聯較低。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The Kubernetes Job Is Splitting in Two Before 2027 — Which Half Will You Be On?",
+      "link": "https://medium.com/@k.keaphirunphirchhoeun/the-kubernetes-job-is-splitting-in-two-before-2027-which-half-will-you-be-on-c93804b6e4e3?source=rss------artificial_intelligence-5",
+      "published": "2026-11-09T02:14:27+00:00",
+      "summary": "分析雲端架構工程師職缺在 AI 自動化趨勢下的分化與轉型。屬於 DevOps 領域的職涯分析，與工業設計開發較無直接關係。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Nvidia has launched an investigation on CEO Jensen Huang after, he admitted to having had a romantic relationship with a chinese spy",
+      "link": "https://www.reddit.com/r/artificial/comments/1xrbxim/nvidia_has_launched_an_investigation_on_ceo/",
+      "published": "2026-11-08T23:09:44+00:00",
+      "summary": "輝達董事會啟動對執行長黃仁勳的獨立調查，因其承認與涉嫌中國間諜的高層發生婚外情。此高層風波引發市場對該公司領導層穩定度與公司治理的關切。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "published": "2026-11-08T17:23:19+00:00",
+      "summary": "知名音樂版權方對 AI 音樂生成平台 Suno 提起版權訴訟，指控其未授權複製音樂與歌詞風格。此案凸顯了生成式 AI 工具在商業應用時面臨的法律與著作權風險。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "published": "2026-11-07T22:07:22+00:00",
+      "summary": "報導討論美國期中選舉對埃隆·馬斯克及資料中心建設可能帶來的政治衝擊。這反映出政府政策與區域政治對 AI 基礎設施擴建的深遠影響。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "published": "2026-11-07T21:17:08+00:00",
+      "summary": "美國情報備忘錄揭露中國安全部門曾招募科技高管企圖對輝達執行長進行情報蒐集。此事件突顯了全球 AI 晶片龍頭在競爭白熱化下面臨的重大地緣政治風險。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "published": "2026-11-07T15:43:45+00:00",
+      "summary": "報導指出美國監管機構核准輝達向中國一家辦公室空置的疑慮公司出售 H200 AI 晶片。這凸顯了美中 AI 高階晶片出口管制在審查與執行層面的漏洞。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Mathematics for AI — Ch.06: Numerical Methods [KR]",
+      "link": "https://dev.to/richard_minsoogo/mathematics-for-ai-ch06-numerical-methods-kr-a0e",
+      "published": "2026-11-09T02:27:51+00:00",
+      "summary": "本文為 AI 數學系列教材，探討數值計算（Numerical Methods）在科學計算與 AI 中的數學原理。內容偏向純理論推導，缺乏實務工具應用。",
+      "category": "研究論文",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "published": "2026-11-08T22:54:50+00:00",
+      "summary": "媒體公開了黃仁勳發給輝達內部員工的完整道歉備忘錄，承認個人的私人行為傷害了家庭與公司。這項消息提供了該內部調查事件的具體細節與背景資訊。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "published": "2026-11-08T21:00:11+00:00",
+      "summary": "針對黃仁勳發布的內部備忘錄，輝達官方證實將對執行長涉入的關係展開調查。此事件持續在科技圈與投資市場引發討論。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "published": "2026-11-08T20:22:39+00:00",
+      "summary": "輝達董事會針對執行長黃仁勳與高層人員的個人關係發表聲明，並指派獨立機構進行內部調查。這項風險調查受到科技業與國安相關領域的高度關注。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
