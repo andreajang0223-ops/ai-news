@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T02:41:43.669540+00:00",
+  "count": 23,
+  "items": [
+    {
+      "source": "iThome",
+      "title": "迪士尼擴大與Adobe的AI合作，從樂園設計延伸至電影與體育內容",
+      "link": "https://www.ithome.com.tw/news/180397",
+      "published": "2026-11-11T08:11:52+00:00",
+      "summary": "迪士尼與 Adobe 擴大多年合作，採用 Firefly 生成式 AI 協助樂園設計、電影視覺特效與體育內容製作。這對於設計師了解頂尖企業如何將生成式 AI 整合至實務設計工作流程極具參考價值。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How to Add Voice to Your React App with ElevenLabs",
+      "link": "https://dev.to/voice_developer/how-to-add-voice-to-your-react-app-with-elevenlabs-4hg",
+      "published": "2026-11-11T02:31:01+00:00",
+      "summary": "本文教學如何在 React 應用中整合 ElevenLabs 語音生成 API，將靜態 UI 升級為互動式語音體驗。這是前端開發者將生成式語音 AI 整合進產品介面的實用實務教學。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "When the AI Says “Slow Down”: Retrying 429 and 529 in Flutter Without Hammering the API",
+      "link": "https://medium.com/@debasmitasarkar.93/when-the-ai-says-slow-down-retrying-429-and-529-in-flutter-without-hammering-the-api-57b1ea87e701?source=rss------artificial_intelligence-5",
+      "published": "2026-11-11T02:31:01+00:00",
+      "summary": "本文分享如何在 Flutter 應用中針對 AI API 的 429 與 529 速率限制實作退避與重試機制。這提供行動應用開發者整合 AI 模型時非常實用的例外處理與 API 管理技巧。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "flutter-ai",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "微軟WinApp CLI新增WinUI DevTools，AI代理可檢查執行中的介面元件",
+      "link": "https://www.ithome.com.tw/news/180394",
+      "published": "2026-11-10T07:11:48+00:00",
+      "summary": "微軟推出 WinApp CLI 0.8，新增能讓 AI 代理檢查與即時測試 UI 元件的 DevTools 工具。這大幅提升了 AI 代理在自動化 UI 開發與程式碼修正時的能力。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "published": "2026-11-09T22:19:12+00:00",
+      "summary": "社群熱烈討論企業強制要求 100% 使用 AI 開發一年後，導致維護團隊無人能理解程式碼邏輯的技術債困境。這深入探討了 Agentic Coding 工具過度使用時對專案維護與團隊技術積累的警訊。",
+      "category": "社群討論",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "澳洲律師事務所 Gilbert + Tobin 分享如何將 AI 導入法律服務以重塑商業模式。這展示了 AI 在專業服務領域轉型與實務應用的具體範例。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Anthropic啟動IPO投資人說明會，最多募資625億美元",
+      "link": "https://www.ithome.com.tw/news/180402",
+      "published": "2026-11-11T09:11:44+00:00",
+      "summary": "AI 巨頭 Anthropic 啟動 IPO 投資人說明會，預計最多募資 625 億美元並於那斯達克掛牌。這標誌著生成式 AI 企業在資本市場上的重大里程碑。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Reddit利用AI整理商品評價，首波涵蓋約1萬項商品",
+      "link": "https://www.ithome.com.tw/news/180401",
+      "published": "2026-11-11T09:11:09+00:00",
+      "summary": "Reddit 推出新功能利用 AI 彙整社群商品討論與正負面評價，首波涵蓋萬項商品。這展現了 AI 處理大規模社群文本並轉化為消費者決策輔助的實際產品化應用。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "CSA建議企業推動資安職能轉型，從漏洞管理導入AI代理",
+      "link": "https://www.ithome.com.tw/news/180249",
+      "published": "2026-11-11T08:11:00+00:00",
+      "summary": "雲端安全聯盟（CSA）建議企業導入 AI 代理協助漏洞檢查與程式碼審查，並調整資安團隊的人力分工。這展現了 AI 代理逐步改變企業團隊規模與工作流程的實務趨勢。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AI Can Write Code. But Can It Maintain a Real App?",
+      "link": "https://medium.com/@itsamanyadav/ai-can-write-code-but-can-it-maintain-a-real-app-a23ccb0734d9?source=rss------artificial_intelligence-5",
+      "published": "2026-11-11T02:31:01+00:00",
+      "summary": "文章探討 AI 雖然能快速編寫程式碼，但在長期維護與真實軟體專案架構維護上仍面臨挑戰。這引發了關於 AI 輔助程式開發實際效益與限制的深入討論。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI usage generates a fragile codebase",
+      "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "published": "2026-11-10T10:25:58+00:00",
+      "summary": "社群熱烈討論過度依賴 AI 生成程式碼容易導致架構脆弱且難以維護的隱患。這提醒開發者在利用 AI 輔助開發時，仍須注重程式碼審查與架構設計。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "published": "2026-11-10T10:00:00+00:00",
+      "summary": "OpenAI 在 ChatGPT 中推出商家管理工具，讓企業能管理自身的商業資訊並獲取用戶互動洞察。這有助於品牌更精準地在 AI 對話介面中呈現服務與吸引潛在客戶。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "link": "https://openai.com/index/ai-effect-on-freelance-work",
+      "published": "2026-11-10T07:00:00+00:00",
+      "summary": "OpenAI 與 Upwork 發布研究指出，AI 正推動自由職業市場轉型，具備 AI 技能的專案預算與工時顯著增加。這顯示市場對於能熟練運用 AI 工具的跨領域人才需求強勁。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "arXiv cs.AI",
+      "title": "What Is the Value of AI-Involved Art? Evidence From a Juried In-Person Exhibition",
+      "link": "https://arxiv.org/abs/2611.10150",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "本研究調查實體 AI 藝術展中評審與大眾對 AI 參與創作藝術品的付費意願，發現定價與 perceived 視覺美感和原創性高度相關。這提供了對 AI 生成內容市場價值與藝術認定的實證分析。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "published": "2026-11-10T00:00:00+00:00",
+      "summary": "Hugging Face 宣佈支援使用 Google Cloud 帳戶來支付 Hugging Face Hub 的費用。這簡化了開發者與企業在跨平台採購和帳務管理上的流程。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Decision Models in Hugging Face",
+      "link": "https://huggingface.co/blog/decision",
+      "published": "2026-11-10T00:00:00+00:00",
+      "summary": "Hugging Face 推出了對決策模型（Decision Models）的支援，將強化學習與序列決策模型整合至生態系中。這擴展了 AI 在複雜控制與自動化決策場景的應用能力。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "published": "2026-11-09T19:00:00+00:00",
+      "summary": "ChatGPT Enterprise 正式上架 AWS Marketplace，讓企業能透過現有 AWS 帳單直接採購與整合服務。這將降低企業導入 OpenAI 旗艦服務的行政門檻。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "柏克萊研究推演2027至2029年AI資安威脅，AI代理供應鏈與自動化攻防成焦點",
+      "link": "https://www.ithome.com.tw/news/180348",
+      "published": "2026-11-11T08:11:00+00:00",
+      "summary": "加州大學柏克萊分校發布報告，推演 2027 至 2029 年 AI 代理與自動化攻防帶來的資安風險情境。這有助於預防與理解未來 AI Agent 發展下可能面臨的安全挑戰。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "澳洲更新關鍵基礎設施資安指引，強化網路隔離措施並納入AI風險管理建議",
+      "link": "https://www.ithome.com.tw/news/180258",
+      "published": "2026-11-11T08:11:00+00:00",
+      "summary": "澳洲內政部更新關鍵基礎設施資安指引，要求強化身分驗證並納入 AI 系統營運風險管理。這反映了政府政策對企業導入 AI 時安全性規範的調整趨勢。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Closing the AI guidance gap in education",
+      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "published": "2026-11-10T09:00:00+00:00",
+      "summary": "OpenAI 聯合 ThinkYoung 發布研究，探討如何在 EMEA 地區推動教師 AI 素養與自主學習。這展現了生成式 AI 導入教育體系時所需配套的指引與規範。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "published": "2026-11-10T07:19:38+00:00",
+      "summary": "第三方 AI 供應商 Fireworks AI 發生安全漏洞事件，影響了 Notion 及其用戶資料。這凸顯出企業在整合第三方 AI API 時，供應鏈資訊安全管理的重要性。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "published": "2026-11-10T03:20:06+00:00",
+      "summary": "AI 算力基礎設施供應商 CoreWeave 的債券殖利率飆升至 16%，反映市場對 AI 融資信用風險的疑慮上升。這揭示了 AI 基礎設施繁榮背後面臨的資本市場壓力。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meet the Sad Wives of AI",
+      "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+      "published": "2026-11-10T10:40:51+00:00",
+      "summary": "Wired 報導了受 AI 陪伴工具影響的家庭生活與情感關係轉變。這反映出生成式 AI 深入大眾日常生活後所引發的新型社會與心理現象。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
