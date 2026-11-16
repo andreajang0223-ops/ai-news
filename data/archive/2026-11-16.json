@@ -1,0 +1,430 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T02:41:03.020208+00:00",
+  "count": 41,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "Biz AI's integration skill: let Claude Code, Codex or MetaCoder AI-enable your existing business system",
+      "link": "https://dev.to/winclawdev/biz-ais-integration-skill-let-claude-code-codex-or-metacoder-ai-enable-your-existing-business-3kmm",
+      "published": "2026-11-16T02:21:06+00:00",
+      "summary": "展示如何運用 Claude Code 等程式 Agent 工具為現有企業系統整合 AI 自動化流程，同時保留人工審核機制。這提供了實用的 AI 工作流整合範例，大大提升系統開發效率。",
+      "category": "應用案例",
+      "importance": 5,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Stress-Testing an AI-Designed Architecture for Flutter on watchOS (Experiment)",
+      "link": "https://dev.to/emmanuel_code/stress-testing-an-ai-designed-architecture-for-flutter-on-watchos-experiment-47pb",
+      "published": "2026-11-16T02:21:39+00:00",
+      "summary": "開發者實作將 Flutter 架構部署至 watchOS 模擬器，透過 WebSocket 串流畫面並進行壓力測試。這展示了將 Flutter 與 AI 架構運用於穿戴式裝置的實務實驗過程。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "flutter-ai"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "I built an AI-readability checker. My own site scores 12 out of 15.",
+      "link": "https://dev.to/saaspet/i-built-an-ai-readability-checker-my-own-site-scores-12-out-of-15-33ld",
+      "published": "2026-11-16T02:21:21+00:00",
+      "summary": "作者開發了一款評估網站對 AI 爬蟲可讀性的工具，並分享了優化 llms.txt 與結構化資料的實戰經驗。這對於優化產品與網站架構以利 AI 檢索非常有實用價值。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "built a fact-checker that catches politicians lying in real-time",
+      "link": "https://www.reddit.com/r/artificial/comments/1xwmtff/built_a_factchecker_that_catches_politicians/",
+      "published": "2026-11-15T04:56:24+00:00",
+      "summary": "開發者分享運用 Claude API 結合即時網頁搜尋打造的事實查核工具，能自動比對影片字幕驗證發言真實性。這是個實用的 AI 工作流整合案例，有效展示如何透過檢索來減少模型幻覺。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "FBI警告駭客利用AI工具ARTEX加速入侵，部分事件不到3小時取得系統高權限",
+      "link": "https://www.ithome.com.tw/news/180508",
+      "published": "2026-11-16T08:11:00+00:00",
+      "summary": "FBI 發布警示指出駭客利用開源 AI 滲透測試工具 ARTEX，在不到 3 小時內即可自動獲取系統高權限。這展現了 AI 工具在自動化攻防維度的實際威力與潛在威脅。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Zero-Day in Apache HTTP Server: Understanding the Critical CVE-2026–119618 HTTP/2 RCE",
+      "link": "https://medium.com/@sharansutrapu/zero-day-in-apache-http-server-understanding-the-critical-cve-2026-119618-http-2-rce-59d7c8b12c2f?source=rss------artificial_intelligence-5",
+      "published": "2026-11-16T02:31:01+00:00",
+      "summary": "Google 研究人員與 AI 自動化掃描工具獨立發現了 Apache HTTP Server 的重大零時差漏洞。展現了 AI 工具在資安漏洞偵測與程式碼審查上的實用價值。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "200,000 people test Apple's health AI before it ships",
+      "link": "https://dev.to/frankchu/200000-people-test-apples-health-ai-before-it-ships-3aj0",
+      "published": "2026-11-16T02:29:38+00:00",
+      "summary": "蘋果宣布招募 20 萬名測試者參與健康 AI 應用研究，藉此評估健康 AI 聊天機器人的效果。展現了科技巨頭在推廣 AI 醫療應用前所採取的嚴謹測試流程。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Generative Engine Optimization (GEO): A Technical Blueprint for LLM Search Visibility",
+      "link": "https://medium.com/@atu02378/generative-engine-optimization-geo-a-technical-blueprint-for-llm-search-visibility-1ef83a09b5cc?source=rss------artificial_intelligence-5",
+      "published": "2026-11-16T02:28:31+00:00",
+      "summary": "文章提出了針對 LLM 搜尋引導（GEO）的技術藍圖，探討生成式引擎如何改變傳統 SEO。這對於瞭解未來產品與內容如何被 AI 工具檢索並提高曝光度至關重要。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "ChatGPT Can Now Buy Things. Is Your Business Ready?",
+      "link": "https://medium.com/@rohit_sood/chatgpt-can-now-buy-things-is-your-business-ready-42e2d70907cd?source=rss------artificial_intelligence-5",
+      "published": "2026-11-16T02:27:06+00:00",
+      "summary": "OpenAI 推出 ChatGPT Wallet 功能，讓 AI 能直接幫使用者在網路上完成交易購買。這標誌著 AI 助手正從單純的問答對話跨入具備實際執行力的商業應用階段。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The Future of Business Software: Why Every SaaS Platform Needs an AI Strategy",
+      "link": "https://vinnisoft-vis.medium.com/the-future-of-business-software-why-every-saas-platform-needs-an-ai-strategy-ed477605f5dd?source=rss------artificial_intelligence-5",
+      "published": "2026-11-16T02:25:19+00:00",
+      "summary": "分析 AI 如何推動 SaaS 企業軟體從靜態儀表板轉向智慧自動化決策。這有助於產品設計者理解未來商業軟體的整合趨勢與 AI 策略。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Before Adding AI or Blockchain, Define the Evidence",
+      "link": "https://dev.to/juanpabloabadiamedin/before-adding-ai-or-blockchain-define-the-evidence-1omh",
+      "published": "2026-11-16T02:21:00+00:00",
+      "summary": "文章提醒開發者在導入 AI 或區塊鏈之前，應先明確定義資料驗證需求與成功指標。這能幫助設計與開發團隊避免盲目追逐新技術而忽視問題本質。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Is GPTZero Accurate? What Its Own Data and Independent Tests Show",
+      "link": "https://dev.to/proofai/is-gptzero-accurate-what-its-own-data-and-independent-tests-show-11bf",
+      "published": "2026-11-16T02:20:31+00:00",
+      "summary": "評估 AI 內容檢測工具 GPTZero 的實測表現與誤判風險，指出其容易將非原生英語者的寫作誤判為 AI 生成。這提醒我們在評估與調校 AI 工具時應保持客觀並避免單一信任。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple launches new app to study how people use AI for health",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "published": "2026-11-16T01:30:00+00:00",
+      "summary": "Apple 與 OpenEvidence 合作推出全新 App，旨在探討使用者如何透過對話式 AI 尋求日常醫療解答。這有助於了解使用者與健康類 AI 的實際互動模式與產品實用性。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "published": "2026-11-16T01:26:56+00:00",
+      "summary": "Apple 啟動最新健康 AI 使用研究，專注於提升對話式醫療 AI 工具回答的準確度與效益。這對於評估 AI 在醫療照護領域的實際應用潛力具有重要參考價值。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Weight-space programming: an LLM edited another model's weights directly and lifted its math score from 7.9% to 48.1%",
+      "link": "https://www.reddit.com/r/artificial/comments/1xx4kit/weightspace_programming_an_llm_edited_another/",
+      "published": "2026-11-15T19:37:03+00:00",
+      "summary": "MIT 研究團隊展示 LLM 能直接修編小模型權重（無需梯度訓練），成功將數學能力顯著提升。這種「權重空間程式設計」提供了模型自我修復與優化的全新思維。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "made up 9 software brands and asked chatgpt and google ai mode for each one's price and founder, to see if they'd invent answers. 18 answers, none invented",
+      "link": "https://www.reddit.com/r/artificial/comments/1xwzvr9/made_up_9_software_brands_and_asked_chatgpt_and/",
+      "published": "2026-11-15T16:33:31+00:00",
+      "summary": "社群用戶測試 9 個虛構軟體品牌，發現 ChatGPT 與 Google AI 模式均無出現編造資訊的幻覺。這提供了一個觀察大型語言模型防範幻覺表現的實測範例。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Meituan open-sourced LongCat-2.5, a 1.6T agent model, and the only deploy guide is for Huawei NPUs, not Nvidia",
+      "link": "https://www.reddit.com/r/artificial/comments/1xwx2hc/meituan_opensourced_longcat25_a_16t_agent_model/",
+      "published": "2026-11-15T14:37:57+00:00",
+      "summary": "美團開源了 1.6T 參數的 LongCat-2.5 Agent 模型，性能接近 Claude Opus 5，但目前僅提供華為 NPU 的部署指南。這展示了開源 Agent 模型的快速進展，但缺乏 Nvidia GPU 支援限制了多數開發者的實操部署。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Are AI leaderboards even worth taking seriously anymore?",
+      "link": "https://www.reddit.com/r/artificial/comments/1xwwdhv/are_ai_leaderboards_even_worth_taking_seriously/",
+      "published": "2026-11-15T14:07:58+00:00",
+      "summary": "網友討論當前 AI 排行榜的參考價值，指出 Gemini 在通用對話表現佳，而 Claude 則在程式設計領域佔優。這有助於開發者了解不同大模型的擅長場景，依需求選擇合適工具。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "An overview of Jensen Huang’s messy days",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "published": "2026-11-15T13:00:00+00:00",
+      "summary": "報導回顧輝達執行長黃仁勳辭職事件及公司面臨的高層危機與影響。這屬於重大科技產業變動，可能對全球 AI 晶片供應鏈產生深遠影響。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published": "2026-11-14T17:30:00+00:00",
+      "summary": "報導盤點了近年失敗或未達預期的 AI 專案與新創公司，包含 Siri 的延期與 OpenAI 新功能發布爭議。這為 AI 產品設計者提供了寶貴的市場避坑指南與產品定位反思。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "GPT-6 Astra Helped Build a Candidate Lattice Definition of the Standard Model",
+      "link": "https://dev.to/alifar/gpt-6-astra-helped-build-a-candidate-lattice-definition-of-the-standard-model-ge8",
+      "published": "2026-11-16T02:30:30+00:00",
+      "summary": "OpenAI 介紹物理學家如何利用 GPT-6 Astra 輔助構建粒子物理標準模型的格點定義。此案例展示了生成式 AI 在處理複雜前端理論科學研究的合作潛力。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Latinoamérica frente a la brecha de la inteligencia artificial: ¿desarrolladores o simples…",
+      "link": "https://marlonlom.medium.com/latinoam%C3%A9rica-frente-a-la-brecha-de-la-inteligencia-artificial-desarrolladores-o-simples-9c4f99219325?source=rss------artificial_intelligence-5",
+      "published": "2026-11-16T02:26:12+00:00",
+      "summary": "探討拉丁美洲在人工智慧浪潮下面臨的技術差距與角色定位挑戰。這反映了區域性技術普及與數位能力培訓的現實困境。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "AI Music Companies Want to Replace Musicians. Now They’re Fighting Over Who Owns the Music.",
+      "link": "https://ankitmohanta.medium.com/ai-music-companies-want-to-replace-musicians-now-theyre-fighting-over-who-owns-the-music-8715fa88af72?source=rss------artificial_intelligence-5",
+      "published": "2026-11-16T02:26:09+00:00",
+      "summary": "AI 音樂生成公司在嘗試取代傳統音樂人的同時，正面臨生成內容版權歸屬的法律爭議。這突顯出生成式 AI 在著作權授權與商業化過程中的核心挑戰。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "_I Tried to Fool the Gatekeeper Without Knowledge. Math Wouldn't Let Me._",
+      "link": "https://dev.to/rizal817/i-tried-to-fool-the-gatekeeper-without-knowledge-math-wouldnt-let-me-263a",
+      "published": "2026-11-16T02:25:43+00:00",
+      "summary": "作者記錄其 AI Agent 嘗試在無先驗知識下繞過零知識證明機制的測試過程。這展示了 AI Agent 在區塊鏈與自動化驗證環境中的實際操作極限。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "If You Use AI Thumbnails I’m Leaving Your Pub",
+      "link": "https://medium.com/the-papercut/if-you-use-ai-thumbnails-im-leaving-your-pub-b0598dad9b78?source=rss------artificial_intelligence-5",
+      "published": "2026-11-16T02:22:09+00:00",
+      "summary": "創作者表達對文章濫用缺乏視覺美感的 AI 生成縮圖之強烈反感。這反映出社群對無差別使用生成式圖像所產生的審美疲勞與反彈。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "published": "2026-11-15T23:30:00+00:00",
+      "summary": "印度晶片初創公司 Bharat Semi 完成 2,400 萬美元種子輪融資，其 AI 感測器技術已打入國防龍頭供應鏈。這凸顯了嵌入式 AI 與感測器硬體整合在邊緣計算市場的發展潛力。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Our new blog for science",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "published": "2026-11-15T22:00:00+00:00",
+      "summary": "OpenAI 成立全新的科學專題部落格，分享研究人員運用 AI 推進各領域科學發現的實際做法與案例。這為跨領域研究者提供了將 AI 融入科研工作流程的參考資源。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "published": "2026-11-15T21:56:35+00:00",
+      "summary": "報導分析輝達高層變動與爭議對整體 AI 產業生態系的潛在影響。這揭示了當前 AI 產業過度依賴單一硬體巨頭供應鏈的風險與隱憂。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen! | TechCrunch",
+      "link": "https://www.reddit.com/r/artificial/comments/1xx4t46/exportbanned_nvidia_chips_are_behind_chinas_most/",
+      "published": "2026-11-15T19:46:39+00:00",
+      "summary": "社群熱烈討論遭出口禁令限制的輝達高階晶片，如何依然支撐中國最頂尖的 AI 模型訓練。這反映了全球 AI 晶片貿易管制面臨的實務執行挑戰。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "published": "2026-11-15T19:15:43+00:00",
+      "summary": "美國國會因應輝達高層風波，擬進一步收緊針對高階 AI 晶片的出口限制政策。這意味著全球 AI 算力供應鏈將面臨更嚴格的地緣政治監管。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Building with AI is now easier but trust takes further testing.",
+      "link": "https://www.reddit.com/r/artificial/comments/1xwwrm0/building_with_ai_is_now_easier_but_trust_takes/",
+      "published": "2026-11-15T14:24:54+00:00",
+      "summary": "社群討論當前使用 AI 建立產品雖然變得容易，但如何有效測試與建立系統信任度成為關鍵痛點。這提醒開發者在追求快速產出的同時，必須建立完善的產出驗證機制。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "published": "2026-11-15T00:08:07+00:00",
+      "summary": "報導探討輝達內部資安主管離職與高層調查風波，揭露企業在面對晶片技術出口與內部安全控管上的挑戰。這反映了 AI 硬體巨頭在合規與資安管理上的重大危機。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "published": "2026-11-14T21:41:22+00:00",
+      "summary": "馬斯克等多位科技界高層發起請願，要求輝達讓黃仁勳復職，已獲得超過 11 萬人簽署。這顯示出科技界對輝達領導層變動的高度關注與挺身支持。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "published": "2026-11-14T16:34:15+00:00",
+      "summary": "亞洲多國政府針對輝達執行長離職做出反應，確認晶片供應承諾並評估在地 AI 建設受到的影響。這凸顯了硬體晶片供應對各國 AI 產業推動的極致重要性。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "published": "2026-11-14T15:00:00+00:00",
+      "summary": "前 OpenAI 董事 Helen Toner 受訪探討 AI 企業治理與監管挑戰，強調不能盲目信任 AI 巨頭管理者。報導深入檢視了 AI 技術發展背後的倫理監督與政策議題。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "published": "2026-11-14T12:00:00+00:00",
+      "summary": "評論分析黃仁勳離職事件對矽谷「明星創辦人兼執行長」文化的衝擊與轉折。探討了科技巨頭在轉型期中，領導風格與公司治理架構的必然改變。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "超過18%的Nvidia員工連署要求黃仁勳回鍋",
+      "link": "https://www.ithome.com.tw/news/180510",
+      "published": "2026-11-16T08:11:35+00:00",
+      "summary": "報導指稱 Nvidia 執行長黃仁勳因涉及調查離職，導致上千名員工連署要求其回鍋。此事屬於科技高層動向與企業治理相關議題。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published": "2026-11-15T22:00:01+00:00",
+      "summary": "OpenAI 展示利用 GPT-6 Astra 協助推導高階物理學中的標準模型晶格證明。這證明了先進大語言模型在輔助極端複雜理論研究與數學推導的潛力。",
+      "category": "研究論文",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "published": "2026-11-15T20:43:49+00:00",
+      "summary": "輝達內部風波持續升溫，傳出前執行長黃仁勳正尋求重返經營團隊。這反映出全球 AI 晶片龍頭企業在治理與策略走向上的重大變數。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "published": "2026-11-15T20:20:57+00:00",
+      "summary": "美國綜藝節目 SNL 推出新單元，透過幽默模仿諷刺近期科技巨頭高層的各種行為與社交話題。這屬於流行文化對科技圈時事的娛樂化創作。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Reddit r/artificial",
+      "title": "Not all AI sounds human.",
+      "link": "https://www.reddit.com/r/artificial/comments/1xwo2iz/not_all_ai_sounds_human/",
+      "published": "2026-11-15T06:08:09+00:00",
+      "summary": "社群討論指出並非所有 AI 生成內容或語音都足夠自然，仍有明顯的 AI 痕跡。這點出當前生成式 AI 在追求極致真實度上仍面臨技術邊界。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
