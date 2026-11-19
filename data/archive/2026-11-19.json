@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T04:04:34.439602+00:00",
+  "count": 20,
+  "items": [
+    {
+      "source": "iThome",
+      "title": "Google升級Gemini Tasks，新增AI代打電話、購物付款功能，首度開放免費使用",
+      "link": "https://www.ithome.com.tw/news/180641",
+      "published": "2026-11-19T11:11:50+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "美國NSA高機密通訊網路NSANet傳中斷，官方稱例行維護期間發生異常",
+      "link": "https://www.ithome.com.tw/news/180642",
+      "published": "2026-11-19T11:11:49+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "N0n勒索軟體組織宣稱取得Visa、摩根大通等59家公司資料",
+      "link": "https://www.ithome.com.tw/news/180643",
+      "published": "2026-11-19T11:11:14+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "JINS、三菱UFJ銀行等數十家日本企業陸續發布資安事件公告，皆因第三方行銷科技業者PLAID旗下KARTE平臺遭駭",
+      "link": "https://www.ithome.com.tw/news/180640",
+      "published": "2026-11-19T11:11:01+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Apache Roller反序列化漏洞已遭利用，開發團隊警告漏洞影響範圍涵蓋近20年的版本",
+      "link": "https://www.ithome.com.tw/news/180639",
+      "published": "2026-11-19T10:11:22+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "駭客利用AI代理框架ARTEX攻擊資安公司Barracuda，44小時入侵10個雲端帳戶搜刮憑證",
+      "link": "https://www.ithome.com.tw/news/180621",
+      "published": "2026-11-19T09:11:29+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Palo Alto Networks斥資45億美元併購AI新創Applied Compute",
+      "link": "https://www.ithome.com.tw/news/180637",
+      "published": "2026-11-19T09:11:15+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "微軟Agent Framework套件遭植入惡意程式，鎖定Azure及CI/CD環境憑證",
+      "link": "https://www.ithome.com.tw/news/180624",
+      "published": "2026-11-19T08:11:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Claude's free limit reset: what each reset actually refills (and why /limit-reset says Unknown command)",
+      "link": "https://dev.to/its-tahir/claudes-free-limit-reset-what-each-reset-actually-refills-and-why-limit-reset-says-unknown-8m8",
+      "published": "2026-11-19T04:00:02+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Push Is Attention. Pull Is the Correctness Floor",
+      "link": "https://dev.to/aheadkit/push-is-attention-pull-is-the-correctness-floor-26af",
+      "published": "2026-11-19T04:00:00+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Claude went down twice on 13 November: what broke, what kept working, and what to do next time",
+      "link": "https://dev.to/its-tahir/claude-went-down-twice-on-13-november-what-broke-what-kept-working-and-what-to-do-next-time-5gll",
+      "published": "2026-11-19T03:59:49+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How to Set Up a Voice-Enabled Blog with AI Narration",
+      "link": "https://dev.to/voice_developer/how-to-set-up-a-voice-enabled-blog-with-ai-narration-22m5",
+      "published": "2026-11-19T03:57:48+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "AWS Lambda añade instancias GPU: inferencia GPU sin servidores en Lambda Managed Instances con imágenes precompiladas de vLLM y SGLang",
+      "link": "https://dev.to/iacompa/aws-lambda-anade-instancias-gpu-inferencia-gpu-sin-servidores-en-lambda-managed-instances-con-24l3",
+      "published": "2026-11-19T03:52:20+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Stop Paying for Audio Stem Separation: Meet Split My Music (Self-Hosted, Local AI)",
+      "link": "https://dev.to/paladini/stop-paying-for-audio-stem-separation-meet-split-my-music-self-hosted-local-ai-mb5",
+      "published": "2026-11-19T03:51:59+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Azure AI Models, CLI Agents, Rust Ports, and Java/Nginx Patches",
+      "link": "https://dev.to/karleeov/azure-ai-models-cli-agents-rust-ports-and-javanginx-patches-m3p",
+      "published": "2026-11-19T03:50:18+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "تسعير Gemini 4 Neon: 3 دولارات للإدخال و15 دولارًا للإخراج وما هي التكلفة الحقيقية للاستدعاء الواحد",
+      "link": "https://dev.to/yusuf_khalidd/tsyr-gemini-4-neon-3-dwlrt-lldkhl-w15-dwlran-llkhrj-wm-hy-ltklf-lhqyqy-llstd-lwhd-4mhh",
+      "published": "2026-11-19T03:49:03+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Fragmented Data? Connect It, in Context.",
+      "link": "https://medium.com/@ainnov8.ai/fragmented-data-connect-it-in-context-b9f04c90c46b?source=rss------artificial_intelligence-5",
+      "published": "2026-11-19T03:46:51+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Why Boundary Wires Are Holding Back Commercial Distributors — And How 360° LiDAR + Dual AI Vision…",
+      "link": "https://pangao-leader.medium.com/why-boundary-wires-are-holding-back-commercial-distributors-and-how-360-lidar-dual-ai-vision-0364d74508c3?source=rss------artificial_intelligence-5",
+      "published": "2026-11-19T03:46:07+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Top Tech & AI News 2026: GPT-6.2, Gemini 4 Neon & The Rise of AI Commerce",
+      "link": "https://medium.com/@nevadayorkie/top-tech-ai-news-2026-gpt-6-2-gemini-4-neon-the-rise-of-ai-commerce-5faf5e9885cf?source=rss------artificial_intelligence-5",
+      "published": "2026-11-19T03:40:45+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Fake “New AI Model” Downloads: A Seven-Point Scam Check",
+      "link": "https://medium.com/@kanisshka12/fake-new-ai-model-downloads-a-seven-point-scam-check-33ee033e979b?source=rss------artificial_intelligence-5",
+      "published": "2026-11-19T03:31:02+00:00",
+      "summary": "",
+      "category": "產業動態",
+      "importance": 0,
+      "skills": []
+    }
+  ]
+}
