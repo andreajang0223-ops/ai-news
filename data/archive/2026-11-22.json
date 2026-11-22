@@ -1,0 +1,380 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T02:58:24.971521+00:00",
+  "count": 35,
+  "items": [
+    {
+      "source": "Medium AI",
+      "title": "Google Gemini Can Now Use Your Mac: The Rise of AI Agents in 2026",
+      "link": "https://medium.com/@nevadayorkie/google-gemini-can-now-use-your-mac-the-rise-of-ai-agents-in-2026-0f8ae00b3703?source=rss------artificial_intelligence-5",
+      "published": "2026-11-22T02:33:20+00:00",
+      "summary": "Google Gemini 推出 Mac 電腦操作（Computer Use）功能，讓 AI 能直接控制電腦介面執行複雜任務。這標誌著 AI 代理從單純回答問題邁向自動化操作桌面應用的實用新階段。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Deploy an AI Audiobook Platform: Complete Hosting Guide",
+      "link": "https://dev.to/voice_developer/deploy-an-ai-audiobook-platform-complete-hosting-guide-2fm2",
+      "published": "2026-11-22T02:48:39+00:00",
+      "summary": "介紹如何結合文字轉語音與語音複製 API 建置 AI 有聲書平台並完成雲端部署。這示範了將語音 AI 整合至完整產品的實務架構與部署流程。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Make Your AI Prove Itself on Every Pull Request: Automating LLM Evals with GitHub Actions",
+      "link": "https://medium.com/@paulhoke/make-your-ai-prove-itself-on-every-pull-request-automating-llm-evals-with-github-actions-46a368b28044?source=rss------artificial_intelligence-5",
+      "published": "2026-11-22T02:44:36+00:00",
+      "summary": "說明如何利用 GitHub Actions 自動化 LLM 評估流程，在程式碼合併前捕捉模型表現衰退。這有助於為 AI 應用建立自動化品質管制的開發流程。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Claude AI in November 2026: Fable 5.2, Claude Duet & Why More Users Need Claude Pro",
+      "link": "https://medium.com/@nevadayorkie/claude-ai-in-november-2026-fable-5-2-claude-duet-why-more-users-need-claude-pro-bfabae89cefb?source=rss------artificial_intelligence-5",
+      "published": "2026-11-22T02:43:58+00:00",
+      "summary": "報導 Anthropic 發布 Fable 5.2 模型與 Claude Duet Agent 等最新產品進展。展示了 Claude 生態系從對話型 AI 向自主 Agent 擴展的趨勢。",
+      "category": "模型發布",
+      "importance": 4,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Prompt Chaining with Spring AI: Four Small Steps Beat One Big Prompt",
+      "link": "https://dev.to/said_olano/prompt-chaining-with-spring-ai-four-small-steps-beat-one-big-prompt-37gg",
+      "published": "2026-11-22T02:43:12+00:00",
+      "summary": "探討以 Prompt 鏈結拆解複雜任務，比單一龐大提示詞更能提升模型輸出準確度。這提供拆解 AI 工作流程、提升 Prompt 穩定性的實用提示詞設計策略。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "System design for physical AI: a tailings embankment where every section has one story",
+      "link": "https://dev.to/umar_bilal_fd6e1f54398cec/system-design-for-physical-ai-a-tailings-embankment-where-every-section-has-one-story-14mj",
+      "published": "2026-11-22T02:40:14+00:00",
+      "summary": "介紹應用於尾礦壩安全監測的實體 AI（Physical AI）開放工業參考架構。展示了 AI 如何結合硬體與資料模型，落實於實體工程與基礎設施監測場景中。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "I’m 45, My English Isn’t Great, and I Just Launched My First Global Project with AI.",
+      "link": "https://medium.com/@harumaki/im-45-my-english-isn-t-great-and-i-just-launched-my-first-global-project-with-ai-64224df826ad?source=rss------artificial_intelligence-5",
+      "published": "2026-11-22T02:38:33+00:00",
+      "summary": "分享創作者運用 AI 工具克服語言與技術門檻、獨立推出跨國專案的經驗。說明 AI 能有效幫助個人創作者加速產品實踐與跨國推廣。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Your agent's rules file is code, so test it: three checks from a 20-point list",
+      "link": "https://dev.to/sazerfenor/your-agents-rules-file-is-code-so-test-it-three-checks-from-a-20-point-list-h3l",
+      "published": "2026-11-22T02:38:23+00:00",
+      "summary": "文章主張將 AI 程式碼 Agent 的規則設定檔視為正式程式碼進行測試，並提供 20 項檢查清單。這能有效幫助開發者掌握 Agent 的行為一致性，建立可控且可靠的 AI 工作流程。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-code",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published": "2026-11-21T17:00:00+00:00",
+      "summary": "彙整了多款能直接嵌入簡訊與通訊軟體的 AI Agent 工具，涵蓋工作、旅遊與家庭輔助等場景。提供使用者將 AI 工具無縫融入日常溝通渠道的實用選擇。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "AI趨勢周報第295期：微軟一口氣推出7款AI模型，拚效能也拚Token成本",
+      "link": "https://www.ithome.com.tw/news/180669",
+      "published": "2026-11-20T05:11:10+00:00",
+      "summary": "微軟一口氣發表 7 款新 AI 模型，著重於提升模型效能並降低 Token 運算成本。這顯示出各大科技巨頭正全力推進 AI 模型的商業化落地與輕量化。",
+      "category": "模型發布",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Claude Just Helped Claim a Proof of the Riemann Hypothesis. Here’s What That Actually Means.",
+      "link": "https://medium.com/@mohammedafzalxq/claude-just-helped-claim-a-proof-of-the-riemann-hypothesis-heres-what-that-actually-means-c087bee16879?source=rss------artificial_intelligence-5",
+      "published": "2026-11-22T02:41:52+00:00",
+      "summary": "介紹 Claude 協助數學家參與證明百年難題黎曼猜想的過程與背後意涵。這展現了大型語言模型在複雜科學與數學推理領域的實務輔助能力。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Routing is not a fallback",
+      "link": "https://dev.to/ariesrandy/routing-is-not-a-fallback-k95",
+      "published": "2026-11-22T02:41:40+00:00",
+      "summary": "分析 LLM 系統中多模型路由架構的設計思維，強調路由應是系統常態而非僅是失敗備援。對於設計高可用性與靈活調度多 API 的 AI 後端架構極具參考價值。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Your AI Strategy Is a Wrapper. Here's What a Moat Looks Like When Intelligence Gets 13 Cheaper Every Year.",
+      "link": "https://dev.to/arknetdigital/your-ai-strategy-is-a-wrapper-heres-what-a-moat-looks-like-when-intelligence-gets-13x-cheaper-50id",
+      "published": "2026-11-22T02:38:59+00:00",
+      "summary": "分析僅封裝 API 的 AI 產品面臨模型成本急速下降時的商業風險。這提醒產品設計者需思考如何建立軟體本身的核心價值與護城河。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Moderation is not one field",
+      "link": "https://dev.to/ariesrandy/moderation-is-not-one-field-2ka5",
+      "published": "2026-11-22T02:38:31+00:00",
+      "summary": "分析各大生成式媒體模型在內容安全與審核機制參數上的差異與混亂現狀。這有助於開發者理解不同影像及多媒體生成 API 在整合時的安全調控細節。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "From Excel or CSV to a .pbix: Automatic Power BI Report Creation for Spreadsheet Users",
+      "link": "https://medium.com/@suddh123/from-excel-or-csv-to-a-pbix-automatic-power-bi-report-creation-for-spreadsheet-users-120ba0c95fc5?source=rss------artificial_intelligence-5",
+      "published": "2026-11-22T02:35:28+00:00",
+      "summary": "介紹如何將 Excel 或 CSV 試算表資料自動化轉換為 Power BI 報表檔案（.pbix）。這能大幅簡化從原始數據到視覺化圖表的工作流程，提高資料處理效率。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "python-automation"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "published": "2026-11-21T16:00:00+00:00",
+      "summary": "報導演員將個人肖像授權給微短劇新創公司製作 AI 數位分身，探討影視娛樂業的新商業模式。這展示了 AI 生成技術在數位角色授權與影視製作上的創新應用。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Can Anthropic afford to put safety first?",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "published": "2026-11-21T15:00:00+00:00",
+      "summary": "分析 Claude 開發商 Anthropic 在準備上市時，如何在巨大的商業競爭壓力下維持「安全優先」的品牌承諾。這反映了主流 AI 大模型廠商在資本化過程中的重要戰略考量。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "published": "2026-11-20T21:58:29+00:00",
+      "summary": "Google 推出全新搜尋首頁，整合 AI 對話紀錄並移除傳統搜尋按鈕。這標誌著搜尋引擎介面正加速向以 Gemini 為核心的 AI 聊天互動模式轉型。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "published": "2026-11-20T20:59:08+00:00",
+      "summary": "研究人員在 AI 供應鏈中植入 200 萬個追蹤標記，揭露提示詞中的敏感資料並未獲得隱私保護。這證明使用者輸入給 AI 工具的 Prompt 資料存在極大的洩漏風險。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "published": "2026-11-20T16:34:13+00:00",
+      "summary": "Anthropic 的數學家宣稱在 Claude AI 的協助下證明了千禧年大獎難題之一的黎曼猜想。這再次證明 Claude 在複雜邏輯推理與學術研究輔助上的強大能力。",
+      "category": "研究論文",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "published": "2026-11-20T12:30:47+00:00",
+      "summary": "加密通訊軟體 Signal 宣佈限制螢幕讀取功能，以防止 Gemini 等 AI Agent 掃描用戶私密訊息。這反映出系統級 AI 自動化代理普及下，隱私保護與 AI 功能間的衝突。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Claude May Have Helped Prove the Riemann Hypothesis. NVIDIA Has Promised to Cover Up to $118 Billion.",
+      "link": "https://dev.to/harryfloyd/claude-may-have-helped-prove-the-riemann-hypothesis-nvidia-has-promised-to-cover-up-to-118-1538",
+      "published": "2026-11-22T02:41:33+00:00",
+      "summary": "彙整科技股市劇烈波動與 Claude 參與黎曼猜想證明等最新時事。呈現當前 AI 產業市場震盪與前沿技術突破並存的趨勢。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": [
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "La frontera de la creación comparada con la medicina",
+      "link": "https://medium.com/@jgrojasr2/la-frontera-de-la-creaci%C3%B3n-comparada-con-la-medicina-0c82ee741428?source=rss------artificial_intelligence-5",
+      "published": "2026-11-22T02:32:47+00:00",
+      "summary": "文章探討創作與醫學的邊界，強調 AI 僅是負責整理與執行人類所想像及決定的內容。提醒創作者核心價值仍在於人類的創意主導權而非工具本身。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "網擎策略投資微智安聯，臺灣資安業者攜手擴大產品布局、拓展海外市場",
+      "link": "https://www.ithome.com.tw/news/180692",
+      "published": "2026-11-22T01:11:21+00:00",
+      "summary": "臺灣資安業者網擎資訊策略投資新創微智安聯，結合 AI 技術強化產品研發並布局海外市場。展現了國內資安軟體產業運用 AI 升級與拓展商業版圖的動態。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "published": "2026-11-21T21:37:10+00:00",
+      "summary": "加密通訊軟體 Signal 開始限制行動端 App 的螢幕截圖功能，以應對 AI 技術可能帶來的資安與隱私監控威脅。這反映了 AI 發展下個人隱私防護面臨的新挑戰。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "published": "2026-11-21T21:07:42+00:00",
+      "summary": "對比 Nvidia 最新財報表現與科技高層對黃仁勳領導的期待。反映出硬體巨頭在 AI 算力熱潮中面臨的高市場期待與營運壓力。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "published": "2026-11-20T21:47:10+00:00",
+      "summary": "由於 AI 資料中心建置導致碳排放量創下新高，Meta 正重新評估其 2030 年淨零碳排目標。這突顯出 AI 算力需求暴增對科技巨頭永續承諾帶來的嚴重衝擊。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "published": "2026-11-20T19:53:41+00:00",
+      "summary": "Spotify 創辦人 Daniel Ek 投資由 AI 研究員創立的核融合初創公司 Europa Fusion。該公司嘗試運用 AI 技術加速潔淨能源開發，展現 AI 跨足前沿硬體的潛力。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "published": "2026-11-20T19:32:08+00:00",
+      "summary": "AI 模型宣稱解開了懸宕 167 年的數學難題「黎曼猜想」，同時亦有人類數學家提出競爭解法。這展現了 AI 在高階抽象數學與邏輯推理領域的最新突破。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "published": "2026-11-20T18:50:19+00:00",
+      "summary": "美國前總統川普威脅對將 AI 資料中心建於國外的企業徵收重稅，試圖將算力基礎設施留在國內。這顯示出 AI 算力資源已成為全球地緣政治與經濟博弈的焦點。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "published": "2026-11-20T14:55:44+00:00",
+      "summary": "Nvidia 在公佈強勁財報的同時，宣佈停止向中國銷售 H200 晶片並應對高層變動的後續影響。這反映出晶片巨頭在地緣政治限制下的供應鏈與營運策略調整。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Who put Palmer in charge of the future?",
+      "link": "https://medium.com/@tobrien/who-put-palmer-in-charge-of-the-future-022f7cfc3c52?source=rss------artificial_intelligence-5",
+      "published": "2026-11-22T02:41:12+00:00",
+      "summary": "討論科技界代表人物的價值觀與未來技術方向的社會政治觀點。內容偏向文化評論，與 AI 技術應用實務關聯較低。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "published": "2026-11-21T20:03:37+00:00",
+      "summary": "聯合國外交官員在日內瓦會議中，未能就約束自主武器（殺人機器人）的規範達成共識。顯示國際社會在規範軍事 AI 應用上仍面臨巨大分歧。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Chips can survive the space environment — can their financing?",
+      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "published": "2026-11-20T17:40:01+00:00",
+      "summary": "報導探討太空中運行 AI 晶片與太空資料中心在融資及資產擔保上面臨的金融挑戰。這反映了極限環境算力擴展背後的資本與商業可行性限制。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The week everything fell apart",
+      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "published": "2026-11-20T14:06:59+00:00",
+      "summary": "本週全球遭遇包括 Outlook、iCloud 及銀行系統在內的多起大規模科技基礎建設癱瘓事件。這突顯出現代社會高度依賴數位網路系統時所面臨的脆弱性風險。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
