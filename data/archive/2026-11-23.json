@@ -1,0 +1,329 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T03:39:58.484044+00:00",
+  "count": 30,
+  "items": [
+    {
+      "source": "The Verge AI",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "published": "2026-11-22T13:00:00+00:00",
+      "summary": "探討「氛圍編碼」（Vibe-coding）如何從純軟體開發擴展至各類硬體裝置與電子產品。這預示著設計師等非程式背景創作者，將能更輕易透過自然語言進行產品與硬體開發。",
+      "category": "應用案例",
+      "importance": 5,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "OpenAI將ChatGPT Dots、Space提供給Plus方案用戶",
+      "link": "https://www.ithome.com.tw/news/180704",
+      "published": "2026-11-23T11:11:59+00:00",
+      "summary": "OpenAI 將具備 24 小時自主執行能力的常駐代理人 ChatGPT Dots 及協同作業區 Space 開放給 Plus 用戶。這讓個人使用者也能運用長期執行的 AI 代理人協助日常搜尋與自動化工作流程。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Anthropic數學家攜手Claude破解黎曼猜想，Lean正式確認證明正確",
+      "link": "https://www.ithome.com.tw/news/180696",
+      "published": "2026-11-23T10:11:22+00:00",
+      "summary": "Anthropic 數學家與 Claude 合作完成黎曼猜想的證明，並獲得 Lean 社群官方確認無誤。這展示了 AI 結合形式化驗證工具在破解頂尖科學與數學難題上的強大實用價值。",
+      "category": "研究論文",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Stop reviewing AI drafts by vibes. Give editorial QA a test fixture.",
+      "link": "https://dev.to/nexvolu/stop-reviewing-ai-drafts-by-vibes-give-editorial-qa-a-test-fixture-3od4",
+      "published": "2026-11-23T03:27:24+00:00",
+      "summary": "本文主張不應憑感覺評估 AI 生成內容，應建立包含標準輸入與限制條件的品管測試集（Test Fixture）。透過客觀記錄 AI 生成缺失，能大幅提升 Prompt 設計與 LLM 輸出的品質掌控。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "MCP Server Backup and Disaster Recovery: A Practical Plan",
+      "link": "https://dev.to/jeff_pdc/mcp-server-backup-and-disaster-recovery-a-practical-plan-3mkh",
+      "published": "2026-11-23T03:27:11+00:00",
+      "summary": "文章針對 MCP（模型上下文協定）伺服器提出實用的備份與災難復原架構規劃。這對於維持 MCP 部署的狀態、金鑰與設定安全至關重要，能防止系統崩潰時資料遺失。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "fusion-mcp"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Name the proxy: instrument metadata in a market breadth skill",
+      "link": "https://dev.to/prascli/name-the-proxy-instrument-metadata-in-a-market-breadth-skill-1o76",
+      "published": "2026-11-23T03:21:08+00:00",
+      "summary": "分析 GitHub Trending 上爆紅的 Claude-BugHunter 等 Agent Skills 套件。展示了如何為 AI Agent 模組化擴充技能，提升自動化程式開發效率。",
+      "category": "社群討論",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "My Honest 2026 AI Stack for Mac: Only 6 Tools Survived",
+      "link": "https://medium.com/@madebypixels3/my-honest-2026-ai-stack-for-mac-only-6-tools-survived-2d267778a55f?source=rss------artificial_intelligence-5",
+      "published": "2026-11-23T03:16:13+00:00",
+      "summary": "作者分享將原本超過 20 個 AI 工具精簡至 6 個核心工具的 Mac 工作流經驗。這提供了高效率 AI 工具組合與日常工作流程整合的實用參考。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Manamancers, twice: from a 2014 Flash game to 3D duels",
+      "link": "https://medium.com/@punygames/manamancers-twice-from-a-2014-flash-game-to-3d-duels-79cc984de577?source=rss------artificial_intelligence-5",
+      "published": "2026-11-23T03:14:09+00:00",
+      "summary": "作者分享如何與 AI 協作，將 2014 年的 Flash 老遊戲重構成 3D 對戰遊戲。展示了 AI 在跨技術棧程式編寫與 3D 遊戲開發中的實戰價值。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "webgl"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published": "2026-11-21T17:00:00+00:00",
+      "summary": "盤點多款能直接嵌入簡訊系統的主流 AI Agent，涵蓋日常助理、家庭與工作範疇。這展示了 AI 代理人無縫整合至日常生活與通訊工作流的實際落地形式。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
+      "link": "https://www.ithome.com.tw/news/180697",
+      "published": "2026-11-23T11:11:02+00:00",
+      "summary": "駭客利用 AI 攻擊框架 Cairn 在 11 分鐘內發現並入侵開源醫療影像 AI 軟體 MONAI Label 的零時差漏洞。這顯示 AI 代理人已能高度自動化地用於挖掘漏洞與執行網路攻擊。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Signal將封鎖手機版Siri、Gemini螢幕截圖",
+      "link": "https://www.ithome.com.tw/news/180698",
+      "published": "2026-11-23T10:11:38+00:00",
+      "summary": "加密通訊軟體 Signal 宣布將在 iOS 與 Android 版封鎖 Siri 與 Gemini 等系統內建 AI 代理人的螢幕截圖功能。這反映出個人隱私防護與系統級 AI 自動截圖讀取之間的衝突加劇。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "A beginner's guide to the Inkling-2-Mini model by Thinkingmachines on Huggingface",
+      "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-inkling-2-mini-model-by-thinkingmachines-on-huggingface-47nj",
+      "published": "2026-11-23T03:26:06+00:00",
+      "summary": "Thinking Machines 發布了採 Apache 2.0 授權的開源多模態模型 Inkling-2-Mini，支援文字與圖像輸入。該模型可用於對話、程式碼助手及 AI Agent 部署，適合開發者做輕量化整合。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "I Tested ElevenLabs AI Dubbing on a 13-Second Clip: Real Credit Cost, Voice Quality, and Whether…",
+      "link": "https://medium.com/@a15651560186/i-tested-elevenlabs-ai-dubbing-on-a-13-second-clip-real-credit-cost-voice-quality-and-whether-7e0b4209056a?source=rss------artificial_intelligence-5",
+      "published": "2026-11-23T03:24:46+00:00",
+      "summary": "作者實測 ElevenLabs AI 語音配音功能，分析實際點數花費與聲音品質表現。這有助於評估生成式語音工具在跨語言內容製作上的實用性與成本控制。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Your Vibe-Coded Site Has No CMS. I Wrote a Scanner for Hardcoded Business Facts.",
+      "link": "https://dev.to/polydraft/your-vibe-coded-site-has-no-cms-i-wrote-a-scanner-for-hardcoded-business-facts-2aei",
+      "published": "2026-11-23T03:24:33+00:00",
+      "summary": "針對 AI 自動生成（Vibe-coded）網站缺乏 CMS 導致維護困難的痛點，作者開發工具掃描硬編碼資訊。這揭示了 AI 輔助開發後的維護需求與改進方向。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Claude vs ChatGPT: Pick the Draft You’d Actually Send",
+      "link": "https://nexvolu.medium.com/claude-vs-chatgpt-pick-the-draft-youd-actually-send-10f8b40ed80f?source=rss------artificial_intelligence-5",
+      "published": "2026-11-23T03:23:32+00:00",
+      "summary": "比較 Claude 與 ChatGPT 在寫作生成品質上的差異，並提供個人評估產出的實用架構。有助於依據工作需求選用合適的 AI 寫作助手。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How to Check an x402 Endpoint Before Paying",
+      "link": "https://dev.to/book0feli/how-to-check-an-x402-endpoint-before-paying-1b3o",
+      "published": "2026-11-23T03:21:15+00:00",
+      "summary": "介紹 Lumière PayCheck 工具，讓 AI Agent 在透過 x402 協議付費前驗證端點安全性。這為自主 AI Agent 提供防範交易詐騙的安全機制。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Armin Ronacher’s Long Agent Tasks Now Run 14 Minutes. How Long Do Yours?",
+      "link": "https://aiadvances.org/armin-ronachers-long-agent-tasks-now-run-14-minutes-how-long-do-yours-7f5b5925ead7?source=rss------artificial_intelligence-5",
+      "published": "2026-11-23T03:17:47+00:00",
+      "summary": "探討 AI Agent 執行長時複雜任務的運作時間與架構挑戰。幫助了解複雜自動化 Agent 在實際應用中的效能瓶頸與設計思考。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "published": "2026-11-22T17:25:20+00:00",
+      "summary": "知名遊戲《以撒的結合》因嵌入 Suno 生成的 AI 音樂引發社群負評，開發者最終選擇將其移除。這反映出當前創作社群對生成式 AI 內容商業化應用的強烈敏感度與爭議。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "published": "2026-11-21T16:00:00+00:00",
+      "summary": "好萊塢演員開始授權自己的 AI 數位臉孔給微短劇新創公司，開創影視製作新模式。這展示了生成式視覺與數位分身技術在影音產業中的新型商業案例。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Can Anthropic afford to put safety first?",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "published": "2026-11-21T15:00:00+00:00",
+      "summary": "本篇討論 Anthropic 首次公開發行（IPO）後，如何在商業競爭壓力下維持「安全優先」的理念。這攸關 Claude 開發團隊未來的研發資源分配與模型營運方向。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "«AI Made in Morocco»: الدولة تراهن بالمليارات على الذكاء الاصطناعي — ماذا يعني ذلك لمقاولتك؟",
+      "link": "https://dev.to/manadgertech/-ldwl-trhn-blmlyrt-l-ldhk-lstny-mdh-yny-dhlk-lmqwltk-23he",
+      "published": "2026-11-23T03:28:07+00:00",
+      "summary": "摩洛哥政府公布「AI Made in Morocco」國家戰略，預計動用 25 億迪拉姆扶植 AI 新創與基礎設施。此計畫旨在建立區域性 AI 研發生態系並加速企業數位轉型。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "OpenAI Wants an AI Speed Limit. One Dial Cannot Tell the Whole Story.",
+      "link": "https://medium.com/@aakashdas007/openai-wants-an-ai-speed-limit-one-dial-cannot-tell-the-whole-story-6b93e7f93da8?source=rss------artificial_intelligence-5",
+      "published": "2026-11-23T03:15:54+00:00",
+      "summary": "討論 OpenAI 首席科學家提出設定 AI 發展安全界限的建議與爭議。分析產業監管政策如何影響未來的 AI 技術推進方向。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "published": "2026-11-23T01:25:53+00:00",
+      "summary": "報導 Notable Capital 等投資機構在 Anthropic 首次公開發行前押注數十億美元的內幕。這展現了資本市場對 Anthropic 技術實力與商業前景的高度信心。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "published": "2026-11-22T21:14:07+00:00",
+      "summary": "OpenAI 首席科學家針對如何設定與衡量 AI 開發速度極限提出看法。這反映了業界在平衡 AI 技術創新速度與安全性評估上的努力。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "published": "2026-11-22T00:00:00+00:00",
+      "summary": "OpenAI 探討困惑度（Perplexity）如何作為評估 AI 模型能力的量化指標。這有助於開發者建立統一的評測標準來衡量新興 AI 模型的能力發展。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "published": "2026-11-21T21:37:10+00:00",
+      "summary": "加密通訊軟體 Signal 開始限制行動端截圖功能，以應對 AI 數據採集與監控的威脅。這代表防範 AI 隱私侵犯已成為軟體產品設計的重要考量。",
+      "category": "工具更新",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "published": "2026-11-21T21:07:42+00:00",
+      "summary": "對比 Nvidia 亮眼的財報表現與科技高層對晶片過度依賴的反思。這展現了 AI 算力供應鏈中壟斷現狀帶來的產業焦慮。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "We haven’t seen the last of the major tech outages",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "published": "2026-11-22T22:48:02+00:00",
+      "summary": "分析近期全美 FAA、Outlook 及摩根大通接連發生的系統崩潰事件，警示科技基礎設施面臨的持續性風險。這突顯了關鍵業務過度依賴單一數位系統的隱患。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "published": "2026-11-22T18:08:43+00:00",
+      "summary": "探討大型科技公司過度擴建資料中心所引發的環境與社會反彈。這顯示出算力需求激增背後付出的基礎設施與能源代價。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "published": "2026-11-21T20:03:37+00:00",
+      "summary": "聯合國代表就自主武器（致命機器人）規範的談判陷入停滯，僅同意繼續討論選項。這顯示出國際社會在限制 AI 軍事化應用上缺乏實質共識。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
