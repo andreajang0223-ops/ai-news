@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T06:56:28.813825+00:00",
+  "count": 39,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "I Built a Free Zero-Signup XML Super-Prompt, CLAUDE.md & .cursorrules Compiler (+ Open-Sourced 10 Production Templates)",
+      "link": "https://dev.to/nordforgestudio/i-built-a-free-zero-signup-xml-super-prompt-claudemd-cursorrules-compiler-open-sourced-10-19e1",
+      "published": "2026-11-24T06:48:34+00:00",
+      "summary": "作者開源了一套免費免註冊的 XML 提示詞編譯器，並提供 10 組可用於 CLAUDE.md 與 .cursorrules 的專案規範範本。這能大幅降低 Claude Code 與 Gemini 等模型生成胡亂修改程式碼的機率，顯著提升 AI 輔助開發的精準度。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "claude-code",
+        "gemini",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "published": "2026-11-23T22:05:50+00:00",
+      "summary": "Anthropic 推出全新開發工具 Claude Ship，讓 AI Agent 能自動進行程式碼審查、修復問題並批准 PR。這能大幅減少開發者處理常規 Code Review 的負擔，直接提升軟體自動化開發效率。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "published": "2026-11-23T20:00:00+00:00",
+      "summary": "Anthropic 發布 Claude Ship 新功能，使 Claude 具備自動審查 Pull Request 與部署程式碼修正的能力。這代表 Agentic Coding 邁向自主修補與部署的新階段，大幅改善軟體工程工作流程。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Why My AI Publishing Agent Kept Repeating the Same Mistake",
+      "link": "https://dev.to/lena-money/why-my-ai-publishing-agent-kept-repeating-the-same-mistake-53lg",
+      "published": "2026-11-24T06:46:53+00:00",
+      "summary": "作者分享開發 AI 出版 Agent 時處理指令遵循偏差與上下文邏輯問題的實戰經驗。這對於設計複雜 AI Agent 流程與構建穩定 Prompt 機制非常有參考價值。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "10 Tips for Getting Natural-Sounding AI Voice Output",
+      "link": "https://dev.to/voice_developer/10-tips-for-getting-natural-sounding-ai-voice-output-362",
+      "published": "2026-11-24T06:43:22+00:00",
+      "summary": "文章分享 10 個讓 AI 語音輸出更為自然流暢的實務技巧，並示範如何在 ElevenLabs 中進行調整。這些 Prompt 與參數調校技巧對於打造高品質語音導覽或產品原型很有幫助。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "✈️ Hellcats Over The Pacific — Reconstruire un jeu de 1991 avec l'IA, sans écrire une ligne de code",
+      "link": "https://dev.to/matyo91/hellcats-over-the-pacific-reconstruire-un-jeu-de-1991-avec-lia-sans-ecrire-une-ligne-de-code-41lk",
+      "published": "2026-11-24T06:43:11+00:00",
+      "summary": "作者利用 Claude Code 配合逆向工具與 Godot 引擎，在完全沒寫程式碼的情況下成功將 1991 年的 Mac 遊戲重構至瀏覽器執行。這展現了 Agentic Coding 在舊專案移植與自動化開發上的強大實用價值。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Stop Paying $60/mo for AI Subscriptions: 4 Official Card-Free API Portals in 2026",
+      "link": "https://dev.to/tomtoptomtop/stop-paying-60mo-for-ai-subscriptions-4-official-card-free-api-portals-in-2026-3h1o",
+      "published": "2026-11-24T06:43:04+00:00",
+      "summary": "文章整理了包括 Google AI Studio 在內的 4 個官方免費 API 入口，讓開發者免綁信用卡即可調用 Gemini 等模型。這對於需要進行程式研發與工具自動化、想節省每月訂閱費用的學生相當實用。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "gemini",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Claude Code Cost: What Teams Actually Spend and How to Control It",
+      "link": "https://dev.to/unmeshed/claude-code-cost-what-teams-actually-spend-and-how-to-control-it-2e70",
+      "published": "2026-11-24T06:42:03+00:00",
+      "summary": "本文分析了團隊使用 Claude Code 的實際費用結構與成本暴增的主因，並提供具體的控制策略。這能協助開發者在利用 AI 進行 Agentic Coding 時建立優化的使用流程並控制 API 預算。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "OpenAI將電腦使用代理人提供給醫療業",
+      "link": "https://www.ithome.com.tw/news/180749",
+      "published": "2026-11-24T01:11:45+00:00",
+      "summary": "OpenAI 將具備電腦操作能力的 AI 代理人引進醫療版 ChatGPT，能模擬人類操作電腦執行自動化流程。這代表電腦使用代理人已開始進入專業領域解決實際的行政與流程痛點。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "published": "2026-11-22T21:01:16+00:00",
+      "summary": "這是一份實用的本地端 AI 部署教學，介紹如何結合 Inkling、Qwen 模型與 Unsloth 進行微調與運算。它大幅降低了個人開發者在本地端運行高效率 AI 模型與實作應用的門檻。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Integrating ElevenLabs with Next.js: Step-by-Step Guide",
+      "link": "https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-2h4n",
+      "published": "2026-11-24T06:48:34+00:00",
+      "summary": "本文提供將 ElevenLabs 語音 AI 整合至 Next.js 專案的步驟教學，協助開發者為 Web 應用加入高品質語音生成功能。這能幫助建立更具互動感的產品原型與使用者體驗。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The Librarian Who Never Guessed: A Story About How RAG Actually Works",
+      "link": "https://medium.com/@hkabhi916/the-librarian-who-never-guessed-a-story-about-how-rag-actually-works-111a1d00ffea?source=rss------artificial_intelligence-5",
+      "published": "2026-11-24T06:48:06+00:00",
+      "summary": "文章以圖書管理員作比喻，淺顯易懂地說明檢索增強生成（RAG）的運作原理與實務架構。這有助於理解如何讓 AI 生成結果精確連結外部真實資料。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "What 180 AI tools actually charge at the door",
+      "link": "https://medium.com/@ai-saasradar/what-180-ai-tools-actually-charge-at-the-door-edf14c0816f8?source=rss------artificial_intelligence-5",
+      "published": "2026-11-24T06:46:33+00:00",
+      "summary": "這篇文章整理並分析了 180 款 AI 工具的定價策略與計費隱藏陷阱。這能幫助使用者在選擇 AI 工具與評估專案訂閱成本時提供客觀依據。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Meet QSourceAI: An AI Interview Assistant Built for Your Next Career Move",
+      "link": "https://dev.to/mcwilton/meet-qsourceai-an-ai-interview-assistant-built-for-your-next-career-move-5ef7",
+      "published": "2026-11-24T06:46:15+00:00",
+      "summary": "開發者介紹了 QSourceAI 這款專為求職者設計的 AI 面試實時 Copilot 與教練工具。此案例展示了如何將 LLM 應用於即時應答輔導與職涯準備的情境中。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "The AI Video Market Just Had Its Shakeout Moment — Here’s What Comes Next",
+      "link": "https://medium.com/@atul.madan67/the-ai-video-market-just-had-its-shakeout-moment-heres-what-comes-next-4d12f6ff9e15?source=rss------artificial_intelligence-5",
+      "published": "2026-11-24T06:43:44+00:00",
+      "summary": "本文分析 Sora 發布以來 AI 影片生成市場的洗牌現況與未來發展趨勢。這有助於掌握生成式影音技術在視覺創作與設計流程中的演進脈絡。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Google Just Made Its AI Assistant Free",
+      "link": "https://medium.com/@jeetlahauk/google-just-made-its-ai-assistant-free-016338fba990?source=rss------artificial_intelligence-5",
+      "published": "2026-11-24T06:41:24+00:00",
+      "summary": "Google 將其 AI 助手改為免費提供，並賦予自動撥打電話與支付帳單的實際執行能力。這代表 AI 代理人正從純對話進步到能替使用者執行具體的日常任務。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "DeepSeek for Writing Stories After the New Limits: 4 Ways",
+      "link": "https://medium.com/write-a-catalyst/deepseek-for-writing-stories-after-the-new-limits-4-ways-383de6949e1f?source=rss------artificial_intelligence-5",
+      "published": "2026-11-24T06:39:27+00:00",
+      "summary": "文章分享了 DeepSeek 調整免費版與 API 限制後，進行故事創作的 4 個因應策略與提示詞調整技巧。這能幫助創作者在模型規則改變時迅速調校 Prompt 與寫作工作流程。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "Amazon收購Decart AI運算最佳化技術，延攬核心研發團隊",
+      "link": "https://www.ithome.com.tw/news/180751",
+      "published": "2026-11-24T01:11:00+00:00",
+      "summary": "Amazon 收購 AI 新創 Decart 的運算最佳化技術與團隊，藉此提升自研 AI 晶片效能並降低推論與訓練成本。這展現了雲端大廠透過技術整合降低 AI 使用成本的產業動態。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "published": "2026-11-23T22:02:05+00:00",
+      "summary": "新創公司 Supertake 籌得 2000 萬美元，利用 AI Agent 將使用者的市場預測直接轉化為實際股票投資組合。這展示了 AI Agent 將抽象概念轉化為自動化執行流程的金融應用案例。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "published": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI 與思科合作推出開源 Linux 運行時工具 Shirudo，協助團隊在部署系統修補程式時保護運行中的系統。這是 AI 領導廠商投入系統維護與資安自動化的開源工具應用。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Connected intelligence for in-house legal",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "OpenAI 與法律專家探討企業法務團隊如何利用 AI 建立可複用的工作流程與處理商業情境。這展示了 AI 自動化工作流程在專業領域的實際落地應用。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Richpanel 展示如何透過 AI Agent 整合工具與作業流程，在 30 天內自動化 50% 的客戶支援需求。這展現了 AI 代理人技術在真實業務場景中的驚人效率與整合價值。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "How to build and maintain an agentic evaluation",
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "published": "2026-11-23T00:00:00+00:00",
+      "summary": "Hugging Face 介紹如何為 AI Agent 建立與維護評估機制，以確保 Agent 執行複雜任務時的穩定性。這對於建構可靠的 AI 工具與自動化工作流程具有重要參考價值。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "link": "https://github.com/gulivan/worker755",
+      "published": "2026-11-22T13:56:58+00:00",
+      "summary": "社群創作者開發了一款將玩家設定為「LLM 子代理人（Subagent）」的互動遊戲。這項創意的社群專案以有趣的方式反轉人機互動，幫助使用者直覺理解 LLM 代理人的運作邏輯。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "link": "https://simonwillison.net/2026/Nov/21/muru/",
+      "published": "2026-11-22T09:57:01+00:00",
+      "summary": "mod_WSGI 創作者藉由 AI 輔助寫作開發出 Muru，這是一款專為 Python 應用設計的 Rust 伺服器。這展示了利用 AI 輔助開發進行跨語言、高效率系統程式設計的實戰案例。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": [
+        "python-automation"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "H-Net: Researchers Just Built an AI That Learns Without a Tokenizer",
+      "link": "https://medium.com/@ammanakhtar8/h-net-researchers-just-built-an-ai-that-learns-without-a-tokenizer-2ce4667ab77f?source=rss------artificial_intelligence-5",
+      "published": "2026-11-24T06:41:01+00:00",
+      "summary": "研究人員提出無需 Tokenizer 的 H-Net 模型架構，讓 AI 能自主學習切割資訊。這屬於大型語言模型底層機制的基礎研究，對實務應用影響較為遠期。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "published": "2026-11-23T22:25:12+00:00",
+      "summary": "報導關於輝達執行長黃仁勳在經歷醜聞後重返職位的政治與商業轉折。此事件凸顯了輝達高層動態對全球 AI 產業供應鏈的潛在影響。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "published": "2026-11-23T22:10:32+00:00",
+      "summary": "輝達董事會在醜聞爭議後重新任用黃仁勳擔任執行長，未來發展引發關注。這反映了全球 AI 晶片巨頭在企業治理與領導層上的最新動態。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "published": "2026-11-23T22:09:26+00:00",
+      "summary": "評論文章討論黃仁勳回歸輝達背後的政治力量介入與企業管理爭議。此消息主要關注商業政治層面，對實際 AI 技術與應用無直接影響。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "published": "2026-11-23T21:30:44+00:00",
+      "summary": "美國多州起訴 SpaceX，要求阻止其 AI 模型 Grok 生成違法與不當圖像。這凸顯了 AI 圖像生成工具在安全防護機制與法規審查上的嚴重爭議。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "published": "2026-11-23T21:09:37+00:00",
+      "summary": "聯合國氣候大會聚焦討論 AI 資料中心暴增的耗電量對全球清潔能源轉型的衝擊。這反映了 AI 基礎設施擴建與環境永續發展之間的巨大挑戰。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "link": "https://0rwx.com/",
+      "published": "2026-11-22T23:53:00+00:00",
+      "summary": "作者提出一種借用 Unix 權限（0rwx）概念的 AI 使用授權模型，用於規範與控管 AI 的存取權限。這為 AI 工具設計與工作流程中的安全控管提供了簡單直覺的思維架構。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI is becoming a disaster for the climate",
+      "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "published": "2026-11-22T12:19:46+00:00",
+      "summary": "文章探討 AI 運算爆發性成長對環境與電力消耗帶來的嚴峻挑戰。這項產業動態提醒開發者在規模化應用 AI 時需考慮能源與永續成本。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "How Connected Devices Are Making Our World Smarter",
+      "link": "https://medium.com/@arooba.aiotinsights/how-connected-devices-are-making-our-world-smarter-ce9c92de2a0d?source=rss------artificial_intelligence-5",
+      "published": "2026-11-24T06:40:55+00:00",
+      "summary": "文章簡述物聯網與連網設備如何減少傳統工廠人工巡檢與倉儲搜尋工時。內容偏向傳統物聯網概念的泛泛介紹，缺乏具體的 AI 工具與導入案例。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Certified, but Not Understood: What a Machine-Checked Proof Teaches Engineers",
+      "link": "https://medium.com/write-a-catalyst/certified-but-not-understood-what-a-machine-checked-proof-teaches-engineers-730c7ead25e1?source=rss------artificial_intelligence-5",
+      "published": "2026-11-24T06:40:54+00:00",
+      "summary": "探討機器檢查證明系統取代傳統人工理解時對工程師思維帶來的挑戰。屬於軟體工程方法論與思辨討論，非具體的 AI 工具操作教學。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "published": "2026-11-23T21:47:41+00:00",
+      "summary": "科技界知名人士如馬斯克對黃仁勳重返輝達執行長職位表示支持。報導主要記錄高層回歸後的業界反應，無涉及技術應用。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "published": "2026-11-23T21:25:42+00:00",
+      "summary": "捲入黃仁勳醜聞的公司 Megaspeed 面臨被美國政府列入黑名單的風險。此事件屬於地緣政治與供應鏈管制的範疇。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "published": "2026-11-23T20:38:53+00:00",
+      "summary": "輝達員工熱情歡迎黃仁勳重返總部，黃仁勳承諾將帶來更出色的領導。報導主要呈現企業內部文化與員工反應。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Hacker News",
+      "title": "Harvard CS 2881R AI Safety",
+      "link": "https://boazbk.github.io/mltheoryseminar/",
+      "published": "2026-11-22T18:01:54+00:00",
+      "summary": "哈佛大學開辦 AI 安全性研討會（CS 2881R），分享 AI 對齊與安全性的理論研究。內容偏向學術討論與理論分析，缺乏直接的實務工具應用價值。",
+      "category": "研究論文",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
