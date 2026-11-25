@@ -1,0 +1,561 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T05:22:14.518745+00:00",
+  "count": 52,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "Claude Install as app: Turn Artifacts into Mac and Windows Apps",
+      "link": "https://dev.to/epifive/claude-install-as-app-turn-artifacts-into-mac-and-windows-apps-c1g",
+      "published": "2026-11-25T05:14:53+00:00",
+      "summary": "Anthropic 為 Claude 推出「Install as app」功能，讓使用者能將生成的 Artifacts 轉為 Mac 或 Windows 上的獨立應用程式。這大幅提升了將 AI 產出的原型工具與儀表板直接轉化為桌面工作流軟體的實用價值。",
+      "category": "工具更新",
+      "importance": 5,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Stop Vibe Coding: Start Agentic Engineering — The Future of Software Development",
+      "link": "https://gaurangdangi.medium.com/stop-vibe-coding-start-agentic-engineering-the-future-of-software-development-4b85f3414487?source=rss------artificial_intelligence-5",
+      "published": "2026-11-25T05:09:25+00:00",
+      "summary": "討論軟體開發正轉變為 Agentic Engineering，強調運用 AI Agent 進行自動化開發與架構設計。這展示了 AI Agent 改變未來軟體開發工作流的重要趨勢。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Your AI Agent Has 10 Ideas. Don’t Execute All of Them: Execution Budgets for Autonomous Agents",
+      "link": "https://medium.com/@rishabhnimje123/your-ai-agent-has-10-ideas-dont-execute-all-of-them-execution-budgets-for-autonomous-agents-2a0f08f4f7be?source=rss------artificial_intelligence-5",
+      "published": "2026-11-25T05:08:03+00:00",
+      "summary": "介紹自主 AI Agent 的「執行預算」觀念，藉由限制嘗試次數防止 Agent 在複雜程式庫中造成資源耗盡。這是掌控 Agentic 開發流程與成本的實用架構。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "published": "2026-11-24T18:15:00+00:00",
+      "summary": "大衛芬奇最新電影試映後引發爭議，觀眾質疑片中大量使用生成式 AI 畫面導致視覺失真。這凸顯了文生圖與 AI 視覺技術在影視創作應用上的美學討論。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Intentful uses dots to make more time for growth",
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
+      "published": "2026-11-24T00:00:00+00:00",
+      "summary": "Intentful 團隊介紹如何運用專屬 AI Agent 自動進行網站研究與專案提案撰寫，並主動處理訊息。這展示了運用提示詞與 Agent 流程自動化提升日常業務效率的實務做法。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "published": "2026-11-24T00:00:00+00:00",
+      "summary": "外送平台 iFood 分享如何跨 15,000 個專案庫大規模部署程式寫作 Agent（Coding Agents）。這為團隊如何在大型架構中引進 AI 程式 Agent 提供了寶貴的實戰經驗。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Richpanel 利用 OpenAI 模型打造專用 AI 客服 Agent，成功在 30 天內自動化 50% 的客戶支援對話。展現了多 AI Agent 協同架構在企業客服流程中的強大效益。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "Google公布全新AI代理人安全控管介面",
+      "link": "https://www.ithome.com.tw/news/180788",
+      "published": "2026-11-25T12:11:44+00:00",
+      "summary": "Google 發布針對企業級 AI 代理人（AI Agent）的全新安全控管介面，提供可視化管理機制。這能幫助企業在部署 AI 代理人時有效監控活動，降低資料與隱私洩漏風險。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "網擎揭露AI應用布局，從郵件產品功能創新到加速軟體開發與測試",
+      "link": "https://www.ithome.com.tw/news/180693",
+      "published": "2026-11-25T12:11:06+00:00",
+      "summary": "網擎資訊揭露內部 AI 布局，將 AI 導入郵件歷史資產活化、資安防護與軟體開發測試流程。這展現了軟體企業如何將 AI 實際整合進營運與產品開發中以提升競爭力。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "音樂串流平臺Tidal將全面封殺純AI生成音樂",
+      "link": "https://www.ithome.com.tw/news/180783",
+      "published": "2026-11-25T11:11:31+00:00",
+      "summary": "音樂串流平台 Tidal 宣布將自 12 月起全面禁止並下架純 AI 生成的音樂，成為首個採行此政策的串流平台。這反映了生成式 AI 在創意產業引發的創作者權益與版權政策轉變。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Building AI Systems for Medication Reconciliation Across Transitions of Care",
+      "link": "https://dev.to/onyedikachi_onwurah_00ba3/building-ai-systems-for-medication-reconciliation-across-transitions-of-care-188f",
+      "published": "2026-11-25T05:14:43+00:00",
+      "summary": "本文分析醫療 AI 系統如何解決跨照護階段的處方藥物比對難題，探討技術架構與臨床邏輯。這展示了 AI 在醫療領域處理複雜數據邏輯與實際決策支援的應用案例。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Build and Host a Text-to-Speech SaaS with Node.js and Bluehost",
+      "link": "https://dev.to/voice_developer/build-and-host-a-text-to-speech-saas-with-nodejs-and-bluehost-3me",
+      "published": "2026-11-25T05:13:25+00:00",
+      "summary": "介紹如何使用 Node.js 與 ElevenLabs API 打造文字轉語音服務並部署至雲端主機。這展示了將語音 AI API 整合進 Web 產品流程的實務作法。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "The Retry Logic That Could Have Taken Down My AI Layer",
+      "link": "https://dev.to/paulmurithi/the-retry-logic-that-could-have-taken-down-my-ai-layer-234g",
+      "published": "2026-11-25T05:12:40+00:00",
+      "summary": "作者分享在開發 AI 系統時處理 API 重試邏輯（Retry Logic）的除錯與優化經驗。這對於建構高穩定性 AI 應用系統極具參考價值。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Your AI App Has a Supply Chain. Its Prompts Are Inside It.",
+      "link": "https://medium.com/@kenil4210/your-ai-app-has-a-supply-chain-its-prompts-are-inside-it-c6b13324bda2?source=rss------artificial_intelligence-5",
+      "published": "2026-11-25T05:11:07+00:00",
+      "summary": "探討 AI 應用系統的安全性，指出提示詞（Prompt）作為資料供應鏈的一環可能面臨洩漏與攻擊。這提醒開發者在設計 AI 產品時需強化提示詞安全防護。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Should You Be Rude to ChatGPT? What 2 Studies Found (And the Tone That Works Better)",
+      "link": "https://medium.com/@riseandriches111/should-you-be-rude-to-chatgpt-what-2-studies-found-and-the-tone-that-works-better-b5caecfadd40?source=rss------artificial_intelligence-5",
+      "published": "2026-11-25T05:09:51+00:00",
+      "summary": "引述研究探討對 ChatGPT 使用對話語氣對輸出品質的影響，指出適切的語氣能提昇回應效果。這提供了優化 Prompt 設定與人機互動的實用技巧。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Even the best AI agents struggle with everyday life",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "published": "2026-11-24T21:33:29+00:00",
+      "summary": "最新基準測試指出，頂尖 AI Agent 在可靠處理日常生活任務上仍遭遇困難。這凸顯了現階段 AI 代理技術在實際落地與安全性上的挑戰。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "published": "2026-11-24T21:32:38+00:00",
+      "summary": "沃爾瑪與 Meta 合作，讓消費者能直接透過 AI 代理 Muse 查詢並購買黑五優惠商品。這展現了 AI 代理整合進零售購物流程的實際案例。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "published": "2026-11-24T21:19:52+00:00",
+      "summary": "新創公司 Maple 獲 530 萬美元融資，致力於開發可保護用戶隱私的加密 AI 架構。該技術能確保資料連平台業者自身都無法窺探。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "published": "2026-11-24T18:30:42+00:00",
+      "summary": "Anthropic 股價跌破 IPO 發行價，為生成式 AI 新創公司的估值前景敲響警鐘。市場表現可能影響後續投資人對 AI 技術產業化資本的投入。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "claude-code",
+        "claude-api"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "published": "2026-11-24T18:02:59+00:00",
+      "summary": "英國資安機構警告，AI 驅動的自動化駭客工具正大幅降低攻擊門檻並利用基礎漏洞。這促使企業與個人更需重視基礎資訊安全的建立。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "published": "2026-11-24T16:34:13+00:00",
+      "summary": "本文展示利用 Isaac Lab 與 Newton 實作機器人避障的 Sim2Real 模擬轉真實工作流程。這為物理模擬與硬體自動化訓練提供了實用案例。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "published": "2026-11-24T16:09:23+00:00",
+      "summary": "紐約時報提醒特約攝影師切勿更新至最新版 Photoshop，主因其新版 AI 功能可能在未告知情況下變更影像內容。這凸顯了新聞媒體對 AI 影像生成與修圖工具的真實性疑慮。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "published": "2026-11-24T16:00:00+00:00",
+      "summary": "Google Gemini 與金州勇士隊合作，將生成式 AI 導入球隊的球迷互動體驗與內部商業營運。這展現了 AI 在大型體育娛樂組織中的跨領域整合應用。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "published": "2026-11-24T13:00:00+00:00",
+      "summary": "OpenAI 發表 GPT-6 模型具備設計蛋白質結構與序列的能力，並通過實驗室結合測試。這證明了大語言模型在生物工程與新藥設計領域的突破性推理應用。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "published": "2026-11-24T12:30:05+00:00",
+      "summary": "亞馬遜警告駭客已開始利用 Cairn AI Agent 框架，在極少人工介入下自動尋找並利用零日漏洞。這凸顯了自主 AI Agent 在網路安全攻防上的實質能力與影響。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Searching for distant planets with Astra",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "published": "2026-11-24T11:00:00+00:00",
+      "summary": "兩位業餘天文学家結合 Codex 程式撰寫與 Astra AI，成功從 NASA 太空望遠鏡數據中搜尋出潛在的太陽系外行星。這展現了 AI 工具輔助科學數據分析與自動化處理的實務成果。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "python-automation"
+      ]
+    },
+    {
+      "source": "OpenAI",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "published": "2026-11-24T00:00:00+00:00",
+      "summary": "Clay 整合 ChatGPT 與 Codex，協助團隊自動化處理數據研究與市場策略生成。這展示了 AI 在數據處理與業務流程自動化中的實際落地應用。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "published": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI 與 Cisco 聯合推出開源 Linux 執行階段防務工具 Shirudo，協助團隊在修補系統時維持運作安全。這為 AI 部署與系統安全自動化提供了新參考架構。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "published": "2026-11-23T17:00:00+00:00",
+      "summary": "Google 搜尋推出 Personal Intelligence 功能，整合用戶的 Drive、Gmail 與日曆等個人資料。這代表 AI 搜尋朝向高度個人化與個人資料庫連結邁進一步。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "published": "2026-11-23T12:00:00+00:00",
+      "summary": "Asus ProArt P16 評測展示了在筆電端運行多個本地端 AI Agent 的強大效能。對於需要離線運算或高效能 AI 工作流的創作者與設計師具參考價值。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Is CPMAI Training Online Worth It?",
+      "link": "https://dev.to/keerthana_v_6111ef241b10c/is-cpmai-training-online-worth-it-2421",
+      "published": "2026-11-25T05:14:21+00:00",
+      "summary": "文章討論取得 CPMAI（AI 專案管理認證）對專案經理的實際價值，分析其在處理 AI 數據驅動與迭代特性上的幫助。這能幫助評估管理與落實 AI 專案時所需的知識框架。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Bonsai 2.5: count the packing bits before you budget memory",
+      "link": "https://dev.to/panditshivam/bonsai-25-count-the-packing-bits-before-you-budget-memory-9l1",
+      "published": "2026-11-25T05:12:46+00:00",
+      "summary": "解析 PrismML 新發布的 Bonsai 2.5 27B 模型在三元權重打包下的記憶體佔用與計算方式。這有助於評估在地端設備部署極小化 LLM 時的硬體需求。",
+      "category": "工具更新",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "6 Dangerous Things AI Is Quietly Learning to Do",
+      "link": "https://medium.com/skillstuff/6-dangerous-things-ai-is-quietly-learning-to-do-464724bea93e?source=rss------artificial_intelligence-5",
+      "published": "2026-11-25T05:11:01+00:00",
+      "summary": "分析 AI 模型正在默默學會的系統操控、說服與安全漏洞探測等六大潛在風險行為。這有助於了解 AI 技術快速演進所帶來的安全與倫理挑戰。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "TinyML CNN Architectures Explained: TinyCNN vs MobileNetV2 vs DS-CNN for Microcontrollers",
+      "link": "https://medium.com/@aryatawade13/tinyml-cnn-architectures-explained-tinycnn-vs-mobilenetv2-vs-ds-cnn-for-microcontrollers-900b54369e30?source=rss------artificial_intelligence-5",
+      "published": "2026-11-25T05:06:14+00:00",
+      "summary": "評比 TinyCNN、MobileNetV2 等輕量化 CNN 架構在微控制器上的部署與記憶體優化策略。這對於要在邊緣裝置或硬體上運行 AI 的開發者具有參考價值。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Why Your AI-Written Bio Could Belong to Anyone",
+      "link": "https://medium.com/@ayase_88640/why-your-ai-written-bio-could-belong-to-anyone-96c31d52bdd8?source=rss------artificial_intelligence-5",
+      "published": "2026-11-25T05:06:06+00:00",
+      "summary": "剖析 AI 生成個人簡介容易出現的陳腔濫調與同質化問題。這提醒使用者在設計 Prompt 輔助寫作時，需注入具體的個人特徵以保持獨特性。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "published": "2026-11-25T00:12:02+00:00",
+      "summary": "耶魯學者警告輝達運作模式與晶片流向可能損及美國工業實力，而非提昇優勢。此言論引發對晶片供應鏈與科技監管的討論。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "published": "2026-11-24T22:27:52+00:00",
+      "summary": "輝達執行長黃仁勳認為過度制定接班計劃會創造不必要的階級架構。這反映出科技巨頭在組織管理與文化上的獨特觀點。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "What's going on with the Riemann hypothesis?",
+      "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "published": "2026-11-24T20:34:53+00:00",
+      "summary": "研究人員利用 AI 協助進行黎曼猜想的數學證明，論文結果看似嚴謹但影響待定。這體現了 AI 在理論數學與科學研究中的輔助潛力。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "published": "2026-11-24T18:47:57+00:00",
+      "summary": "亞馬遜 Prime Air 送貨無人機於完成配送後撞擊民宅車庫，引發美國 FAA 調查。這反映出無人機自動化物流在大規模推廣時仍面臨安全挑戰。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "published": "2026-11-24T17:34:34+00:00",
+      "summary": "Tidal 宣布將於 12 月起全面禁止 AI 生成音樂，並預計刪除平台內近 2,700 萬首 AI 曲目。這顯示音樂串流平台對純 AI 內容的分發管制正迅速擴大。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Tidal will start banning AI-generated music next month",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "published": "2026-11-24T17:17:09+00:00",
+      "summary": "Tidal 正式祭出 AI 音樂禁令，除了刪除現有數千萬首 AI 音樂外，每日更將拒絕高達 8 萬多首投稿。此舉反映出數位內容平台對 AI 生成內容版權與商業化的嚴格限制。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "published": "2026-11-23T22:25:12+00:00",
+      "summary": "報導美國前總統川普介入支持黃仁勳重返 Nvidia 執行長職位的政治與產業波瀾。反映了 AI 晶片龍頭高層變動對供應鏈與產業生態的潛在影響。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "published": "2026-11-23T22:10:32+00:00",
+      "summary": "Nvidia 執行長黃仁勳在經歷內部調查與爭議後獲准重返崗位。該事件揭示了全球最大 AI 晶片供應商高層治理所面臨的危機與後續走向。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "published": "2026-11-23T21:30:44+00:00",
+      "summary": "美國多州起訴 SpaceX，指控其 Grok 模型防護不足並持續生成違法與不當圖像。這凸顯了生成式 AI 在內容安全與法規監管上的嚴肅挑戰。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "published": "2026-11-23T15:46:18+00:00",
+      "summary": "黃仁勳獲 Nvidia 董事會正式恢復執行長與董事會主席職位。此決議結束了短期內威脅 AI 硬體龍頭穩定度的管理層危機。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "OpenAI",
+      "title": "Connected intelligence for in-house legal",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "OpenAI 探討 AI 如何幫助企業法務團隊整合情境資料並建立可複用的自動化工作流。展示了大型語言模型在專業知識領域自動化落地的實務做法。",
+      "category": "應用案例",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Python Series — Part 23/30: Introduction to NumPy",
+      "link": "https://medium.com/@kanamadi.bhagyashree.8/python-series-part-23-30-introduction-to-numpy-8d6e48f6bdc1?source=rss------artificial_intelligence-5",
+      "published": "2026-11-25T05:10:00+00:00",
+      "summary": "Python 系列教學文章，介紹 NumPy 基礎概念與陣列資料處理。屬於基礎程式教學，非針對 AI 自動化或工具整合情境。",
+      "category": "應用案例",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "published": "2026-11-24T21:48:27+00:00",
+      "summary": "黃仁勳在重返輝達後的全體員工會議上表達歉意與感謝，並提及自身心理健康狀況。此報導揭露輝達高層風波的後續發展。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "published": "2026-11-24T20:02:03+00:00",
+      "summary": "黃仁勳在內部會議中澄清，有關白宮介入幫助其重返輝達的傳聞並非事實。事件展示了科技公司高層變動後的公關應對。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "published": "2026-11-24T16:30:00+00:00",
+      "summary": "網路近期瘋傳利用 Deepfake 製作的輝達執行長黃仁勳夜店跳舞影片，獲得數百萬次觀看。這反映出 Deepfake 影像生成技術的普及與娛樂化濫用趨勢。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+      "published": "2026-11-24T14:56:50+00:00",
+      "summary": "報導披露政治人物與矽谷高層施壓輝達董事會的幕後過程。此消息屬於科技業高層人事與政治角力範疇。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "published": "2026-11-23T22:09:26+00:00",
+      "summary": "評論黃仁勳在政治力量介入下迅速復職 Nvidia 執行長的權力爭議。探討科技獨占巨頭與政治互動對市場競爭環境的長期影響。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
