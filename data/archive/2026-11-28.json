@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T04:41:58.007064+00:00",
+  "count": 29,
+  "items": [
+    {
+      "source": "Dev.to AI",
+      "title": "How to X-Ray Your Local .claude Transcripts for Read Bloat and 5-Minute Cache Cliffs (Free MIT CLI)",
+      "link": "https://dev.to/argoness-prime/how-to-x-ray-your-local-claude-transcripts-for-read-bloat-and-5-minute-cache-cliffs-free-mit-cli-kk",
+      "published": "2026-11-28T04:21:12+00:00",
+      "summary": "提供一套免費的 CLI 工具來分析本地 Claude Code 的對話紀錄，幫助開發者診斷 Token 消耗暴增與快取失效問題。能直接協助使用者降低 Claude Code 營運成本並提升開發效率。",
+      "category": "工具更新",
+      "importance": 4,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "7 On-Device AI Patterns Worth Copying, From Reading TikTok’s Android App",
+      "link": "https://medium.com/@sairamkotha/7-on-device-ai-patterns-worth-copying-from-reading-tiktoks-android-app-352bee0f10e2?source=rss------artificial_intelligence-5",
+      "published": "2026-11-28T04:13:29+00:00",
+      "summary": "從 TikTok Android App 的反向工程中拆解出 7 種值得參考的端側（On-Device）AI 設計模式。對於要在行動 App 或終端裝置整合 AI 功能的開發者極具實戰價值。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "flutter-ai"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "How to Create Claude Skills: A Complete Beginner-to-Expert Masterclass",
+      "link": "https://aitechsafar.medium.com/how-to-create-claude-skills-a-complete-beginner-to-expert-masterclass-b194cb390ad3?source=rss------artificial_intelligence-5",
+      "published": "2026-11-28T04:12:21+00:00",
+      "summary": "這篇文章介紹如何建立與設定 Claude Skills，將常見的重複性工作封裝成可複用的 AI 流程。這能讓設計師與開發者大幅提升日常作業的自動化效率。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "claude-code",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "published": "2026-11-27T14:00:00+00:00",
+      "summary": "介紹使用者如何利用 AI「Vibe-coding」快速替 Android 手機寫出專屬的個人化 Widget 小工具（如公車到站提醒）。這展現了 AI 工具讓非程式專業者也能輕鬆打造符合個人需求的軟體介面與功能。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "published": "2026-11-27T00:00:00+00:00",
+      "summary": "Hugging Face 展示如何在 AWS Trainium3 晶片上部署 LTX-2.5 模型進行高品質 AI 影片生成。這為從事視覺設計與多媒體創作的設計師提供了新的生成式 AI 算力與工具選擇。",
+      "category": "應用案例",
+      "importance": 4,
+      "skills": [
+        "imagen"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "AI Search Optimization Platform: What It Does and How to Choose",
+      "link": "https://dev.to/onedigitalagency/ai-search-optimization-platform-what-it-does-and-how-to-choose-53b6",
+      "published": "2026-11-28T04:29:05+00:00",
+      "summary": "介紹 AI 搜尋最佳化 (AISO) 平臺的作用，說明如何優化內容以利 ChatGPT 與 Gemini 等 AI 工具引用。這有助於了解個人作品或品牌在 AI 時代的搜尋與推薦曝光策略。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "What ProofForge does that most security scanners do not, in plain English (for people who built their app with AI)",
+      "link": "https://dev.to/proofforge_live/what-proofforge-does-that-most-security-scanners-do-not-in-plain-english-for-people-who-built-4fof",
+      "published": "2026-11-28T04:26:08+00:00",
+      "summary": "專為使用 Lovable、v0 等 AI 工具建立的應用程式提供 ProofForge 資安檢測，直接評估線上部署的實際程式碼漏洞。能協助非傳統資安背景的 AI 開發者快速確認作品上市安全性。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "What Changes When AI Takes Human Emotions into Account?",
+      "link": "https://dev.to/logiheart/what-changes-when-ai-takes-human-emotions-into-account-1bao",
+      "published": "2026-11-28T04:24:59+00:00",
+      "summary": "探討在實體 AI 與數位互動中導入同理心與情緒感知對使用者信任的影響。對設計具備人性化互動與引導機制的產品或提示詞架構極具參考價值。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": [
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "The traps that got through were the ones written for us",
+      "link": "https://dev.to/sarnyadefihue/the-traps-that-got-through-were-the-ones-written-for-us-57n9",
+      "published": "2026-11-28T04:24:37+00:00",
+      "summary": "分享在建置 PR Sentry 這類自動化 Code Agent 時，如何設計靜態檢查與測試沙箱等安全邊界。為開發 Agentic Coding 工作流程防禦機制提供寶貴的經驗教訓。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "claude-code"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "PIETER LEVELS: How One Man With No Employees Turns Attention Into Millions",
+      "link": "https://medium.com/@dathaze20/pieter-levels-how-one-man-with-no-employees-turns-attention-into-millions-2c4d8f583069?source=rss------artificial_intelligence-5",
+      "published": "2026-11-28T04:09:21+00:00",
+      "summary": "報導分析知名獨立開發者 Pieter Levels 如何利用自動化工具與極簡流程，在完全不雇用員工的情況下創造數百萬美元營收。這展示了個人創作者結合現代自動化工具進行一人創業的極致可能性。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "python-automation"
+      ]
+    },
+    {
+      "source": "Medium AI",
+      "title": "Harness Engineering: The Missing Layer Behind Reliable AI Agents",
+      "link": "https://medium.com/@sudharsan97511/harness-engineering-the-missing-layer-behind-reliable-ai-agents-f50de2313a5d?source=rss------artificial_intelligence-5",
+      "published": "2026-11-28T04:09:05+00:00",
+      "summary": "本文探討建構可靠 AI Agent 時所需的「控制架構工程」（Harness Engineering），強調單靠 prompt 與 API 調用並不足夠。透過完善系統層面的限制與反饋機制，才能確保 AI 工具在複雜流程中穩定運作。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": [
+        "claude-api",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "source": "iThome",
+      "title": "【資安週報】1123～1127，網銀盜轉手法曝光，第三方資訊服務供應商資安事件延燒至物流與電子發票服務",
+      "link": "https://www.ithome.com.tw/news/180857",
+      "published": "2026-11-27T04:11:04+00:00",
+      "summary": "資安週報報導駭客利用 Cairn AI 攻擊代理框架，在 11 分鐘內自主發現並利用系統零時差漏洞。這展示了 AI Agent 在自動化滲透測試與資安攻防上的強大潛力與風險。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "印度主權AI計畫再添新成果，Chariot-1從零訓練強化多語言能力",
+      "link": "https://www.ithome.com.tw/news/180856",
+      "published": "2026-11-27T03:11:32+00:00",
+      "summary": "印度政府推動的主權 AI 計畫成功從頭訓練並推出多語言基礎模型 Chariot-1。這展現了多語系區域性模型的崛起，有助於在地化 AI 應用開發。",
+      "category": "模型發布",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "published": "2026-11-26T20:03:54+00:00",
+      "summary": "輝達因應美國晶片管制政策，暫停向馬來西亞與泰國等東南亞國家發送 AI 伺服器晶片。這反映出地緣政治將持續影響全球 AI 硬體算力的取得與部署成本。",
+      "category": "產業動態",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "published": "2026-11-26T16:00:00+00:00",
+      "summary": "文章對比 GTA VI 耗費龐大人力製作與 Anthropic 上市，討論人類創意工藝與 AI 追求效率之間的衝突。這引發了關於設計師在 AI 時代的獨特價值與創意權衡的深刻思考。",
+      "category": "社群討論",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "published": "2026-11-26T11:37:17+00:00",
+      "summary": "Hugging Face 推出了針對 AMD Ryzen 與 Radeon 晶片的 llama.cpp 效能基準測試儀表板。這能幫助使用者評估並優化在 AMD 裝置上運行本地 LLM 的效能表現。",
+      "category": "工具更新",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "published": "2026-11-26T05:05:36+00:00",
+      "summary": "本文分享如何基於 Nemotron 3.5 Parse 進行開放數據處理、模型微調與加速推理。這為開發者提供了解析複雜文件與優化推理速度的實務參考範例。",
+      "category": "應用案例",
+      "importance": 3,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "How I put out a weekly newsletter on what's new in audio tech",
+      "link": "https://dev.to/audiotechnews/how-i-put-out-a-weekly-newsletter-on-whats-new-in-audio-tech-2jf9",
+      "published": "2026-11-28T04:26:01+00:00",
+      "summary": "作者分享如何每週透過固定工作流程營運音訊技術與語音 AI 電子報。適合想了解如何系統化收集與彙整特定技術新知領域的讀者參考。",
+      "category": "應用案例",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "How YAML and Ontology Can Make Data More Meaningful",
+      "link": "https://medium.com/@sharathvyas/how-yaml-and-ontology-can-make-data-more-meaningful-140a7bc913d7?source=rss------artificial_intelligence-5",
+      "published": "2026-11-28T04:26:01+00:00",
+      "summary": "探討 Neo4j 如何利用 YAML 與本體論（Ontology）構建更有意義的知識圖譜。偏向後端資料庫語意與知識結構的理論應用。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "Your Fleet Dashboard Is Lying (And It's a Data Problem)",
+      "link": "https://dev.to/asrit/your-fleet-dashboard-is-lying-and-its-a-data-problem-3c4c",
+      "published": "2026-11-28T04:19:26+00:00",
+      "summary": "分析物聯網車隊追蹤儀表板背後的資料品質與系統隱形失效問題。探討實際物聯網硬體數據與地圖呈現上的落差。",
+      "category": "社群討論",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "Grow your business capacity while keeping control with Constara",
+      "link": "https://medium.com/@markymark/grow-your-business-capacity-while-keeping-control-with-constara-067c79503a2d?source=rss------artificial_intelligence-5",
+      "published": "2026-11-28T04:18:22+00:00",
+      "summary": "介紹 Constara 自動化 Agent 服務，協助企業處理重複性的客戶服務與營運流程。展示了 AI 自動化 Agent 導入商業營運的範例。",
+      "category": "應用案例",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "AI治理從制度走向安全驗證，BSI解析ISO/IEC 27090與42119新進展，強調企業須跨部門管理AI風險",
+      "link": "https://www.ithome.com.tw/news/180834",
+      "published": "2026-11-27T09:11:11+00:00",
+      "summary": "BSI 解析 ISO/IEC 27090 與 42119 等國際 AI 安全與驗證標準，強調企業導入 AI 時需跨部門控管風險。此內容主要關注企業合規與資安管理制度。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "西班牙要求大型資料中心符合能源與水效率標準，強化AI算力基礎建設的永續監管",
+      "link": "https://www.ithome.com.tw/news/180859",
+      "published": "2026-11-27T06:11:32+00:00",
+      "summary": "西班牙政府頒布法規要求大型資料中心符合嚴格的能源與水資源效率標準方可接入電網。這反映了全球對 AI 算力基礎建設綠能與永續監管的重視。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "arXiv cs.AI",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "link": "https://arxiv.org/abs/2611.33160",
+      "published": "2026-11-27T05:00:00+00:00",
+      "summary": "論文提出「Context Scaling」概念，旨在解決 AI 系統在執行任務時因狀態資訊不匹配或缺乏環境上下文而導致的失敗。這對於改善 AI 檢索與狀態維護架構提供了理論基礎。",
+      "category": "研究論文",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "The Verge AI",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "published": "2026-11-26T09:54:40+00:00",
+      "summary": "美國 42 州檢察長聯合阻止 Character.AI 在破產程序中拍賣超過 2,100 萬名用戶的對話紀錄。此事件突顯了 AI 平台在處理用戶數據隱私與公司資產變現時的法規風險。",
+      "category": "產業動態",
+      "importance": 2,
+      "skills": []
+    },
+    {
+      "source": "Dev.to AI",
+      "title": "A Field Guide to Compressing Finance Documents",
+      "link": "https://dev.to/uglypeardata/a-field-guide-to-compressing-finance-documents-345n",
+      "published": "2026-11-28T04:23:16+00:00",
+      "summary": "說明長期保存與壓縮掃描財務文件時的工程原理與決策考量。內容著重於一般文件壓縮原則，非專屬 AI 應用技術。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "I Tried 40+ Coursera Courses — Here Are My Top 10 Recommendations for 2027 (Black Friday: 40% OFF…",
+      "link": "https://medium.com/javarevisited/i-tried-40-coursera-courses-here-are-my-top-10-recommendations-for-2027-black-friday-40-off-c1ac70835fde?source=rss------artificial_intelligence-5",
+      "published": "2026-11-28T04:18:12+00:00",
+      "summary": "作者整理並推薦 10 個適合職涯提升的 Coursera 線上認證課程。屬於一般的線上學習推廣與個人經驗分享。",
+      "category": "社群討論",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "Medium AI",
+      "title": "What If Our Future Lies in the Symbiosis of Intelligences?",
+      "link": "https://medium.com/@jessicakuijer/what-if-our-future-lies-in-the-symbiosis-of-intelligences-9eb4859623fc?source=rss------artificial_intelligence-5",
+      "published": "2026-11-28T04:04:04+00:00",
+      "summary": "文章討論人類與人工智慧共生未來的抽象哲學與觀點。內容偏向高層次概念構想，缺乏具體的工具實作與應用案例。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    },
+    {
+      "source": "iThome",
+      "title": "日本摩斯漢堡不到一個月揭露5起資安事件，皆涉及第三方服務",
+      "link": "https://www.ithome.com.tw/news/180862",
+      "published": "2026-11-27T09:11:02+00:00",
+      "summary": "日本摩斯漢堡在一個月內因第三方維運服務商受駭而發布 5 起資安事件。新聞提醒企業在整合外部系統與服務時應特別注意供應鏈資安風險。",
+      "category": "產業動態",
+      "importance": 1,
+      "skills": []
+    }
+  ]
+}
